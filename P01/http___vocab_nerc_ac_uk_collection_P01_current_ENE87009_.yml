@@ -3,7 +3,7 @@ labels:
   original: Diss_epsilon143/144Nd_<0.4/0.45um_ICPMS
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The isotope ratio of 143Nd/144Nd in a unit mass of fresh or salt water
     after removal of particles larger than 0.4 or 0.45 micron, expressed using the
@@ -12,7 +12,7 @@ labels:
     the CHUR composition.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Enrichment with respect to 143Nd/144Nd in the CHondritic Uniform Reservoir
     (CHUR) of neodymium-143 {143Nd CAS 14336-83-5} {epsilon(143)Nd} in the water body
@@ -20,5 +20,5 @@ labels:
     plasma mass spectrometry
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/ENE87009/2/

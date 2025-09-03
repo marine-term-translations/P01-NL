@@ -3,16 +3,16 @@ labels:
   original: SPMCdCont
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of cadmium {Cd CAS 7440-43-9} per unit dry weight of suspended
     particulate material >0.4/0.45um by filtration and atomic absorption spectroscopy
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CDCNAAP2/3/
