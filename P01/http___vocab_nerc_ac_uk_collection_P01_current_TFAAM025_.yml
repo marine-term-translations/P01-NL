@@ -3,17 +3,17 @@ labels:
   original: 22:5(n-3)_CalFin_adultmale
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Proportion of total fatty acids of cis-7,cis-10,cis-13,cis-16,cis-19-docosapentaenoic
     acid {clupanodonic acid} in biota {Calanus finmarchicus (ITIS: 85272: WoRMS 104464)
     [Stage: adult Sex: male]} by gas chromatography-flame ionisation detection'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/TFAAM025/2/
