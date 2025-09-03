@@ -3,16 +3,16 @@ labels:
   original: Bell_diameter
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The length of a straight line passing from side to side through the bell
     of a jellyfish identified elsewhere in the metadata.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Diameter of biological entity specified elsewhere [Subcomponent: bell]'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/BELINDDM/1/

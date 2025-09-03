@@ -3,18 +3,18 @@ labels:
   original: WetWt_BDE66_BE006648
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The wet weight concentration of the specified analyte in the specified
     organism or part thereof.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of 2,3'',4,4''-tetrabromodiphenyl ether {BDE66 CAS 187084-61-5}
     per unit wet weight of biota {Limanda limanda (ITIS: 172881: WoRMS 127139) [Sex:
     female Subcomponent: liver]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CF0017LL/1/
