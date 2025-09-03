@@ -3,7 +3,7 @@ labels:
   original: hexanoyloxyfucoxanthin-like_water>GF/F_HPLC
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The amount (mass or moles) of the specified pigment determined by HPLC
     assay of a sample collected by dissolution in acetone of the residue collected
@@ -11,12 +11,12 @@ labels:
     results from a single determination or the average of replicate determinations.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of hexanoyloxyfucoxanthin-like pigment per unit volume of
     the water body [particulate >GF/F phase] by filtration, acetone extraction and
     high performance liquid chromatography (HPLC)
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/HEXLHPP1/5/
