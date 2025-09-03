@@ -3,17 +3,17 @@ labels:
   original: Conc_U236_diss_perkg
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The amount (mass, moles or number of atoms) of the uranium isotope U-236
     that is dissolved in a unit mass of any body of fresh or salt water.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of uranium-236 {236U} per unit mass of water body [dissolved
     plus reactive particulate phase]
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/U236KG01/1/
