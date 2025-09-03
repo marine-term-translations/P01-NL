@@ -3,14 +3,14 @@ labels:
   original: MSCPICSuspGF/F_ICP-AES
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Quantity or mass of the specified analyte in particles classified as non-sinking
     in a unit volume of sample of fresh or salt water that has been retained on a
     filter.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of inorganic carbon {inorganic_C CAS 7440-44-0} {PIC} per
     unit volume of the water body [particulate non-sinking >GF/F phase] by marine
@@ -18,5 +18,5 @@ labels:
     spectroscopy
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CINGMS01/1/

@@ -3,17 +3,17 @@ labels:
   original: WaterAbs516nm_Filt<0.1um
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Absorbance of electromagnetic radiation (516nm wavelength) {light absorbance}
     in the water body [dissolved plus reactive particulate <0.1um phase] by filtration
     and spectrophotometry
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/SWLA516C/3/

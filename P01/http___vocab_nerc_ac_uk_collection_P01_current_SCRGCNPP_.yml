@@ -3,19 +3,19 @@ labels:
   original: PTC_GFF-0.8um
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Carbon/Nitrogen analysis of particulates on a GF/F filter filtering water
     previously filtered through a 0.8um pore filter. Often regarded as POC because
     acidification omitted when suspended particulate material believed to be carbonate-free.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of total carbon {total_C CAS 7440-44-0} {POC} per unit volume
     of the water body [particulate GF/F-0.8um phase] by filtration, no acidification
     and elemental analysis
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/SCRGCNPP/3/
