@@ -3,16 +3,16 @@ labels:
   original: SD_mass_C:N_18_95542
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Mass ratio standard deviation of carbon/nitrogen in biota {Nematoscelis
     megalops (ITIS: 95542: WoRMS 110695) [Sex: female]} by mass spectrometry'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CNSDXX18/1/
