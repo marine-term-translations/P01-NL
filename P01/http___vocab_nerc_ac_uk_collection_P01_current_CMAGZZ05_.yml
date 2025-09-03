@@ -3,7 +3,7 @@ labels:
   original: CorrelationMagnitudeVertical
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The magnitude of the normalised echo autocorrelation from the vertical
     beam (sometimes known as the 5th beam) of a 5-beam ADCP, after range gating of
@@ -13,11 +13,11 @@ labels:
     255 is a perfect correlation.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Correlation magnitude of acoustic signal returns from the water body by
     acoustic doppler current profiler (ADCP) vertical beam
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CMAGZZ05/1/
