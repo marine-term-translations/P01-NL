@@ -3,16 +3,16 @@ labels:
   original: PrSedByWtSiz_<2000um_BulkSed
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The weight of particles with a nominal diameter within the specified size
     range, normalised by the total sample weight of bulk sediment, after drying.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Proportion by dry weight of particles (<2000um) in the sediment
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/PRSD0228/2/
