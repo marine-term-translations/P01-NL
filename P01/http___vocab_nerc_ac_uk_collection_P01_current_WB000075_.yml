@@ -3,18 +3,18 @@ labels:
   original: LNC_pDDE_BE007881
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The concentration of the specified analyte in the specified organism or
     part thereof divided by the concentration of extractable lipids in the same sample.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of 4,4''-dichlorodiphenyldichloroethylene {p,p''-DDE CAS
     72-55-9} per unit mass of lipids in the biota {Tursiops truncatus (ITIS: 180426:
     WoRMS 137111) [Sex: female Subcomponent: kidney]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/WB000075/2/

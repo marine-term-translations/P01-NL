@@ -3,19 +3,19 @@ labels:
   original: Conc_Cd_water_>20um
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The amount (mass or mole) in a unit volume of any fresh of salt water
     body of the specified element extracted by total strong acid dissolution from
     suspended particles retained by a 20um filter.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of cadmium {Cd CAS 7440-43-9} per unit volume of the water
     body [particulate >20um phase] by filtration, acid digestion and inductively-coupled
     plasma mass spectrometry
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CCA20044/1/
