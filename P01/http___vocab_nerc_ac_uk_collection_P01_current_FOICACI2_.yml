@@ -3,18 +3,18 @@ labels:
   original: WetWt_14277-97-5_BE010320
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The wet weight concentration of the specified analyte in the specified
     organism or part thereof.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of domoic acid {CAS 14277-97-5} per unit wet weight of
     biota {Pecten maximus (ITIS: 79683: WoRMS 140712) [Subcomponent: muscle tissues
     and gonads]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/FOICACI2/1/
