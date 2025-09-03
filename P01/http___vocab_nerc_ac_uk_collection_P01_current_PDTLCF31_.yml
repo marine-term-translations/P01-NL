@@ -3,18 +3,18 @@ labels:
   original: LNC_pDDT_BE006605
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The concentration of the specified analyte in the specified organism or
     part thereof divided by the concentration of extractable lipids in the same sample.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of 4,4''-dichlorodiphenyltrichloroethane {p,p''-DDT CAS
     50-29-3} per unit mass of lipids in the biota {Gadus morhua (ITIS: 164712: WoRMS
     126436) [Subcomponent: muscle tissue]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/PDTLCF31/9/
