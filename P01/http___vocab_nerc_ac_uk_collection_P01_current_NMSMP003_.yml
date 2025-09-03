@@ -3,17 +3,17 @@ labels:
   original: Numb_BE007129
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The number of specimens of the specified organism in the sample or subsample
     that was analysed.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Count (in assayed sample) of Hediste diversicolor (ITIS: 65991: WoRMS
     152302)'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/NMSMP003/1/
