@@ -3,16 +3,16 @@ labels:
   original: d13C_38_95148
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Enrichment of carbon-13 {13C CAS 14762-74-4} {delta(13)C} in biota {Parathemisto
     (ITIS: 95148: WoRMS 147082) [Size: small]} by mass spectrometry'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/D13CWC38/4/
