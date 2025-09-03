@@ -3,18 +3,18 @@ labels:
   original: chl-a_water>0.2um_fluor
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Fluorometric assay of acetone extract from particulates collected on a
     0.2um pore filter.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of chlorophyll-a {chl-a CAS 479-61-8} per unit volume of
     the water body [particulate >0.2um phase] by filtration, acetone extraction and
     fluorometry
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CPHLFLP5/3/
