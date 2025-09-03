@@ -3,16 +3,16 @@ labels:
   original: ChlbCont
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of chlorophyll-b {chl-b CAS 519-62-0} per unit dry weight
     of sediment by acetone extraction and high performance liquid chromatography (HPLC)
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CHBCHPXT/2/

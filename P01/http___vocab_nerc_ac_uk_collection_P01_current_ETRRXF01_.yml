@@ -3,18 +3,18 @@ labels:
   original: rETR_STFRR_water
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The relative rate of electron transfer through photosystem II determined
     in natural samples of fresh or salt water using single-turnover fast repetition
     rate fluorometry techniques.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Relative photosynthetic electron transport rate {rETR} in the water body
     by single turnover fast repetition rate (FRR) fluorometry
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/ETRRXF01/1/
