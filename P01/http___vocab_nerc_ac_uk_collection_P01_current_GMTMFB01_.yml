@@ -3,16 +3,16 @@ labels:
   original: 2nd_Neg_Spec_Moment
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Fourier analysis on shipborne wave recorder data
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Second negative spectral moment of waves on the water body by shipborne
     wave recorder
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/GMTMFB01/2/
