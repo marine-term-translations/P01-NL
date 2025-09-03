@@ -3,18 +3,18 @@ labels:
   original: DryWtalpha-HCH_BE007131
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The dry weight concentration of the specified analyte in the specified
     organism or part thereof.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of alpha-hexachlorocyclohexane {alpha-HCH CAS 319-84-6}
     per unit dry weight of biota {Mya arenaria (ITIS: 81692: WoRMS 140430) [Subcomponent:
     flesh]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/D2930356/1/
