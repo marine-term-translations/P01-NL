@@ -3,18 +3,18 @@ labels:
   original: PartCa>0.8um
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The amount (mass or quantity) of elemental calcium contained in a unit
     volume of any salt or fresh water body in particles retained on a 0.8um filter.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of calcium {Ca CAS 7440-70-2} per unit volume of the water
     body [particulate >0.8um phase] by filtration and inductively-coupled plasma atomic
     emission spectroscopy
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CAXXXFP3/2/
