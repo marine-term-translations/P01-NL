@@ -3,18 +3,18 @@ labels:
   original: WetWt_BDE66_MU_BE007569
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The wet weight concentration of the specified analyte in the specified
     organism or part thereof.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of 2,3'',4,4''-tetrabromodiphenyl ether {BDE66 CAS 187084-61-5}
     per unit wet weight of biota {Raja brachyura (ITIS: 160880: WoRMS 367297) [Subcomponent:
     muscle tissue]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/IC221088/1/
