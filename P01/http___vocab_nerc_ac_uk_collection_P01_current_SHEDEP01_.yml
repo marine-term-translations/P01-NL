@@ -3,7 +3,7 @@ labels:
   original: Shell_depth
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: A morphometric measurement used for Molluscs and defined as the greatest
     measurement at right angles to the plane of the length and width of the hard outer
@@ -11,10 +11,10 @@ labels:
     any appendages that may extend outside of the shell.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Depth of biological entity specified elsewhere [Subcomponent: shell]'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/SHEDEP01/2/
