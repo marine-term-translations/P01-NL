@@ -3,18 +3,18 @@ labels:
   original: SL_RAD_radar2
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Elevation of the sea surface relative to mean sea level datum, defined
     as sea level at a given location averaged over an unspecified long period of time,
     measured by a second radar water level recorder.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Surface elevation relative to Mean Sea Level datum of the water body by
     radar water level recorder (second sensor)
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/ASLVRAD2/1/

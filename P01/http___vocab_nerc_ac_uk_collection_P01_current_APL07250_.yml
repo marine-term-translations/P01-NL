@@ -3,18 +3,18 @@ labels:
   original: Ab_SEM_BE007250
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Counts of a given biological entity using scanning electron microscopy
     normalised to a specified volume of fresh or salt water
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Abundance of Pleurochrysis carterae var. carterae (WoRMS 816213) per unit
     volume of the water body by identification and counting by scanning electron microscopy
     (SEM)
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/APL07250/1/
