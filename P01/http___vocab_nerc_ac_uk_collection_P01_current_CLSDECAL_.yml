@@ -3,18 +3,18 @@ labels:
   original: Omega(calcite)_SD_bioassay_computed
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Carbonate system parameter calculated from two of pCO2, DIC, TA and pH
     that have been directly measured in a sample collected from an experimental water
     sample.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Saturation state standard deviation of calcite {CCaO3 CAS 13397-26-7}
     in the experiment water sample by computation
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CLSDECAL/3/

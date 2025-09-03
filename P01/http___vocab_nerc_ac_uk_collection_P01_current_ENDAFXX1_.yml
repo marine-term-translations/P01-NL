@@ -3,18 +3,18 @@ labels:
   original: Diss_CAS72-20-8_Filt
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Concentration (mass or moles) of the analyte contained in a unit volume
     of a sample of any body of fresh or salt water that has been filtered using an
     unspecified type of filter.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of endrin {CAS 72-20-8} per unit volume of the water body
     [dissolved plus reactive particulate <unknown phase]
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/ENDAFXX1/1/

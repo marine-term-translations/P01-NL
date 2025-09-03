@@ -3,17 +3,17 @@ labels:
   original: NCUpt_light
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Uptake rate of carbon {C} {primary production} per hour per unit volume
     of the water body [particulate >unknown phase] by 14CO3 doping, incubation at
     100uE/m2/s, acidification, scintillant addition and scintillation counting
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/SNCULIGC/5/
