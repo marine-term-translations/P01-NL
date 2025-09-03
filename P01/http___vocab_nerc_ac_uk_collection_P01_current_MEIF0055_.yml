@@ -3,16 +3,16 @@ labels:
   original: AbundSqm_BE006840
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Abundance of Comesoma (ITIS: 61138: WoRMS 2426) per unit area of the
     bed by sieving and picking under an optical microscope'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/MEIF0055/2/
