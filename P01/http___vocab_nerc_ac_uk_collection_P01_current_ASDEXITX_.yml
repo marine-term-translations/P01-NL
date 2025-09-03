@@ -3,12 +3,12 @@ labels:
   original: NH4_ox_SD_bioassay
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Oxidation rate standard deviation (hourly) of ammonium {NH4+ CAS 14798-03-9}
     {nitrification rate} per unit time per unit volume of the experiment water sample
@@ -17,5 +17,5 @@ labels:
     mass spectrometry and calculated using the Blackburn and Caperon Model
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/ASDEXITX/4/

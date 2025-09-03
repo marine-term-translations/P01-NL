@@ -3,18 +3,18 @@ labels:
   original: WetWt32598-13-3_BE006620
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The wet weight concentration of the specified analyte in the specified
     organism or part thereof.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of 3,3'',4,4''-tetrachlorobiphenyl {PCB77 CAS 32598-13-3}
     per unit wet weight of biota {Clupea harengus (ITIS: 161722: WoRMS 126417) [Subcomponent:
     muscle tissue]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/FROBIPH4/1/
