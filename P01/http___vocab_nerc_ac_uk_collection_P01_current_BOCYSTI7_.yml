@@ -3,17 +3,17 @@ labels:
   original: WetWt_CAS101064-48-6_BE010321
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The wet weight concentration of the specified analyte in the specified
     organism or part thereof.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of microcystin YR {CAS 101064-48-6} per unit wet weight
     of biota {Glycymeris glycymeris (ITIS: 79429: WoRMS 140025) [Subcomponent: flesh]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/BOCYSTI7/1/
