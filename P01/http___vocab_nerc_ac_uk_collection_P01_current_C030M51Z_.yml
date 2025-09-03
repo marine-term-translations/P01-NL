@@ -3,17 +3,17 @@ labels:
   original: CarbP03051
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Biomass as carbon of Chaetoceros septentrionalis (ITIS: 2825: WoRMS 149296)
     per unit volume of the water body by optical microscopy and computation of carbon
     biomass from abundance'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/C030M51Z/2/
