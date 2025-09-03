@@ -3,18 +3,18 @@ labels:
   original: soluble_Ba_aerosol_H2O_Leaching
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The amount (mass or moles) of the specified chemical entity contained
     in aerosols within the specified size fraction isolated from a volume of atmosphere
     using the specified method.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of soluble barium {soluble_Ba CAS 7440-39-3} per unit volume
     of the atmosphere [aerosol phase] by filtration, water leaching
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/AEC134CC/1/

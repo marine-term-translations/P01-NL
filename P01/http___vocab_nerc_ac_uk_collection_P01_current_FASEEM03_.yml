@@ -3,12 +3,12 @@ labels:
   original: 15:0_seston_inc
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of pentadecanoic acid {C15:0FA pentadecylic acid CAS 1002-84-2}
     per unit volume of experiment water sample [particulate GF/F-90um phase] by parallel
@@ -16,5 +16,5 @@ labels:
     and gas chromatography-electron capture detection
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/FASEEM03/4/

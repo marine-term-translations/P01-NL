@@ -3,16 +3,16 @@ labels:
   original: PrSedByWtSiz_2800-5600um
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The weight (normalised by total sample weight) of sediment sample particles
     with a nominal diameter between 2800 and 5600 microns
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Proportion by dry weight of particles (2800-5600um) in the sediment
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/PRPCL473/2/
