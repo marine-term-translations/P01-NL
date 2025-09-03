@@ -3,18 +3,18 @@ labels:
   original: LNC_HCHG_MU_BE006632
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The concentration of the specified analyte in the specified organism or
     part thereof divided by the concentration of extractable lipids in the same sample.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of gamma-hexachlorocyclohexane {lindane gamma-HCH CAS 58-89-9}
     per unit mass of lipids in the biota {Pleuronectes platessa (ITIS: 172902: WoRMS
     127143) [Subcomponent: muscle tissue]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/IC220069/1/

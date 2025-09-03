@@ -3,18 +3,18 @@ labels:
   original: DryWt_CAS37680-69-6_BE007595
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The amount (mass or number of moles) of the specified analyte per unit
     weight of the specified organism or part thereof after water has been removed.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of 3,3'',4-trichlorobiphenyl {PCB35 CAS 37680-69-6} per
     unit dry weight of biota {Squalus acanthias (ITIS: 160617: WoRMS 105923) [Subcomponent:
     muscle tissue]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/C104WSD2/1/
