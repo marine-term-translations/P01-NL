@@ -3,17 +3,17 @@ labels:
   original: total_Zn_aerosol_ERR
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The estimated uncertainty or 'error' associated with the specified measurement.
     The method used to estimate uncertainty should be described in the usage metadata.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration uncertainty of zinc {Zn CAS 7440-66-6} per unit volume of
     the atmosphere [aerosol phase]
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CZI88106/1/

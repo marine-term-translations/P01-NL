@@ -3,17 +3,17 @@ labels:
   original: Es700_s
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Cosine-collector radiometer. Code with leading digit to be AVOIDED as
     it upsets NetCDF conventions.  Use available alternative with identical full_title.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Downwelling vector irradiance as energy (700nm wavelength) in the atmosphere
     by cosine-collector radiometer and smoothed
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/700ERSSD/2/
