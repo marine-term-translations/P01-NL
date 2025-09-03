@@ -3,18 +3,18 @@ labels:
   original: P490A00A_SD
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The square root of the average of the squares of deviations about the
     mean of a set of values of the specified measurement.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Abundance standard deviation of Prymnesiophyceae (ITIS: 2135: WoRMS 115057)
     [Size: 5-8um Subgroup: coccolithophores] per unit volume of the water body by
     flow cytometry'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/P490A0SD/4/
