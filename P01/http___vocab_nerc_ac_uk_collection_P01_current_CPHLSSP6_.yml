@@ -3,14 +3,14 @@ labels:
   original: JHSpec_Chl-a_>GFF
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Sum of extracted chlorophyll measurements on each filter of a filter cascade
     down to a GF/F filter. Each measurement was a spectrophotometric assay of an acetone
     extract following the Jeffrey and Humphrey protocols.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of chlorophyll-a {chl-a CAS 479-61-8} per unit volume of
     the water body [particulate >GF/F phase] by filtration, acetone extraction and
@@ -18,5 +18,5 @@ labels:
     summation of size-fractionated values
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CPHLSSP6/3/

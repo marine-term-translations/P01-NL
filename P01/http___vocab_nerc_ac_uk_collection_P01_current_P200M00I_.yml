@@ -3,7 +3,7 @@ labels:
   original: P20000I
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: This code was updated on 18-feb-2016 so that the name Dinoflagellates
     is used instead of Pyrrophycophyta in the preferred label field. The vernacular
@@ -12,11 +12,11 @@ labels:
     synonyms.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Abundance of Dinoflagellates (ITIS: 9873: WoRMS 19542) [Size: <15um]
     per unit volume of the water body by optical microscopy'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/P200M00I/4/
