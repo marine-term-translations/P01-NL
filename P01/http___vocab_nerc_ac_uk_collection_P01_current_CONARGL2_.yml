@@ -3,17 +3,17 @@ labels:
   original: arginine(sol_hydro_L-iso)_air>GF/F_HPLC
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of L-arginine (water soluble and hydrolysable) {CAS 74-79-3}
     per unit volume of the atmosphere [aerosol >GF/F phase] by filtration, water leaching,
     acid hydrolysis of the leachate and high performance liquid chromatography (HPLC)
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CONARGL2/3/

@@ -3,13 +3,13 @@ labels:
   original: PigAbs444
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Diff. of spectrophotometric spectra on GF/F filterered material pre and
     post methanol extraction
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Absorbance of electromagnetic radiation (444nm wavelength) {light absorbance}
     by the suspended particulate material >GF/F [pigment phase] by filtration and
@@ -17,5 +17,5 @@ labels:
     differencing of the measurements
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/PIGA444A/2/

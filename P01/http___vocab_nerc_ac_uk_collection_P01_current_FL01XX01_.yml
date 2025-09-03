@@ -3,7 +3,7 @@ labels:
   original: Fork_length
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: A standard body length measurement used in fish biometric studies for
     fishes with forked tails and taken as the distance measured from the tip of the
@@ -12,10 +12,10 @@ labels:
     schema.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Length (fork length) of biological entity specified elsewhere
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/FL01XX01/5/

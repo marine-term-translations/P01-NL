@@ -3,12 +3,12 @@ labels:
   original: LNC_pDDT_BE006406
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of 4,4''-dichlorodiphenyltrichloroethane {p,p''-DDT CAS
     50-29-3} per unit mass of lipids in the biota {Halichoerus grypus (ITIS: 180653:
@@ -17,5 +17,5 @@ labels:
     normalisation (wet weight cct/lipid proportion) and weaning correction'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CBLDDTPP/5/
