@@ -3,17 +3,17 @@ labels:
   original: C230M14Z
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Biomass as carbon of Gyrodinium fusiforme (ITIS: 10088: WoRMS 109856)
     per unit volume of the water body by optical microscopy and computation of carbon
     biomass from abundance'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/C230M14Z/2/

@@ -3,16 +3,16 @@ labels:
   original: WetWt_oDDE_BE006625
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of 2,4''-dichlorodiphenyldichloroethylene {o,p''-DDE CAS
     3424-82-6} per unit wet weight of biota {Fucus (ITIS: 11334: WoRMS 144129)}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/ODDWCF02/7/
