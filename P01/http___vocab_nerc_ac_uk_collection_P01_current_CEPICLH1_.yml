@@ -3,17 +3,17 @@ labels:
   original: Diss_106-89-8_Unfilt
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The amount (quantity or mass) of the specified analyte measured in a specified
     volume of an unfiltered sample from any body of fresh or salt water.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of epichlorohydrin {CAS 106-89-8} per unit volume of the
     water body [dissolved plus reactive particulate phase]
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CEPICLH1/1/
