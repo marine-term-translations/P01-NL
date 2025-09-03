@@ -3,18 +3,18 @@ labels:
   original: WetWt_TDEPP_MU_BE009728
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The wet weight concentration of the specified analyte in the specified
     organism or part thereof.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of 4,4''-dichlorodiphenyldichloroethane {p,p''-DDD CAS
     72-54-8} per unit wet weight of biota {Trachurus trachurus (WoRMS 126822) [Subcomponent:
     muscle tissue]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/IC220746/1/
