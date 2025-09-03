@@ -3,16 +3,16 @@ labels:
   original: NO3_Cal_Fit_Err
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: An expression of the goodness of fit of the least squares regression of
     the meaured NO3 absorption spectrum against the calibration spectrum.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Calibration fit error of nitrate {NO3- CAS 14797-55-8} in the water body
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/NTFEZZ01/2/
