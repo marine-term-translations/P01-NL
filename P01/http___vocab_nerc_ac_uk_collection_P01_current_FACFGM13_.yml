@@ -3,17 +3,17 @@ labels:
   original: 18:1(n-7)_CalFinE_inc
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Mass of cis-11-octadecenoic acid {CAS 506-17-2} per individual specimen
     of biota {Calanus finmarchicus (ITIS: 85272: WoRMS 104464) [Stage: eggs]} by gas
     chromatography-electron capture detection'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/FACFGM13/3/

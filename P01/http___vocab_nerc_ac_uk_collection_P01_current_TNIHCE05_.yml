@@ -3,7 +3,7 @@ labels:
   original: EchoIntensity_Vertical_(ADCP)
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The backscattering strength of a returning acoustic signal transmitted
     by the vertical beam (sometimes known as the 5th beam) of a 5-beam ADCP. It is
@@ -11,11 +11,11 @@ labels:
     in the water body as well as the acoustic frequency of the ADCP.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Echo intensity of acoustic signal returns from the water body by acoustic
     doppler current profiler (ADCP) vertical beam
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/TNIHCE05/1/

@@ -3,7 +3,7 @@ labels:
   original: Conc_SPM_1-500um_NRT
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Estimate of the total particle volume concentration in the particle sizer's
     size range of 1 to 500 micron, using near real-time processing methods. These
@@ -12,12 +12,12 @@ labels:
     water conditions.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of suspended particulate material {SPM} per unit volume
     of the water body [particulate 1-500um phase] by particle sizer and processing
     in near real-time
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/RVCTIRG2/1/

@@ -3,18 +3,18 @@ labels:
   original: SDAtPartTMA
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The square root of the average of the squares of deviations about the
     mean of a set of values of the specified measurement.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration standard deviation of trimethylamine {CAS 75-50-3} per unit
     volume of the atmosphere [aerosol phase] by filtration with Teflon filter and
     flow-injection gas diffusion
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/DTMAFIPT/3/
