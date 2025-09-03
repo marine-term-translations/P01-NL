@@ -3,12 +3,12 @@ labels:
   original: arachidonic_acid_BE006323
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Mass of cis-5,cis-8,cis-11,cis-14-eicosatetraenoic acid {arachidonic
     acid C20:4FA cis 5,8,11,1 CAS 506-32-1} per individual specimen of biota {Calanus
@@ -16,5 +16,5 @@ labels:
     capture detection'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/FACFEM21/5/

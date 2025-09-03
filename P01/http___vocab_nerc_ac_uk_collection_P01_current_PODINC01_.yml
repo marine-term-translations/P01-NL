@@ -3,17 +3,17 @@ labels:
   original: POD_<0.1um
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Photochemical oxygen demand {POD} per unit time per unit volume of the
     water body [dissolved plus reactive particulate <0.1um phase] by filtration, light
     and dark bottle incubation
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/PODINC01/1/
