@@ -3,16 +3,16 @@ labels:
   original: PrByDrWt_1000-1600um
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The dry mass of particles in the specified size range over the total dry
     mass of an unsieved sediment sample.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Proportion by dry weight of particles (1000-1600um) in the sediment
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/NA2GP117/1/

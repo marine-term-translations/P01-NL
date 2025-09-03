@@ -3,17 +3,17 @@ labels:
   original: Track_length
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The distance travelled by a biological entity over a period of observation
     or recording; it is typically measured by tracking devices and is normally paired
     with track duration.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Track length of biological entity specified elsewhere
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/TL02XX01/1/
