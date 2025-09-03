@@ -3,17 +3,17 @@ labels:
   original: TarsusLength
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The length of the part of the leg below the thigh (tarsus) of bird specimens
     identified elsewhere in the data or metadata. Tarsus length is typically measured
     from the inner bend of the tibiotarsal articulation to the base of the toes.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Length of biological entity specified elsewhere [Subcomponent: tarsus]'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/SPTLXX01/3/

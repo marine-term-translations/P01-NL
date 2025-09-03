@@ -3,16 +3,16 @@ labels:
   original: CB153_CS_SED20_D
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of 2,2',4,4',5,5'-hexachlorobiphenyl {PCB153 CAS 35065-27-1}
     per unit dry weight of sediment <20um
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/IC000031/1/
