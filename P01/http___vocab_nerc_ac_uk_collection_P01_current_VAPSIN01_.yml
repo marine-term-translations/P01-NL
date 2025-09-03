@@ -3,18 +3,18 @@ labels:
   original: PartV_>51um
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The amount (mass or moles) of the specified analyte in a unit volume of
     any kind of water body and extracted from particles retained by a 51 micron mesh
     screen (defined as 'sinking').
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of vanadium {V CAS 7440-62-2} per unit volume of the water
     body [particulate >51um phase]
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/VAPSIN01/4/
