@@ -3,16 +3,16 @@ labels:
   original: Z316M00Z_1000-2000um
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Abundance of Calocalanus (ITIS: 85333: WoRMS 104193) [Size: 1000-2000um]
     per unit volume of the water body by size fractionation and optical microscopy'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/Z316X00B/3/
