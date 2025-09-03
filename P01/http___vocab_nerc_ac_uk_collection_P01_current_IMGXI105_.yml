@@ -3,16 +3,16 @@ labels:
   original: Abund_BE006255
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Abundance of Ophiuroidea (ITIS: 157325: WoRMS 123084) [Size: diameter
     10cm Colour: white] per unit area of the bed by image analysis'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/IMGXI105/1/

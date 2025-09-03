@@ -3,16 +3,16 @@ labels:
   original: ProLenCalFinC5
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Length (prosome) of Calanus finmarchicus (ITIS: 85272: WoRMS 104464)
     [Stage: copepodites C5] by optical microscopy'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/BLENCFC5/3/
