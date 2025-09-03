@@ -3,18 +3,18 @@ labels:
   original: WetWt_BD154_LI_BE008505
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The wet weight concentration of the specified analyte in the specified
     organism or part thereof.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of 2,2'',4,4'',5,6''-hexabromodiphenyl ether {BDE154 CAS
     207122-15-4} per unit wet weight of biota {Cepphus grylle (ITIS: 176985: WoRMS
     137130) [Subcomponent: liver]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/IC002751/1/
