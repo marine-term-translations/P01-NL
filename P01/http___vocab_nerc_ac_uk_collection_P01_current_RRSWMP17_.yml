@@ -3,19 +3,20 @@ labels:
   original: Rrs_645nm_model
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
-  original: The water-leaving radiance at the specified wavelength, Lw(λ), corrected
-    for bidirectional effects of the air-sea interface and sub-surface light field,
-    and normalised by downwelling solar irradiance, Ed(λ), just above the sea surface
-    (Franz, NASA Goddard Space Flight Center), as predicted by a numerical model.
+  original: "The water-leaving radiance at the specified wavelength, Lw(\u03BB), corrected\
+    \ for bidirectional effects of the air-sea interface and sub-surface light field,\
+    \ and normalised by downwelling solar irradiance, Ed(\u03BB), just above the sea\
+    \ surface (Franz, NASA Goddard Space Flight Center), as predicted by a numerical\
+    \ model."
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Remote sensing reflectance of electromagnetic radiation (645nm wavelength)
     {Rrs} from the water body by model prediction
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/RRSWMP17/1/
