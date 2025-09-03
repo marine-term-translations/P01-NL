@@ -3,16 +3,16 @@ labels:
   original: U-ThAge_stal_ICPLP
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: U-Th age of the stalagmite by ion-exchange chromatography and U-Th mass
     spectrometry using 229Th-236U spike standard and linear model prediction
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/STAGAL1X/1/
