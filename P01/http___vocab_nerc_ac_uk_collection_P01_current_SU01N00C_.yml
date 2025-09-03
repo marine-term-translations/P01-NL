@@ -3,17 +3,17 @@ labels:
   original: Zoopl_N_200-500_SD
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Elemental analysis (C/N analyser) of size-fractionated mesozooplankton
     sample
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Nitrogen biomass standard deviation of zooplankton [Size: 200-500um]
     per unit volume of the water body by size fractionation and optical microscopy'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/SU01N00C/1/
