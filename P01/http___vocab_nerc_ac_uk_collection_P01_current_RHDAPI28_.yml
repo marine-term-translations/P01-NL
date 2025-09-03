@@ -3,12 +3,12 @@ labels:
   original: RHDAPI28
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Relative hybridisation with Gammaproteobacteria probe (GAM42a) standard
     deviation of Bacteria (ITIS: 202421: WoRMS 6) [Subgroup: low nucleic acid cell
@@ -18,5 +18,5 @@ labels:
     to total bacteria'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/RHDAPI28/1/
