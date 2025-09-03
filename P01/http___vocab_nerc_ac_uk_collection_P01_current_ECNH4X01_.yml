@@ -3,18 +3,18 @@ labels:
   original: SEAtPartNH4
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The standard error of the mean (defined as the standard deviation divided
     by the square root of the sample size) of multiple determinations of the specified
     phenomenon.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration standard error of ammonium {NH4+ CAS 14798-03-9} per unit
     volume of the atmosphere [aerosol phase] by filtration and ion chromatography
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/ECNH4X01/5/
