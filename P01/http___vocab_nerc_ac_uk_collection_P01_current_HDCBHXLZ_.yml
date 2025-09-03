@@ -3,17 +3,17 @@ labels:
   original: WetWt_CAS118-74-1_BE006333
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of hexachlorobenzene {HCB CAS 118-74-1} per unit wet weight
     of biota {Limanda limanda (ITIS: 172881: WoRMS 127139) [Sex: female Size: length
     200-249mm Subcomponent: muscle tissue]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/HDCBHXLZ/3/
