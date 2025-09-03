@@ -3,18 +3,18 @@ labels:
   original: P_sal_TC_s2
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: This is an alternative term for this definition. Only use in cases where
     there are multiple identical sensors in a data set handled as a series of 1-D
     arrays
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Practical salinity of the water body by in-situ conductivity cell (second
     sensor) and computation using UNESCO 1983 algorithm
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/PSALTC02/3/

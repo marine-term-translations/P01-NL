@@ -3,17 +3,17 @@ labels:
   original: DryWt_CAS53-70-3_BE008962
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The dry weight concentration of the specified analyte in the specified
     organism or part thereof.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of dibenzo(a,h)anthracene {CAS 53-70-3} per unit dry weight
     of biota {Chamelea gallina (ITIS: 205649: WoRMS 141907) [Subcomponent: flesh]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CMAHXX17/1/
