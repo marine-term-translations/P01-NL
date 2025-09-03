@@ -3,16 +3,16 @@ labels:
   original: SEE.huxGrCoeff+Nuts
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Dilution experiment (shipboard incubation with nutrients)
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Growth coefficient standard error of Emiliania huxleyi (ITIS: 2251: WoRMS
     115104) in the water body by on-deck incubation with nutrients and optical microscopy'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/PHGEDNEH/1/

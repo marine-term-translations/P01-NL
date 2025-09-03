@@ -3,16 +3,16 @@ labels:
   original: Z600M01Z_>2000um
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Size fractionation followed by optical microscopy.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Abundance of Cnidaria (ITIS: 48738: WoRMS 1267) [Stage: medusae Size:
     >2000um] per unit volume of the water body by size fractionation and optical microscopy'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/Z600X01A/1/
