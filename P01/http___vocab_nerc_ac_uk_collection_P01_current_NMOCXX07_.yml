@@ -3,18 +3,18 @@ labels:
   original: DryWt_CAS57117-44-9_BE008941
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The dry weight concentration of the specified analyte in the specified
     organism or part thereof.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of 1,2,3,6,7,8-hexachlorodibenzofuran {1,2,3,6,7,8-hexaCDF
     CAS 57117-44-9} per unit dry weight of biota {Sparus aurata (ITIS: 647901: WoRMS
     151523) [Subcomponent: muscle tissue Subgroup: 2-year old]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/NMOCXX07/1/
