@@ -3,17 +3,17 @@ labels:
   original: DryWtCAS90-12-0_BE001574
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The concentration of the specified analyte in a dried sample of the of
     the specified organism or part thereof.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of 1-methylnaphthalene {CAS 90-12-0} per unit dry weight
     of biota {Crangon crangon (ITIS: 97118: WoRMS 107552)}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/VZJ01001/1/
