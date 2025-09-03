@@ -3,17 +3,17 @@ labels:
   original: ZBVV0248
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Ash-free dry weight biomass of Chaoborus (ITIS: 125904) per unit area
     of the bed by identification by optical microscopy and gravimetric determination
     of loss on ignition'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/ZBVV0248/2/
