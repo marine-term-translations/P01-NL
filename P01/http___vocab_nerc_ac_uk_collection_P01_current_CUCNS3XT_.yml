@@ -3,14 +3,14 @@ labels:
   original: Stage3BulkSedCuCont
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The amount (quantity or mass) of copper released from a subsample of bulk
     (unsieved) sediment at stage 3 of the Chester et al (1988) 6-stage sequential
     leaching protocol and analysed by atomic absorption spectroscopy.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of easily-reducible copper per unit dry weight of sediment
     by leaching with 1M sodium acetate at pH 5 + 0.25M hydroxylamine hydrochloride
@@ -18,5 +18,5 @@ labels:
     spectroscopy
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CUCNS3XT/5/

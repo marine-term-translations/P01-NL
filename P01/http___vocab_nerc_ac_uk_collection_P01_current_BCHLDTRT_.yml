@@ -3,17 +3,17 @@ labels:
   original: Bact_chl_turnover
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The rate of decay over daylight hours (dawn to dusk) of bacteriochlorophyll-a
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Turnover rate (daily) of bacteriochlorophyll-a {CAS 17499-98-8} per unit
     time in the water body by on-deck incubation at simulated in-situ light level,
     DCMU poisoning and infra-red kinetic fluorometry and exponential decay curve fitting
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/BCHLDTRT/2/

@@ -3,16 +3,16 @@ labels:
   original: EastOSGB36_Trimble5800
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Cartesian x co-ordinate of a point relative to the Ordnance Survey Great
     Britain 1936 datum measured using a Trimble 5800 GPS System
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Easting relative to OSGB36 by Trimble 5800 GPS System
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/EASTOSTR/1/
