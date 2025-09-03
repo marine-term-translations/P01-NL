@@ -3,13 +3,13 @@ labels:
   original: Int_PO4upt_>2um
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Depth integration of measurements made by isotope-doped incubation experiment
     followed by counting particulates collected on a 2um pore filter.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Uptake rate of phosphate {PO43- CAS 14265-44-2} per day per unit area
     of the water body [particulate >2um phase] by isotope-labelled tracer addition,
@@ -17,5 +17,5 @@ labels:
     integration
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/SIPUIIPB/4/
