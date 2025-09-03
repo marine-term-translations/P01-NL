@@ -3,17 +3,17 @@ labels:
   original: PropCover_BE007117
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The proportion of a given area of the seabed covered by an identified
     biological object described elsewhere in the metadata.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Proportion coverage of biological entity specified elsewhere within a
     given area of the bed
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/PCOV7736/1/
