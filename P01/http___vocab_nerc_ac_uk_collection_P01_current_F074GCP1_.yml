@@ -3,16 +3,16 @@ labels:
   original: 27:0>GF/F
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration as carbon of heptacosenoic acid per unit volume of the water
     body [particulate >GF/F phase] by filtration and gas chromatography-mass spectrometry
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/F074GCP1/2/
