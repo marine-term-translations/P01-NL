@@ -3,16 +3,16 @@ labels:
   original: 206Pb/204Pb_aerosol
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Isotope ratio of the specified elements in atmospheric aerosol particles.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Atomic ratio of lead-206/lead-204 {206Pb/204Pb} in the atmosphere [aerosol
     phase]
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/ARPBAP03/3/

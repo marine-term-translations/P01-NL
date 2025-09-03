@@ -3,16 +3,16 @@ labels:
   original: PrSedbyPS_<25um
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The volume proportion of sediment sample particles with a nominal diameter
     between zero and 25 microns
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Proportion of particles (<25um) in the sediment by particle sizer
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/PRSCPS02/2/
