@@ -3,17 +3,17 @@ labels:
   original: LNC_CS002489_BE008201
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The concentration of the specified analyte in the specified organism or
     part thereof divided by the concentration of extractable lipids in the same sample.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of endrin {CAS 72-20-8} per unit mass of lipids in the
     biota {Mytilus trossulus (ITIS: 567928: WoRMS 140482) [Subcomponent: flesh]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/LENLP020/2/
