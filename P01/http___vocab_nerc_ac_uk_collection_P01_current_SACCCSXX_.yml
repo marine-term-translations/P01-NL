@@ -3,16 +3,16 @@ labels:
   original: SiflgAcc
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Optical microscope counts combined with stratigraphy
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Accumulation rate of Silicoflagellida (ITIS: 43789: WoRMS 378496) per
     unit time per unit area of the bed by optical microscopy and stratigraphic dating'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/SACCCSXX/1/

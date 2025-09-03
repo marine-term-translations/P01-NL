@@ -3,16 +3,16 @@ labels:
   original: WavePeriodSpecMax
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The reciprocal of the frequency at which the power spectral density of
     the surface elevation is maximal determined from waverider measurements.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Period at spectral maximum of waves on the water body by waverider
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/GTPKFA01/2/
