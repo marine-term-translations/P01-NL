@@ -3,12 +3,12 @@ labels:
   original: 22:6(n-3)_CalFin_adultmale
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Proportion of total fatty acids of cis-4,cis-7,cis-10,cis-13,cis-16,cis-19-docosahexaenoic
     acid {cervonic acid C22:6FA cis 4,7,10,13, CAS 6217-54-5} in biota {Calanus finmarchicus
@@ -16,5 +16,5 @@ labels:
     ionisation detection'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/TFAAM026/3/
