@@ -3,17 +3,17 @@ labels:
   original: Conc_uncert_CH2BrCI_atmos
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The combined uncertainty associated with the specified measurement. The
     method used to estimate uncertainty should be described in the usage metadata.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration combined uncertainty of bromochloromethane {CAS 74-97-5}
     per unit volume of the atmosphere [gaseous phase] by gas chromatography-mass spectrometry
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/HLAUC002/2/

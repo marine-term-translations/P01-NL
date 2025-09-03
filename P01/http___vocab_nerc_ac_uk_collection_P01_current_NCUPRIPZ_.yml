@@ -3,19 +3,19 @@ labels:
   original: TNCupt_unspec
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Measurements made by radiotracer in-situ incubation followed by counting
     particulates collected on an unspecified sized filter. Rate normalised by dividing
     the total uptake by the incubation duration in hours.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Uptake rate of carbon {C} {primary production} per hour per unit volume
     of the water body [particulate >unknown phase] by isotope-labelled tracer addition,
     in-vitro incubation on in-situ rig, filtration and counting residue
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/NCUPRIPZ/7/

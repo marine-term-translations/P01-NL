@@ -3,17 +3,17 @@ labels:
   original: Z250M00R_200-500um
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Size fractionation and optical microscopy
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Abundance of Decapoda (ITIS: 95599: WoRMS 1130) [Stage: larvae Size:
     200-500um] per unit volume of the water body by size fractionation and optical
     microscopy'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/Z250X0RD/1/
