@@ -3,18 +3,18 @@ labels:
   original: DryWt_pDDT_BE006651
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The amount (mass or number of moles) of the specified analyte per unit
     weight of the specified organism or part thereof after water has been removed.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of 4,4''-dichlorodiphenyltrichloroethane {p,p''-DDT CAS
     50-29-3} per unit dry weight of biota {Limanda limanda (ITIS: 172881: WoRMS 127139)
     [Sex: male Subcomponent: muscle tissue]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/PDTDCF10/6/
