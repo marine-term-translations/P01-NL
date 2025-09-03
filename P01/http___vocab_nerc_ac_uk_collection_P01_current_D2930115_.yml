@@ -3,17 +3,17 @@ labels:
   original: DryWtNi_BE007328
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The dry weight concentration of the specified analyte in the specified
     organism or part thereof.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of nickel {Ni CAS 7440-02-0} per unit dry weight of biota
     {Dicentrarchus labrax (ITIS: 170317: WoRMS 126975) [Subcomponent: liver]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/D2930115/2/
