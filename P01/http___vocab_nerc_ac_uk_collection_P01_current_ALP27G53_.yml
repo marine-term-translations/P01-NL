@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Part27Al_>53um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The amount (mass, moles or number of atoms) of the observed property in
+    the specified particulate fraction.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of aluminium-27 {27Al} per unit volume of the water body
+    [particulate >53um phase]
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ALP27G53/1/

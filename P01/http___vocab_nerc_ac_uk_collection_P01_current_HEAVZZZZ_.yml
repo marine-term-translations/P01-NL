@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Heave"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The perpendicular distance from a reference point on th Earth's surface at a given instant."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Vertical displacement {heave}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/HEAVZZZZ/1/"

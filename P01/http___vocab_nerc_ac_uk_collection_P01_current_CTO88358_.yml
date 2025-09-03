@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "total_P_rainwater<0.4/0.45"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A generic code for the quantity or mass of the specified substance in rainwater normalised to one unit volume of rainwater"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of total phosphorus {total_P CAS 7723-14-0} per unit volume of rainwater [dissolved plus reactive particulate <0.4/0.45um phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CTO88358/2/"

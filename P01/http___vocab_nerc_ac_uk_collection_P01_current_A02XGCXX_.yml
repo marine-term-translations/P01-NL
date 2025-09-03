@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "C37:2AlkenoneFlux"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Particle-bound sedimentation flux of heptatriaconta-15E,22E-dien-2-one {C37:2 CAS 119650-09-8} per unit time per unit area of the water body by sediment trapping, solvent extraction and gas chromatography"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/A02XGCXX/3/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "VDSI_BE006647"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The mean of the imposex development stages observed in a population of the specified species."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Vas Deferens Sequence Index of Nucella lapillus (ITIS: 73297: WoRMS 140403)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/VDSINL01/1/"

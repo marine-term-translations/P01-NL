@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: NH4_ice_<GFF
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Amount (quantity or mass) of the specified analyte in a unit volume of
+    a melted ice sample from anywhere on the Earth's surface filtered through GF/F.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of ammonium {NH4+ CAS 14798-03-9} per unit volume of the
+    surface ice [dissolved plus reactive particulate <GF/F phase] by colorimetric
+    autoanalysis
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ICNHXX01/7/

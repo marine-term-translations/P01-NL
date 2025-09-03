@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "WaterTemp_TC02_mean"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The average temperature in the water body across multiple measurements by a second in-situ thermister."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Temperature mean of the water body by in-situ thermistor (second sensor)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/TEMPTCM2/1/"

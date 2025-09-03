@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "RHDAPI14"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Relative hybridisation with Prochlorococcus probe (405PRO) standard deviation of Bacteria (ITIS: 202421: WoRMS 6) [Subgroup: high nucleic acid cell content] by preservation, filtration, SYBR Green I staining, flow sorting and CARD-FISH with DAPI staining and epifluorescence microscopy and expressed as a proportion of DAPI-stained cells corrected for relative contribution of sub-group to total bacteria"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/RHDAPI14/1/"

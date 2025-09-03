@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "chl-a_MERIS_OC4Me_model"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Concentration of chlorophyll-a per unit volume of the water body as predicted by a numerical model of Medium Resolution Imaging Spectrometer (MERIS) output and computation using the published OC4Me algorithm."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of chlorophyll-a {chl-a CAS 479-61-8} per unit volume of the water body by model prediction of Medium Resolution Imaging Spectrometer (MERIS) output and computation using the published OC4Me algorithm"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CPHL4ME1/1/"

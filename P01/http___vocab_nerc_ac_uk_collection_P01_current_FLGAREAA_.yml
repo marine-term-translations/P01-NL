@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "FLG_average_area"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A flow cytometry parameter defined as the sum of the areas under the green fluorescence curve of individual particles belonging to a same cluster (or group) defined by a region, divided by the number of particles in the cluster."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Area mean of green fluorescence pulse per cluster from the water body by flow cytometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/FLGAREAA/1/"

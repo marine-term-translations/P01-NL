@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Epsilon_Nd>0.8um_TIMS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The isotope ratio of 143Nd/144Nd in particulate material suspended in a fresh or salt water body and retained by a 0.8 micron filter, expressed using the epsilon notation defined as Epsilon(Nd) = ( ( ([143Nd/144Nd]sample / [143Nd/144Nd]CHUR)-1 ) x 10000 ). One epsilon unit represents a one part per 10,000 deviation from the CHUR composition."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to 143Nd/144Nd in the CHondritic Uniform Reservoir (CHUR) of neodymium-143 {143Nd CAS 14336-83-5} {epsilon(143)Nd} in the water body [particulate >0.8um phase] by filtration, acid digestion and thermal ionization mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ENE87001/2/"

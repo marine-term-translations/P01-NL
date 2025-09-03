@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Ca_sed_pw<0.4/0.45um_kg
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The concentration of the specified analyte in sediment pore water passed
+    through a 0.4um or 0.45um filter.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of calcium {Ca CAS 7440-70-2} per unit mass of the sediment
+    pore water [dissolved plus reactive particulate <0.4/0.45um phase]
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/NEWCXX09/2/

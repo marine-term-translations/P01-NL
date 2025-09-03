@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "AbHetNanoEukExp_FC"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Number of particles resolved by flow cytometry analysis as uncharacterised heterotrophic eukaryote cells in the nanoplankton size range normalised to a known volume of water sample used in an experiment; alternative labels include 'heterotrophic nanoflagellates' or 'aplastidic nanoeukaryotes'."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Abundance of nanoeukaryotic cells [Subgroup: heterotrophic] per unit volume of experiment water sample by flow cytometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/HNANEXPF/6/"

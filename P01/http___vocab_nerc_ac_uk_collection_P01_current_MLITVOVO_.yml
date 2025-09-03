@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Microlitter_count_water_VOR"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Number of items classified as micro-litter counted in a sample of water collected and analysed using the specified method (as used in the Volvo Ocean Race) and reported within EMODnet chemistry micro-litter defined categories."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Count of micro-litter particles in the water body by filtration, ultrasonication extraction and microfluidic flow capillary raman spectroscopy and holography and categorisation using EMODnet chemistry reporting protocol"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MLITVOVO/1/"

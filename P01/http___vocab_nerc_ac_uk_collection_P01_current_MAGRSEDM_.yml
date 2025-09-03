@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: RemMag_Sed
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The strength of magnetic field of a sediment sample after an applied magnetic
+    field has been removed.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Remanent magnetization of the sediment
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/MAGRSEDM/1/

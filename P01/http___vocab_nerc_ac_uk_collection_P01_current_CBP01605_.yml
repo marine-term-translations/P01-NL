@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "BP_AFDW_Oo_BE001605"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Crustacean growth (or secondary production) estimated by measuring chitobiase activity in a water sample and converting it to biomass production based on laboratory-derived relationships between mass gain and enzymatic activity."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Production rate (of ash-free dry weight biomass) of Crustacea (ITIS: 83677: WoRMS 1066) per unit time per unit volume of the water body by chitobiase assay and computation to ash-free dry weight biomass production according to Oosterhuis et al. (2000)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CBP01605/1/"

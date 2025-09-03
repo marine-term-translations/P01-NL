@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "A1"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Coeff. of 1st harmonic of directional dist'n from co-spectra of horiz translation"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "1st order directional energy distribution Fourier cosine coefficient of waves {A1} on the water body by waverider and computation from horizontal co-spectra translation after Kuik et al. (1988)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/GA2CFSV1/1/"

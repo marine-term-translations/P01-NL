@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "UpVelADCP_2_4"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The rate at which water flows vertically upwards in the water column, measured using the resultant horizontal and vertical velocity components from beams 2 and 4 of an acoustic doppler current profiler (ADCP). Used as an assessment of data quality when compared with the same measurements from beams 1 and 3."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Upward velocity of water current in the water body by moored acoustic doppler current profiler (ADCP) and computation using resultant velocity components from beams 2 and 4"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/LRZAAP03/1/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "fCO2"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Fugacity (partial pressure corrected for non-ideality of gases) of carbon dioxide in air that is in equilibrium with a seawater sample."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Fugacity of carbon dioxide (at 100% humidity) {fCO2 CAS 124-38-9} in the water body"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/FCO2XXXX/2/"

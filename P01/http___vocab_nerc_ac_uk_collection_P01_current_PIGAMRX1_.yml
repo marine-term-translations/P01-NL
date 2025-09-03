@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "AbsMaxRed"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Diff. of spectrophotometric spectra on GF/F filtered material pre and post bleaching"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Light absorbance (absorption maximum wavelength for red light) by the suspended particulate material >GF/F [pigment phase] by filtration and spectrophotometry on residue before and after methanol pigment extraction and differencing of the measurements"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PIGAMRX1/2/"

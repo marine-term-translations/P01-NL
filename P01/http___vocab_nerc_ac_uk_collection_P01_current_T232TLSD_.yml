@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "232Th_unfilt_ICPMS_SE"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The standard error of the mean (defined as the standard deviation divided by the square root of the sample size) of multiple determinations of the specified phenomenon."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration standard error of thorium-232 {232Th} per unit mass of the water body [dissolved plus reactive particulate phase] by acidification and inductively-coupled plasma mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/T232TLSD/3/"

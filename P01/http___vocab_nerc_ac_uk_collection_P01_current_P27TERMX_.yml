@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SpilletP27LocMOTHY"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The text location description from the P27 vocabulary for an individually tracked aliquot of a simulated pollution event by the Meteo France MOTHY model."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Description of MOTHY pollution simulation spillet location by classification to a term from the NVS P27 controlled vocabulary (SDN:P27::)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/P27TERMX/1/"

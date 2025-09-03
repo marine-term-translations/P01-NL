@@ -1,0 +1,21 @@
+labels:
+- name: altLabel
+  original: LNC_PCB95_BE006430
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of 2,2'',3,5'',6-pentachlorobiphenyl {PCB95 CAS 38379-99-6}
+    per unit mass of lipids in the biota {Halichoerus grypus (ITIS: 180653: WoRMS
+    137080) [Stage: post-weaned pup Sex: male Subcomponent: blubber Subgroup: live]}
+    by Soxhlet extraction and gas chromatography-mass spectrometry and lipid normalisation
+    (wet weight cct/lipid proportion) and weaning correction'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/Z1LCB95X/3/

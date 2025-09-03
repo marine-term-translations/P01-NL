@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "WetWtCAS2245-38-7_BE003140"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The concentration of the specified analyte in a fresh sample of the of the specified organism or part thereof."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of 2,3,5-trimethylnaphthalene {CAS 2245-38-7} per unit wet weight of biota {Liocarcinus (ITIS: 660431: WoRMS 106925)}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/VLZJ0185/1/"

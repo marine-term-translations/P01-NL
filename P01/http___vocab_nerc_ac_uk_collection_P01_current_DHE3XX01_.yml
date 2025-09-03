@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "d3He_Unfilt"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A generic term for the isotopic enrichment of helium-3 (3He) expressed as the delta-3He value in any unfiltered body of fresh or salt water."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment of helium-3 {3He CAS 14762-55-1} in the water body [dissolved plus reactive particulate phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DHE3XX01/5/"

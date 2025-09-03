@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "TidalCorrCurrVelNorth_ADCP"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The rate of the movement of water averaged over a period of time to remove rapid variations in water flow and corrected for the influence of tides."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Northward velocity of water current (residual) in the water body by moored acoustic doppler current profiler (ADCP) and subtraction of value predicted by tidal analysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NTIBT002/1/"

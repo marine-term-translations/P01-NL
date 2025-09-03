@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: CAS638-53-9_>GF/F_GCFI
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration as carbon of tridecanoic acid {C13:0FA tridecylic acid CAS
+    638-53-9} per unit volume of the water body [particulate >GF/F phase] by filtration,
+    methanol extraction and gas chromatography-flame ionisation detection
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/F004GCP4/2/

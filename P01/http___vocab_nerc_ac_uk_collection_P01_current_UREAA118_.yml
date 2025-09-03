@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Conc_UreaA_118_0.2-3um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (mass or moles) of the specified analyte extracted from suspended particles passing through a 3 micron filter but retained by a 0.2 micron filter and normalised to a unit volume of the water body."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of urease subunit alpha UreC [Sequence: IPEDIAFAESR; Organism: Prochlorococcus] per unit volume of the water body [particulate 0.2-3um phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/UREAA118/1/"

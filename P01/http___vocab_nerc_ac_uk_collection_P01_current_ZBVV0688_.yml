@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: ZBVV0688
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Ash-free dry weight biomass of Heteroptera (ITIS: 103358: WoRMS 151134)
+    per unit area of the bed by identification by optical microscopy and gravimetric
+    determination of loss on ignition'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ZBVV0688/1/

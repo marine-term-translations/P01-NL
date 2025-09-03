@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Conc_CAS60145-20-2_drysed"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The quantity or mass of the specified analyte contained in a sample of unsieved sediment normalised to a unit of dry weight."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of 2,2’,3,3’,5-pentachlorobiphenyl {PCB83 CAS 60145-20-2} per unit dry weight of sediment"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PCBSD218/1/"

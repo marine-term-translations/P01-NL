@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "chl-a_water>0.2um_fluor_sum_frac_depthinteg"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Profile integration of the sum of extracted chlorophyll measurements on each filter of a filter cascade down to a 0.2um pore filter. Each measurement was a fluorometric assay of acetone extract."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of chlorophyll-a {chl-a CAS 479-61-8} per unit area of the water body [particulate >0.2um phase] by filtration, acetone extraction and fluorometry and summation of size-fractionated values and profile integration"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/INCAFLP4/3/"

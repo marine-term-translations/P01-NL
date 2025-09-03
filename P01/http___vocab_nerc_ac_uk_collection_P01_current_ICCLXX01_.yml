@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Conc_Cl_ice
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of chloride {Cl- CAS 16887-00-6} per unit volume of the
+    surface ice by melting of core section and ion chromatography
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ICCLXX01/3/

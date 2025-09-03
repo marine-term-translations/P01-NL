@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "CaveCO2Conc"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The volume of carbon dioxide gas per unit volume of the atmosphere in a natural or man-made underground space measured in-situ by a portable gas analyzer."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of carbon dioxide {CO2 CAS 124-38-9} per unit volume of cave atmosphere by carbon dioxide probe"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ACO2CV01/3/"

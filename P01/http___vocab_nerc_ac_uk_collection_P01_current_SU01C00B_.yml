@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Zoopl_C_500-1000_SD"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Elemental analysis (C/N analyser) of size-fractionated mesozooplankton sample"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Biomass as carbon standard deviation of zooplankton [Size: 500-1000um] per unit volume of the water body by size fractionation and optical microscopy"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SU01C00B/2/"

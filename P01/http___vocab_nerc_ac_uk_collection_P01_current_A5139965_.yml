@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Count_BE006210
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Count of Hymenaster (ITIS: 157097: WoRMS 123333) [Morphology: visible
+    interbrachial membrane] on the bed by image analysis'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/A5139965/2/

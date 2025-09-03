@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: CaCO3_GeolSamp
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Proportion of calcium carbonate {CaCO3 CAS 471-34-1} per unit dry weight
+    of geological sample
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CACO3GSA/2/

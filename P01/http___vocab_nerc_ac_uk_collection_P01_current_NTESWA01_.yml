@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Absorb_path"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The absorption of a single electromagnetic radiation measurement by a sample of any water body over the path length of a spectrophotometer."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Absorbance of electromagnetic radiation (unspecified single wavelength) {light absorbance} by the water body [dissolved plus reactive particulate phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NTESWA01/2/"

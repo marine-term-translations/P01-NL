@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Resp_14C-Leu"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The rate at which recently assimilated leucine is respired as CO2 estimated using close-to-ambient 14C-leucine tracer additions, time-course incubations, counting of activity in gas liberated using a bubbling technique, and linear regression of measured activity against time."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Respiration rate of leucine {CAS 328-39-2} per hour per unit volume of the water body [particulate >unknown phase] by 14C-leucine close-to-ambient tracer addition, incubation in the dark, acidification, purging and trapping CO2 and computation by regression against incubation time"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/LEUCRESP/1/"

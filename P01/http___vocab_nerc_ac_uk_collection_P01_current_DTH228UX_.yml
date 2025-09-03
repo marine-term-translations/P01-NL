@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "238Th<1um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The activity of dissolved thorium-228 in a sample from any body of fresh or salt water after removal of particles larger than 1um."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity of thorium-228 {228Th CAS 14274-82-9} per unit volume of the water body [dissolved plus reactive particulate <1um phase] by filtration"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DTH228UX/2/"

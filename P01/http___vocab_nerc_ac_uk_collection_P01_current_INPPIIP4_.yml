@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "IntPP_sum>0.2um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Individual measurements made by isotope-doped incubation experiment followed by counting of particulates collected on each filter of a filter cascade down to a 0.2um pore filter. Size-fractionated data summed and the sums at each depth integrated."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of carbon {C} per day per unit area of the water body [particulate >0.2um phase] by isotope-labelled tracer addition, incubation at different light levels, cascade filtration and counting residue and summation of size-fractionated values and profile integration"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/INPPIIP4/5/"

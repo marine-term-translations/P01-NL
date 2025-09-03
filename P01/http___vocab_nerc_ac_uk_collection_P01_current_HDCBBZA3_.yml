@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "WetWtCAS56-55-3_BE006338"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of benzo(a)anthracene {CAS 56-55-3} per unit wet weight of biota {Mytilus edulis (ITIS: 79454: WoRMS 140480) [Size: length 39-47mm Subcomponent: flesh]}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/HDCBBZA3/3/"

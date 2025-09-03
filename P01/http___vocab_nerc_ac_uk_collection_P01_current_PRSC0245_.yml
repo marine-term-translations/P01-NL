@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PrBioCO3SedByWtSiz_>20000um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The weight (normalised by total sample weight) of biogenic carbonate (e.g. shell fragments) sediment sample particles with a nominal diameter  greater than 20000 microns (20mm)."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Proportion by dry weight of particles (>20000um) in the sediment [biogenic carbonate phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PRSC0245/3/"

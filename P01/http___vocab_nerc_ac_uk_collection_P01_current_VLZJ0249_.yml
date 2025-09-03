@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "WetWtCAS205-82-3_BE007676"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The concentration of the specified analyte in a fresh sample of the of the specified organism or part thereof."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of benzo(j)fluoranthene {CAS 205-82-3} per unit wet weight of biota {Trachinidae (ITIS: 170989: WoRMS 125570)}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/VLZJ0249/1/"

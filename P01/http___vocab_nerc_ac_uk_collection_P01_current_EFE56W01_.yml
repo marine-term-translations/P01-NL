@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "delta_56Fe_<0.4um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The isotopic enrichment of 56Fe ([56Fe/54Fe] sample / [56Fe/54Fe] IRMM -1) x 1000) in a body of water after the removal of  particles larger than 0.4 mirons."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to 56Fe/54Fe in IRMM-14 of iron-56 {56Fe CAS 14093-02-8} {delta(56)Fe} in the water body [dissolved plus reactive particulate <0.4/0.45um phase] by filtration and inductively-coupled plasma mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/EFE56W01/6/"

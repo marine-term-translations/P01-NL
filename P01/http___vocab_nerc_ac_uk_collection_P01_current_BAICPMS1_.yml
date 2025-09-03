@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Conc_DissBa_ICPMS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The concentration of barium in a body of salt or fresh water after removal of particles larger than 0.2 microns by filtration."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of barium {Ba CAS 7440-39-3} per unit volume of the water body [dissolved plus reactive particulate <0.2um phase] by filtration, acidification and inductively-coupled plasma mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/BAICPMS1/3/"

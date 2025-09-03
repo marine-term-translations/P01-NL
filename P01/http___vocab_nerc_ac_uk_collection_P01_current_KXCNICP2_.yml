@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SPMKCont"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "ICP after acid digestion (0.4/0.45 um pore filtered)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of potassium {K CAS 7440-09-7} per unit dry weight of suspended particulate material >0.4/0.45um by acid digestion of filter residue and inductively-coupled plasma atomic emission spectroscopy"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/KXCNICP2/3/"

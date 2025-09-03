@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SPMMeanGS_NRT"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Estimate of the mean grain size detected by the particle sizer, using near real-time processing methods. These are approximate quantities, not as accurate as values derived from the fully-processed particle size distribution. They are useful for a quick characterization of the water conditions."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Grain-size mean of particles in suspended particulate material by particle sizer and processing in near real-time"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MNGSRSPM/1/"

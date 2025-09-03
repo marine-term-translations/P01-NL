@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "NorthINGRS_Trimble"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Cartesian y co-ordinate of a point relative to a datum specified by the Irish National Grid CRS measured using a Trimble DGPS"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Northing relative to Irish Grid Reference System by Trimble DGPS and transformation from WGS84 to Irish National Grid Reference System"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NRTHTRIG/3/"

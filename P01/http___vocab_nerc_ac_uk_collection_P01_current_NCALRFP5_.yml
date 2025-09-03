@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Calc23uE"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Radiotracer doped constant light incubation at 23 uE/m2/s (0.2um pore filtered)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Calcification rate (hourly) per unit time per unit volume of the water body [particulate >0.2um phase] by tracer doping, incubation at 23uE/m2/s light level, filtration and counting residue and differencing results from acidified and unacidified samples"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NCALRFP5/1/"

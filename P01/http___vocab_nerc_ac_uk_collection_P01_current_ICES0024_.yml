@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "WetWt_Pb_BE007499"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (mass or moles) of the specified analyte per unit weight of a fresh sample of the specified organism or part thereof."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of lead {Pb CAS 7439-92-1} per unit wet weight of biota {Anarhichas minor (ITIS: 171342: WoRMS 126759) [Subcomponent: muscle tissue]}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ICES0024/2/"

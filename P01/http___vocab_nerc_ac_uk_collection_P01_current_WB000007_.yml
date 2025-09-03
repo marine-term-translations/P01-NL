@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "WetWt_PCBs(28+52+101+138+153+180)_BE007862"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The wet weight concentration of the specified analyte in the specified organism or part thereof."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of PCB28+PCB52+PCB101+PCB138+PCB153+PCB180 {Sum 6 PCB indicator congeners} per unit wet weight of biota {Scophthalmus maximus (ITIS: 172748: WoRMS 127149) [Sex: male Subcomponent: gonads]}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/WB000007/3/"

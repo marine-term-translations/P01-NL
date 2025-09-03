@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DryWtCAS129-00-0_BE003140"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The concentration of the specified analyte in a dried sample of the of the specified organism or part thereof."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of pyrene {CAS 129-00-0} per unit dry weight of biota {Liocarcinus (ITIS: 660431: WoRMS 106925)}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/VLZJ0361/1/"

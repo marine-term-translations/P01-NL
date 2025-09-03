@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "phaeophytin-b_DrySed_HPLC"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (mass or moles) of the specified analyte contained in unit mass of dried unsieved sediment, extracted in acetone, and analysed by high performance liquid chromatography."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of phaeophytin-b {pheophytin-b CAS 3147-18-0} per unit dry weight of sediment by acetone extraction and high performance liquid chromatography (HPLC)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/COPHSE03/2/"

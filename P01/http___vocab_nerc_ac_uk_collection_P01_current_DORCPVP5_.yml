@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DMSOcctchangerateUV"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "On-deck incubation under ultra-violet light (0.2um filtered)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration change rate of dimethylsulfoxide {DMSO CAS 67-68-5} per hour per unit volume of the water body [dissolved plus reactive particulate <0.2um phase] by filtration, incubation in ultra-violet light, enzyme reduction to DMS and gas chromatography and differencing DMSO before and after incubation"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DORCPVP5/4/"

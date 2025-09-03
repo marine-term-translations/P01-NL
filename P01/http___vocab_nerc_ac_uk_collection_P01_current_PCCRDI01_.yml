@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PropColoniesDia>7mm"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Number of colonies of the specified species with a diameter equal to or greater than the specified threshold, expressed as a proportion relative to the total number of colonies of that same species observed in the surveyed population. Generally expressed as a percentage, this is a parameter used to evaluate the conservation status of the targeted biological species and assess the impact of poaching."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Proportion of Corallium rubrum colonies (ITIS: 202513: WoRMS 125416) [Size: diameter >=7mm]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PCCRDI01/2/"

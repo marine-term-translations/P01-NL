@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "LNC_alpha+beta+gammaHCH_BE007886"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The concentration of the specified analyte in the specified organism or part thereof divided by the concentration of extractable lipids in the same sample."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of alpha-hexachlorocyclohexane+beta-hexachlorocyclohexane+gamma-hexachlorocyclohexane {alphaHCH+betaHCH+gammaHCH CAS319-84-6+CAS319-85-7+CAS58-89-9} per unit mass of lipids in the biota {Tursiops truncatus (ITIS: 180426: WoRMS 137111) [Sex: male Subcomponent: spleen]}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/WB000123/3/"

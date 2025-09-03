@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Stage2CitrDithLeachBulkSedFeCont"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (quantity or mass) of the iron in all oxidation states released from a subsample of bulk (unsieved) sediment with citrate dithionate leach following leacing with ascorbic acid to remove the more labile forms of the analyte, and analysis of the leachate by inductively-coupled plasma atomic emission spectroscopy. This sediment solid phase leach treatment releases moderately reducible crystalline oxide forms (see e.g. Raiswell et al 2010 https://doi.org/10.1016/j.chemgeo.2010.09.002)."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of moderately-reducible total iron per unit dry weight of sediment by leaching with citrate dithionite of ascorbic acid-leached sample residue and inductively-coupled plasma atomic emission spectroscopy"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/FECNS4YT/1/"

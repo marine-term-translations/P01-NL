@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "CAS15307-86-5_water<0.4/0.45um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount of the specified analyte measured in a sample of water filtered through a 0.4 or 0.45 microns filter and normalised to a unit volume of sample."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of diclofenac {CAS 15307-86-5} per unit volume of the water body [dissolved plus reactive particulate <0.4/0.45um phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PHWB0022/1/"

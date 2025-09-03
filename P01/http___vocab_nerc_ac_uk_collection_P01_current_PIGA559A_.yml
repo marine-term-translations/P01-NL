@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PigAbs559"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Diff. of spectrophotometric spectra on GF/F filterered material pre and post methanol extraction"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Absorbance of electromagnetic radiation (559nm wavelength) {light absorbance} by the suspended particulate material >GF/F [pigment phase] by filtration and spectrophotometry on residue before and after methanol pigment extraction and differencing of the measurements"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PIGA559A/2/"

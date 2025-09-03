@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: WbodyAbund_BE006755
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Cetengraulis (ITIS: 161860: WoRMS 268692) [Stage: larvae]
+    per unit volume of the water body by optical microscopy'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/WBAB6755/2/

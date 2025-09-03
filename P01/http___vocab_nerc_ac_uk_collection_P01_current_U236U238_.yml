@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: At_U236/U238_diss
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The relative abundance of atoms of uranium 236 to atoms of uranium 238
+    in any kind of fresh or salt water bodies.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Atomic ratio of uranium-236/uranium-238 {236U/238U} in the water body
+    [dissolved plus reactive particulate phase]
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/U236U238/1/

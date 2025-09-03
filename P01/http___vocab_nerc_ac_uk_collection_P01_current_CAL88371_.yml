@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Al_rainwater<0.4/0.45um_ERR
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The estimated uncertainty or 'error' associated with the specified measurement.
+    The method used to estimate uncertainty should be described in the usage metadata.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration uncertainty of aluminium {Al CAS 7429-90-5} per unit volume
+    of rainwater [dissolved plus reactive particulate <0.4/0.45um phase]
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CAL88371/2/

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Sizeclass_HELCOM_COMBINE"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Size class of an identified biological object of phytoplankton specified elsewhere in the metadata. The size class is calculated according to Olenina, I., Hajdu, S., Edler, L., Andersson, A., Wasmund, N., Busch, S., Göbel, J., Gromisz, S., Huseby, S., Huttunen, M., Jaanus, A., Kokkonen, P., Ledaine, I. and Niemkiewicz, E. 2006 Biovolumes and size-classes of phytoplankton in the Baltic Sea HELCOM Balt.Sea Environ. Proc. No. 106, 144pp. http://helcom.fi/Lists/Publications/BSEP106.pdf. The annex 'Biovolumes and size-classes of phytoplankton species in the Baltic Sea' is revised each year by the HELCOM Phytoplankton Expert Group. The latest version is available at http://ices.dk/marine-data/vocabularies/Pages/default.aspx."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Size class (calculated) of biological entity specified elsewhere in the water body by calculation using the HELCOME COMBINE guidelines"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SDBIOL15/4/"

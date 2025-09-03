@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PctLight"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Generic code for underwater light levels determined as the ratio of downwelling PAR irradiance at depth divided by downwelling PAR irradiance just below the air-water interface and expressed as a percentage."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Proportion of sub-surface irradiance (PAR wavelengths) {Percent light depth}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PCTIRRXX/2/"

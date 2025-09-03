@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PigAbPAR"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Diff. of spectrophotometric spectra on GF/F filtered material pre and post bleaching"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Mean light absorbance (400-750nm wavelengths (PAR)) by the suspended particulate material >GF/F [pigment phase] by filtration and spectrophotometry on filtrate before and after methanol pigment extraction and differencing of the measurements"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PIGAATX1/1/"

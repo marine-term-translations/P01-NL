@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DryWt_96-18-4_BE008962"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (mass or number of moles) of the specified analyte per unit weight of the specified organism or part thereof after water has been removed."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of 1,2,3-trichloropropane {CAS 96-18-4} per unit dry weight of biota {Chamelea gallina (ITIS: 205649: WoRMS 141907) [Subcomponent: flesh]}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/GBCOCX12/1/"

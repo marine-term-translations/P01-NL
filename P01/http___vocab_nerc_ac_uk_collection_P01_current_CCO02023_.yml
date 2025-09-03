@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Conc_Cu_water_>0.2-20um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (mass or mole) in a unit volume of any fresh of salt water body of the specified element extracted by total strong acid dissolution from suspended particles passing through a 20 micron filter but retained by a 0.2 micron filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of copper {Cu CAS 7440-50-8} per unit volume of the water body [particulate 0.2-20um phase] by filtration, acid digestion and inductively-coupled plasma mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CCO02023/1/"

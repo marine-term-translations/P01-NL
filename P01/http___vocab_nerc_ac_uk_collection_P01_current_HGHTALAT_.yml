@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "BathyHeight_LAT"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The distance above the lowest level expected to be reached by the sea surface after pertubations due to waves have been filtered out under average meteorological conditions and any combination of astronomical conditions to the sea bed at a particular location."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Topographic height of seafloor relative to Lowest Astronomical Tide datum {sea-floor height}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/HGHTALAT/3/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "logK'Zn"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The logarithmic conditional stability constant of the Zn-binding ligands (log K' ZnL)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Log ligand binding strength of zinc-complexing organic ligands {Zn_org_ligands} in the water body [dissolved plus reactive particulate phase] by cathodic stripping voltammetry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ZNLSCVZZ/3/"

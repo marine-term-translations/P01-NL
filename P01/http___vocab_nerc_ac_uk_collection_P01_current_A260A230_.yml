@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "A260/A230_DNAextract"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Ratio of absorption of a DNA extract measured at 260nm and 230nm used to assess a DNA sample purity from salt and organic compounds contamination in analyses such as Polymerase Chain Reaction (PCR) analyses."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Light absorbance ratio (260/230 nm wavelengths) of deoxyribonucleic acid (extract) {DNA CAS 9007-49-2}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/A260A230/2/"

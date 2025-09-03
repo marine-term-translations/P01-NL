@@ -1,0 +1,22 @@
+labels:
+- name: altLabel
+  original: LNC_oDDE_BE006483
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The concentration of the specified analyte in the specified organism or
+    part thereof divided by the concentration of extractable lipids in the same sample.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of 2,4''-dichlorodiphenyldichloroethylene {o,p''-DDE CAS
+    3424-82-6} per unit mass of lipids in the biota {Phoca vitulina (ITIS: 180649:
+    WoRMS 137084) [Stage: juvenile Sex: male Subcomponent: blubber Subgroup: live]}
+    by Soxhlet extraction and gas chromatography-mass spectrometry and lipid normalisation
+    (wet weight cct/lipid proportion)'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CMLDDEOP/9/

@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: ISMAR_4Cl_PCBs_sed
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Quantity or mass of the sum of PCBs with four chlorine atoms analysed
+    by Italian CNR IMSMAR (PCB-40+41+42+44+45+46+47+48+49+52+56+59+60+63+64+66+67+69+70+71+74+77)
+    per unit weight of dried unsieved sediment.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of ISMAR tetrachlorobiphenyls {ISMAR 4Cl PCBs} per unit
+    dry weight of sediment
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ISPCBA02/1/

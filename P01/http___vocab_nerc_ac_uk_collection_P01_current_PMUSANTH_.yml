@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DryWt_120-12-7_BE008961"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (mass or number of moles) of the specified analyte per unit weight of the specified organism or part thereof after water has been removed."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of anthracene {CAS 120-12-7} per unit dry weight of biota {Tapes philippinarum (ITIS: 81475: WoRMS 141928) [Subcomponent: flesh]}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PMUSANTH/1/"

@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Conc_104-40-5_wetsed
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The quantity or mass of the specified analyte contained in a sample of
+    unsieved sediment normalised to a unit of wet weight.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of 4-nonylphenol {CAS 104-40-5} per unit wet weight of sediment
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CONYLPH2/1/

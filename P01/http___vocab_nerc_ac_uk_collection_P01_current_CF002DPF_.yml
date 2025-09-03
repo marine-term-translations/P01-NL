@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: DryWt_PCB52_BE006615
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The amount (mass or number of moles) of the specified analyte per unit
+    weight of the specified organism or part thereof after water has been removed.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of 2,2'',5,5''-tetrachlorobiphenyl {PCB52 CAS 35693-99-3}
+    per unit dry weight of biota {Platichthys flesus (ITIS: 172894: WoRMS 127141)
+    [Subcomponent: liver]}'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CF002DPF/2/

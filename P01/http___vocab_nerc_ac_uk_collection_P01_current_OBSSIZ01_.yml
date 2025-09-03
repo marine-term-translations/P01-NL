@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SizCat_BE007117"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The size category or grouping of a biological object (identified elsewhere in the data or metadata) in the sample or observation. These categories may be expressed as text (e.g. "small", "large") or size intervals (e.g. ">200um", "20-20um"). It is recommended that the result be constrained by a controlled vocabulary such as [S09] (http://vocab.nerc.ac.uk/collection/S09/current/)."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Size category of biological entity specified elsewhere"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/OBSSIZ01/1/"

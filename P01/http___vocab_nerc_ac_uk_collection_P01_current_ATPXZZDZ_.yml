@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DissATP"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Concentration of ATP (adenosine triphosphate) in solution per unit volume of the water column. The solute may be expressed as mass or quantity of matter (moles)."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of adenosine triphosphate {ATP CAS 56-65-5} per unit volume of the water body [dissolved plus reactive particulate <unknown phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ATPXZZDZ/2/"

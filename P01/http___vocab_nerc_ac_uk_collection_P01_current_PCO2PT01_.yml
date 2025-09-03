@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "potpCO2"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Computed using pCO2*EXP((Theta - T_measurement)*0.0423)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Partial pressure of carbon dioxide {pCO2 CAS 124-38-9} in the water body by recalculation to potential temperature using pCO2*EXP((Theta - T)*0.0423)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PCO2PT01/2/"

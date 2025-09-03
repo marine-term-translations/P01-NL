@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "TKN_<unknown"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Concentration of total nitrogen as determined using the Kjeldahl method for the determination of nitrogen in organic substances plus the nitrogen in inorganic ammonia and ammonium (NH3/NH4+) dissolved in a unit volume of water. The method of separation between dissolved and particulate material is either not known or is documented elsewhere."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of total nitrogen {total_N} per unit volume of the water body [dissolved plus reactive particulate <unknown phase] by Kjeldahl method"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NTOTKJDX/1/"

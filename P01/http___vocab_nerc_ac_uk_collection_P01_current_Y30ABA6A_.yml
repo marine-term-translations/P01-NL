@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Count_BE006203"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Indeterminate terebellid with large tentacles trailing on the sediment surface"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Count of Terebellida (ITIS: 555672: WoRMS 900) [Size: maximum length <50cm Morphology: large tentacles trailing on the sediment surface] on the bed by image analysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/Y30ABA6A/1/"

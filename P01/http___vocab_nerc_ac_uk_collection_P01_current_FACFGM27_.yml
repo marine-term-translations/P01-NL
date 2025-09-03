@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "22:6(n-3)_CalFinE_inc"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Mass of cis-4,cis-7,cis-10,cis-13,cis-16,cis-19-docosahexaenoic acid {cervonic acid C22:6FA cis 4,7,10,13, CAS 6217-54-5} per individual specimen of biota {Calanus finmarchicus (ITIS: 85272: WoRMS 104464) [Stage: eggs]} by gas chromatography-electron capture detection"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/FACFGM27/4/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "area_above_aRPD_SPI"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A sediment profile imaging parameter defined as the area enclosed between the apparent Redox Potential Discontinuity (aRPD) and the sediment-water interface determined by the ImageJ software over the width of the image being analysed. This parameter is used to calculate the mean vertical depth of the aRPD."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Area of layer above aRPD by sediment profile imager and computation using ImageJ software"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ARPDIA01/1/"

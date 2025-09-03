@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "CilClearClauso"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Grazing experiment based on the method of Gifford (1993)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Clearance rate of Ciliophora (ITIS: 46211: WoRMS 11) by Clausocalanus (ITIS: 85352: WoRMS 104161) per individual per unit time in the water body by grazing experiment based on the method of Gifford (1993)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/FCRTGCCL/3/"

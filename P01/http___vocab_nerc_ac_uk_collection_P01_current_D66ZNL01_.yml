@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "d66Zn_Lyon_WC<0.2um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Deviation of the isotope ratio zinc-66/zinc-64 relative to the Lyon standard JMC 3-0749 expressed using the delta notation in a body of salt or fresh water after removal of particles larger than 0.2 microns."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to 66Zn/64Zn in Lyon JMC 3-0749 of zinc-66 {66Zn CAS 14378-33-7} {delta(66)Zn} in the water body [dissolved plus reactive particulate <0.2um phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/D66ZNL01/3/"

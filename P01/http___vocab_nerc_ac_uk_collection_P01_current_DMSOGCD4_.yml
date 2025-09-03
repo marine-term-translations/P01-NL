@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DMSO"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Gas chromatography on DMS released by enzyme digestion (Millipore prefiltered)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of dimethylsulfoxide {DMSO CAS 67-68-5} per unit volume of the water body [dissolved plus reactive particulate <unknown phase] by enzyme digestion, purging, cryogenic trapping and gas chromatography"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DMSOGCD4/3/"

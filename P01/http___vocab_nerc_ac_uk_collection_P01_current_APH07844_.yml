@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Pcystis_5-6um_FC"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Number of particles of about 5-6um in size identified as most likely belonging to the genus Phaeocystis in a unit volume of any body of fresh or salt water determined by flow cytometry analysis of unstained samples."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Abundance of Phaeocystis (ITIS: 2172: WoRMS 115088) [Size: 5-6um] per unit volume of the water body by flow cytometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/APH07844/2/"

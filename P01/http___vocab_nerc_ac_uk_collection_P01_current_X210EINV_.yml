@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SE_InvXSPb210"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Standard error of an integration over a specified depth range of the difference between unsupported 210Pb activity and supported 210Pb activity"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Excess activity inventory standard error of lead-210 {210Pb CAS 14255-04-0} per unit area of the bed by plating and alpha spectroscopy"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/X210EINV/2/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DryWt_CB138_TM_BE007110"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The dry weight concentration of the specified analyte in the specified organism or part thereof."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of 2,2',3,4,4',5'-hexachlorobiphenyl {PCB138 CAS 35065-28-2} per unit dry weight of biota {Crangon crangon (ITIS: 97118: WoRMS 107552) [Subcomponent: muscle tissue]}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/IC000680/1/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "228Ra/226Ra_diss_unfilt"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Isotope activity ratio of radium-228 over radium-226 in an unfiltered sample from any body of fresh or salt water."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity ratio of radium-228/radium-226 {228Ra/226Ra} in the water body [dissolved plus reactive particulate phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/RA226228/2/"

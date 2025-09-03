@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "WaveSigSteepS2_WR"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Statistic parameter computed from any form of significant wave height (e.g. Tucker-Draper, Monk, HRMS*4 or Hm0) and zero crossing period derived from an accelerometer waverider using the formula (2pi/g)*(Hs/Tz**2)."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Significant steepness (S2) of waves on the water body by waverider"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/WVSTSGSP/1/"

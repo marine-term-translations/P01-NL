@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Diss_d60/58Ni_NIST986_<0.2um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The isotope ratio of 60Ni/58Ni in a sample of fresh or salt water body after removal of particles larger than 0.2 micron relative to the NIST (US National Institute of Standards and Technology) for nickel (SRM 986) and expressed using the delta notation defined as delta(60Ni/58Ni)NIST =([60Ni/58Ni]sample/[60Ni/58Ni]NIST)-1)×1000. One delta unit represents a one part per 1,000 deviation from the NIST standard composition"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to 60Ni/58Ni in NIST SRM 986 of nickel-60 {60Ni CAS 13981-80-1} {delta(60/58)Ni} in the water body [dissolved plus reactive particulate <0.2um phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ENI87001/3/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "soluble_Zn_aerosol_H2O_Leaching_<1um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (mass or moles) of the specified chemical entity contained in aerosols within the specified size fraction isolated from a volume of atmosphere using the specified method."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of soluble zinc {soluble_Zn CAS 7440-66-6} per unit volume of the atmosphere [aerosol <1um phase] by filtration, water leaching"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/AEC062CC/1/"

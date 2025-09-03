@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: AltAsDepBelowSeaSurf
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The altitude measured above the water surface expressed as a depth below
+    water surface by multiplying the measured value by -1.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Depth (spatial coordinate) relative to water surface by barometric altimeter
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ADEPWI01/3/

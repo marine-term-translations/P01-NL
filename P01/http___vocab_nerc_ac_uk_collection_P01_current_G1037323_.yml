@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DryWt_CAS193-39-5_BE007323"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (mass or number of moles) of the specified analyte per unit weight of the specified organism or part thereof after water has been removed."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of indeno(1,2,3-cd)pyrene {CAS 193-39-5} per unit dry weight of biota {Boops boops (ITIS: 169218: WoRMS 127047) [Subcomponent: muscle tissue]}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/G1037323/1/"

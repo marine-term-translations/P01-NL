@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Abund(inc)_BE001371
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Cochlodinium (ITIS: 10021: WoRMS 109474) per unit volume
+    of experiment water sample by optical microscopy'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/K680B835/3/

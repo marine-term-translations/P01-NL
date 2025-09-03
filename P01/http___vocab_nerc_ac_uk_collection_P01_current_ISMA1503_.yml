@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PropLigPhenolinOrgC_sed"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount of the organic carbon from a sediment sample that is contained in phenols (compounds comprised of one or more benzene rings with one or more hydroxyl groups attached) resulting from the breakdown of lignin (complex polymers that form part of plant tissues)."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Proportion (in organic carbon) of lignin phenols in the sediment"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ISMA1503/1/"

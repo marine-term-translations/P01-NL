@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Mn_per_flag_cell_volume"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (mass or moles) of the specified analyte contained in a single cell of the specified biological organism determined by synchrotron x-ray fluorescence and normalised to the cell biovolume; can include mean values of multiple observations of the same phenomenon."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of total manganese {total_Mn CAS 7439-96-5} per unit cell volume of biota {flagellates [Subgroup: autotrophic]} by synchrotron x-ray fluorescence and normalisation from per cell to per cell volume"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CTO56005/1/"

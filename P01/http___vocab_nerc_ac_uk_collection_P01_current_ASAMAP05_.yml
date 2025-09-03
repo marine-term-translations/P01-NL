@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Vertical_Beam_Amp_(ADCP)"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The magnitude of the signal transmitted by the vertical beam (sometimes known as the 5th beam) of a 5-beam ADCP and returned to the instrument."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Amplitude of acoustic signal returns from the water body by acoustic doppler current profiler (ADCP) vertical beam"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ASAMAP05/1/"

@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: ZBVV0507
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Ash-free dry weight biomass of Erpobdella octoculata (ITIS: 568899: WoRMS
+    181575) per unit area of the bed by identification by optical microscopy and gravimetric
+    determination of loss on ignition'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ZBVV0507/1/

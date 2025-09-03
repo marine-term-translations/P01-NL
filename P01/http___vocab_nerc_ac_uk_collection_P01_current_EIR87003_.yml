@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "delta_56Fe_<0.2um_Uc"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The combined uncertainty associated with the specified measurement. The method used to estimate uncertainty should be described in the usage metadata."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to 56Fe/54Fe in IRMM-14 combined uncertainty of iron-56 {56Fe CAS 14093-02-8} {delta(56)Fe} in the water body [dissolved plus reactive particulate <0.2um phase] by filtration and inductively-coupled plasma mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/EIR87003/3/"

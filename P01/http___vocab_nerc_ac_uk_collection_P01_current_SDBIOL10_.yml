@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "BedCoverage"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Deprecated on 18-Sep-2023 because the parameter concept was replaced by a new term: PCOV7736.The proportion of a given area of the seabed covered by an identified biological object described elsewhere in the metadata."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Coverage (in assayed sample) of biological entity specified elsewhere of the bed"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SDBIOL10/4/"

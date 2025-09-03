@@ -1,0 +1,21 @@
+labels:
+- name: altLabel
+  original: SE_Diss_230Thxs<0.45um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The standard error of the mean (defined as the standard deviation divided
+    by the square root of the sample size) of multiple determinations of the specified
+    phenomenon.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Activity standard error of thorium-230 {230Th CAS 14269-63-7} per unit
+    volume of the water body [dissolved plus reactive particulate <0.4/0.45um phase]
+    by filtration, acidification and corrected for the detrital contribution
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/TH230SE4/6/

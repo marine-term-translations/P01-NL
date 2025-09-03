@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "IngestCarb_BE006157"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Carbon ingestion rate by Calanus (ITIS: 85263: WoRMS 104152) [Stage: nauplii] per individual per unit time in the water body by unfiltered seawater incubation in the dark and identification and counting by inverse microscopy and carbon conversion after Strathmann (1967) and ingestion rate calculation after Frost (1972)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/LB4A7541/2/"

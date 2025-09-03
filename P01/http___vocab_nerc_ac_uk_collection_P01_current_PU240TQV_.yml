@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "240Pu_unfilt"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The activity (number of disintegrations per unit time) of plutonium-240 in a sample of water from any body of fresh or salt water. Activity was calculated from concentrations using the 240Pu half-live 6563 y."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity of plutonium-240 {240Pu CAS 14119-33-6} per unit volume of the water body [dissolved plus reactive particulate phase] by inductively-coupled plasma mass spectrometry and concentration to activity conversion based on half life"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PU240TQV/2/"

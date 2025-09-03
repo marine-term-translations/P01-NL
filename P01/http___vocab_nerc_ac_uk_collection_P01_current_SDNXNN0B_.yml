@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SDNrmExNH4N500-1000"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The square root of the average of the squares of deviations about the mean of a set of values of the specified measurement."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Production rate standard deviation of ammonium {NH4+ CAS 14798-03-9} per day per unit biomass as nitrogen of biota {zooplankton [Size: 500-1000um]} by incubation"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SDNXNN0B/5/"

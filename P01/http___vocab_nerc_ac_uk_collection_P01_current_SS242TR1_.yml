@@ -1,0 +1,17 @@
+labels:
+- name: altLabel
+  original: Count_BE009482
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Count of taxonomically identified entity collected in the field
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Count of Salmo trutta (ITIS: 161997: WoRMS 127187) [Stage: smolt]'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/SS242TR1/2/

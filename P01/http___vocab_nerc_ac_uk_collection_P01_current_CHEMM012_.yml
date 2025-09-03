@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "NO3_Unfilt_NO2CorrColAA"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Concentration of nitrate and NOT nitrate+nitrite"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of nitrate {NO3- CAS 14797-55-8} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis and correction for nitrite"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CHEMM012/2/"

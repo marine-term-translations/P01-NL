@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "bioassay_N2_uptake_hourly_MS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount of gaseous nitrogen taken into the particulate phase in an hour from a sample of a water body that has been chemically modified by the addition of a fertiliser or a poison"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of dinitrogen {N2 CAS 7727-37-9} {nitrogen fixation} per hour per unit volume of the experiment water sample [particulate >GF/F phase] by isotope-labelled tracer addition, on-deck incubation at simulated in-situ light level, filtration and mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/N2FIXMS3/6/"

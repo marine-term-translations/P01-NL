@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Fe2O3_sed
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Proportion of total iron (expressed as ferric oxide) {total_Fe_as_Fe2O3
+    CAS 7439-89-6} per unit weight of sediment
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/MAJO0004/3/

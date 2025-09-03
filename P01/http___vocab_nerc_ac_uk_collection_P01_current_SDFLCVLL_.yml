@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SD_logK'FeL_lower_limit"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Log ligand binding strength standard deviation of iron-complexing organic ligands (iron-complexing, lower limit calculated from filtered (<0.2um) Fe) in the water body [dissolved plus reactive particulate phase] by cathodic stripping voltammetry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SDFLCVLL/3/"

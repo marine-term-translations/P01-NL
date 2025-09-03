@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Abund(exp)_BE003771
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Counts of a given biological entity using optical microscopy normalised
+    to a specified volume of experimental water sample.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Odontella regia (ITIS: 610126: WoRMS 149094) per unit volume
+    of experiment water sample by optical microscopy'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/DTMEX016/1/

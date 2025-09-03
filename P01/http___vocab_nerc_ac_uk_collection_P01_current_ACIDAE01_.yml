@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: conc_I_aerosol_<1um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of iodide {I- CAS 20461-54-5} per unit volume of the atmosphere
+    [aerosol <1um phase] by filtration and cathodic stripping voltammetry
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ACIDAE01/2/

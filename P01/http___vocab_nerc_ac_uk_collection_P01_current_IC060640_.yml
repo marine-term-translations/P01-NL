@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "totMn_sed<500um_AAS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The quantity or mass of the specified analyte contained in a dried subsample of sediment that passes through a 500 micron sieve and analysed by the specified method."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of total manganese {total_Mn CAS 7439-96-5} per unit dry weight of sediment <500um by atomic absorption spectroscopy"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/IC060640/3/"

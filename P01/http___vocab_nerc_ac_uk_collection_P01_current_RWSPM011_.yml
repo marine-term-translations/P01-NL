@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: CAS309-00-2_SPM
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Quantity or mass of the specified compound contained per unit dry weight
+    of suspended material extracted from an unspecified volume of a body of fresh
+    or salt water by filtration or centrifugation.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of aldrin {CAS 309-00-2} per unit dry weight of suspended
+    particulate material
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/RWSPM011/1/

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Diss_uncert_230Thxs<0.2um_/kg"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The combined uncertainty associated with the specified measurement. The method used to estimate uncertainty should be described in the usage metadata."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity combined uncertainty of thorium-230 {230Th CAS 14269-63-7} per unit mass of the water body [dissolved plus reactive particulate <0.2um phase] by filtration, acidification and corrected for the dissolution of lithogenic minerals"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/TH230XU2/2/"

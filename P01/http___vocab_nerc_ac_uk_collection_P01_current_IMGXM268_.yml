@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Abund_BE006194
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Originator description of the biological entity was 'Encrusting sponge'
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Demospongiae (ITIS: 47528: WoRMS 164811) [Size: thickness
+    <2cm Subgroup: encrusting] per unit area of the bed by image analysis'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/IMGXM268/1/

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "InfragWavePeriodSpecMax_PRESS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The reciprocal of the frequency at which the power spectral density of the surface elevation is maximal in the portion of the wave spectrum characterising infragravity waves from high-frequency pressure measurements."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Period at spectral maximum of waves (infragravity) {peak period Tp} on the water body by fixed in-situ pressure sensor"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/GTPLPP01/4/"

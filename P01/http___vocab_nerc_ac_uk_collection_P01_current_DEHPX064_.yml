@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Conc_CAS117-81-7_sed<2000um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The quantity or mass of the specified analyte contained in a dried subsample of sediment that passes through a 2000 micron sieve."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of bis(2-ethylhexyl)phthalate {DEHP CAS 117-81-7} per unit dry weight of sediment <2000um"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DEHPX064/1/"

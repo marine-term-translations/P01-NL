@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "WetWt_PCB70_BE006353"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of 2,3',4',5-tetrachlorobiphenyl {PCB70 CAS 32598-11-1} per unit wet weight of biota {Platichthys flesus (ITIS: 172894: WoRMS 127141) [Size: length >280mm Subcomponent: liver]}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PCBBMZ37/2/"

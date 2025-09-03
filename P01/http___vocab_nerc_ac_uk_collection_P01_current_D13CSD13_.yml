@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SD_d13C_13_95534"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The square root of the average of the squares of deviations about the mean of a set of values of the specified measurement."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment standard deviation of carbon-13 {13C CAS 14762-74-4} {delta(13)C} in biota {Meganyctiphanes norvegica (ITIS: 95534: WoRMS 110690) [Sex: female]} by mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/D13CSD13/4/"

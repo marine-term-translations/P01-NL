@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: P33805C
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Katodinium glaucum (ITIS: 10105: WoRMS 109885) [Size: small]
+    per unit volume of the water body by optical microscopy'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/P338M05C/1/

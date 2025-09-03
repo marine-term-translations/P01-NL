@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: pCO2_water_model
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Carbonate system parameter calculated from two of pCO2, DIC, TA and pH
+    in the water body as predicted by a numerical model.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Partial pressure of carbon dioxide {CO2 CAS 124-38-9} {pCO2} in the water
+    body by model prediction
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/PCO2MOD1/1/

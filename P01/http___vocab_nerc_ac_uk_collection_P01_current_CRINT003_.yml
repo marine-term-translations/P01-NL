@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "OxygenConsumpINT0.2-0.8"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The hourly rate of oxygen respired by plankton organisms retained by a 0.2 micron filter and passing through a 0.8 micron filter in a water body determined by the protocol of García-Martín et al (2018) using the iodo-nitro-tetrazolium (INT) salt reduction method."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Consumption rate of oxygen {O2 CAS 7782-44-7} {respiration} per hour per unit volume of the water body [particulate 0.2-0.8um phase] by in vivo iodo-nitro-tetrazolium (INT) salt reduction method"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CRINT003/1/"

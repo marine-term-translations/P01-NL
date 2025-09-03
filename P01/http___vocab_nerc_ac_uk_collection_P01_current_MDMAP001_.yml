@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Fr-11/kg
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Concentration (moles or mass) of trichlorofluoromethane {freon-11 or CFC-11}
+    per unit mass of the water column.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of trichlorofluoromethane {CFC-11 CAS 75-69-4} per unit
+    mass of the water body [dissolved plus reactive particulate phase]
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/MDMAP001/2/

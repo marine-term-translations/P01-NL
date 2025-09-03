@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "LNC_BDE49_BE006496"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The concentration of the specified analyte in the specified organism or part thereof divided by the concentration of extractable lipids in the same sample."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of 2,2',4,5'-tetrabromodiphenyl ether {BDE49 CAS 243982-82-3} per unit mass of lipids in the biota {Phoca vitulina (ITIS: 180649: WoRMS 137084) [Stage: adult Sex: male Subcomponent: blubber Subgroup: dead]} by Soxhlet extraction and gas chromatography-mass spectrometry and lipid normalisation (wet weight cct/lipid proportion)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CFLBDE49/6/"

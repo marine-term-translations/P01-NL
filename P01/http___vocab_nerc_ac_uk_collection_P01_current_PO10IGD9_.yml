@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DissPo210"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Isotope spiking and ingrowth (1um pore filtered then absorbed by Mn)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity of polonium-210 {210Po CAS 13981-52-7} per unit volume of the water body [dissolved plus reactive particulate <1um phase] by filtration, Mn absorption and isotope spiking and ingrowth"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PO10IGD9/2/"

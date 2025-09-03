@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "WetWt_C2-naphthalenes_BE007557"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The wet weight concentration of the specified analyte in the specified organism or part thereof. The specified analyte is a mixture of PAHs not fully distinguished in the analyses but related by the substitution of the hydrogen atom on the numbered carbon atom of the chemical named."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of C2-naphthalenes per unit wet weight of biota {Nephrops norvegicus (ITIS: 97317: WoRMS 107254) [Subcomponent: muscle tissue]}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CF000136/1/"

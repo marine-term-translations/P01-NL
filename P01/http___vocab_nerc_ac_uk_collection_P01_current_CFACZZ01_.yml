@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "CorrelationFactor_altim"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A measure of the quality of the returned pulse from an altimeter. Correlation factor ranges from 0 to 1. A value of 1 represents a perfect return echo with negligible noise and distortion."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Correlation factor of acoustic signal returns from the bed by altimeter"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CFACZZ01/1/"

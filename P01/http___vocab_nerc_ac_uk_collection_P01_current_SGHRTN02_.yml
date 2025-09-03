@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Nitrogen_biomass_BE009661_model"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The quantity, expressed as organically-bound nitrogen, of the underground structures (roots and rhizomes) of a seagrass form parameterised to be similar to Halophila ovalis normalised to a unit area of the bed, as predicted by a numerical model."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Biomass as nitrogen of Halophila ovalis (ITIS: 38959: WoRMS 208930) [Subcomponent: roots+rhizomes] per unit area of the bed by model prediction"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SGHRTN02/1/"

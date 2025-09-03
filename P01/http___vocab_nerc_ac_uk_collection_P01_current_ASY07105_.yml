@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Ab_SEM_BE007105"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Counts of a given biological entity using scanning electron microscopy normalised to a specified volume of experimental water sample."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Abundance of Syracosphaera nodosa (ITIS: 2240: WoRMS 577881) [Subcomponent: coccoliths] per unit volume of the experiment water sample by identification and counting by scanning electron microscopy (SEM)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ASY07105/1/"

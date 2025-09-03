@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PO4upt_>2um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Measurements made by isotope-doped incubation experiment followed by counting particulates collected on a 2um pore filter. Incubation conditions not specified."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of phosphate {PO43- CAS 14265-44-2} per day per unit volume of the water body [particulate >2um phase] by isotope-labelled tracer addition, incubation at unspecified light level, filtration and counting residue"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SPUPIIPB/4/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "surface_roughness_sed"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A quantification of the irregularities in the geometry of the sediment surface, determined using the ImageJ software package. It is used as an indicator of the degree of physical disturbance or biotic activity at the sediment water boundary."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Surface roughness of sediment-water interface by sediment profile imager and computation using ImageJ software"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SRSDSW01/1/"

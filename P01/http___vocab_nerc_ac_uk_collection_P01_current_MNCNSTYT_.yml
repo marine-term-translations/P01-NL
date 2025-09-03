@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "BulkSedMnContICPAES_SumStagedAnalyses"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The total amount (quantity or mass) of manganese in all oxidation states in a sample of bulk (unsieved) sediment by summation of inductively-coupled plasma atomic emission spectroscopy determinations of multiple-stage leachates and digestion sequence."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of total manganese {total_Mn CAS 7439-96-5} per unit dry weight of sediment by acid digestion of leached sample residue and inductively-coupled plasma atomic emission spectroscopy and summation of staged leachate analyses"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MNCNSTYT/1/"

@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Abund_BE006201
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Originator description of the biological entity was 'Indeterminate sabellid
+    with a white tube'
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Sabellida (ITIS: 555671: WoRMS 901) [Size: length 5-10cm
+    Morphology: white tube] per unit area of the bed by image analysis'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/IMGXN888/1/

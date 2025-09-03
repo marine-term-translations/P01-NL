@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DryWt_CAS19408-74-3_BE008953"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Duplicates existing code and deprecated on 17/09/2019. The dry weight concentration of the specified analyte in the specified organism or part thereof."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of 1,2,3,7,8,9-hexachlorodibenzo-p-dioxin {1,2,3,7,8,9-hexaCDD CAS 19408-74-3} per unit dry weight of biota {Tapes philippinarum (ITIS: 81475: WoRMS 141928)}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/RMOCXX08/2/"

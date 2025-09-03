@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: FlgClearParPseud
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Grazing experiment based on the method of Gifford (1993)
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Clearance rate of flagellates by Paracalanus / Pseudocalanus (ITIS: 85258:
+    WoRMS 1100) per individual per unit time in the water body by grazing experiment
+    based on the method of Gifford (1993)'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/FCRTGFPP/3/

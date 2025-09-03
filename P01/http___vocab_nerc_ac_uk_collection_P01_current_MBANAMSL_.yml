@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "BathyDep_AlicanteMSL"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The distance below the Spanish national levelling datum (Nivel Medio del Mar en Alicante - NNMA: the Mean Sea Level at Alicante averaged over an unspecified long period)."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Bathymetric depth of seafloor relative to Alicante Mean Sea Level datum {sea-floor depth} in the water body"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MBANAMSL/2/"

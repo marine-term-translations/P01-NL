@@ -1,0 +1,22 @@
+labels:
+- name: altLabel
+  original: LNC_BDE138_BE006496
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The concentration of the specified analyte in the specified organism or
+    part thereof divided by the concentration of extractable lipids in the same sample.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of 2,2'',3,4,4'',5''-hexabromodiphenyl ether {BDE138 CAS
+    182677-30-1} per unit mass of lipids in the biota {Phoca vitulina (ITIS: 180649:
+    WoRMS 137084) [Stage: adult Sex: male Subcomponent: blubber Subgroup: dead]} by
+    Soxhlet extraction and gas chromatography-mass spectrometry and lipid normalisation
+    (wet weight cct/lipid proportion)'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CFLDE138/7/

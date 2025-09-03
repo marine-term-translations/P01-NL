@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SPM>0.4_Zn"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The concentration (mass or quantity of matter) of the analyte per unit weight of SPM collected by filtration through either a 0.4um or a 0.45um pore filter. Uncertainty is due to interchangaeble use in some datasets."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of zinc {Zn CAS 7440-66-6} per unit dry weight of suspended particulate material >0.4/0.45um"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ZNCNXXP2/2/"

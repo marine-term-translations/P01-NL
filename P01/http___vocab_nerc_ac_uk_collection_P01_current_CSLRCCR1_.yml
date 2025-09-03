@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Es_lambda"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The downward vertical component of electromagnetic radiation energy of a single wavelength (specified elsewhere in the metadata) at a point in the atmosphere (z co-ordinate specified elsewhere in the metadata)."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Downwelling vector irradiance as energy of electromagnetic radiation (unspecified single wavelength) in the atmosphere by cosine-collector radiometer"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CSLRCCR1/3/"

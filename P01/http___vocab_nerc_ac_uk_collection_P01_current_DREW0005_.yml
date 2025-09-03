@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DissHo<0.2um_ICPMS/kg"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The concentration of holmium in a body of salt or fresh water analysed by Inductively-coupled plasma mass spectrometry (ICP-MS) after removal of particles larger than 0.2 microns by filtration."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of holmium {Ho CAS 7440-60-0} per unit mass of the water body [dissolved plus reactive particulate <0.2um phase] by filtration, acidification and inductively-coupled plasma mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DREW0005/5/"

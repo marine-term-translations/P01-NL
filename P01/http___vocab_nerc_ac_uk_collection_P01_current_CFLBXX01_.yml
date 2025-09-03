@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "CFL"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A standard body length measurement used in fish biometric studies for fishes with forked tails and taken as the distance measured on a line following the curved surface of the body from the tip of the snout to the posterior end of the shortest caudal rays in the center of the fork. The biological entity is identified elsewhere in the data schema."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Length (fork length) of biological entity specified elsewhere {curved fork length} by curvilinear measurement"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CFLBXX01/1/"

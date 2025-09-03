@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "NO3_<0.4/0.45_Filt_nano"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Colorometric analysis with liquid waveguide capilliary cell (LWCC) on <0.4/0.45um filtered water sample. Note that this method quantifies nanomolar concentrations and therefore the fifth decimal place of the concentration in uM/l is significant."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration (nM sensitivity) of nitrate {NO3- CAS 14797-55-8} per unit volume of the water body [dissolved plus reactive particulate <0.4/0.45um phase] by filtration and colorimetric autoanalysis with liquid waveguide capilliary cell and correction for nitrite"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NTRA04LW/2/"

@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: 22:6(n-3)_CalFin_C3
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Proportion of total fatty acids of cis-4,cis-7,cis-10,cis-13,cis-16,cis-19-docosahexaenoic
+    acid {cervonic acid C22:6FA cis 4,7,10,13, CAS 6217-54-5} in biota {Calanus finmarchicus
+    (ITIS: 85272: WoRMS 104464) [Stage: copepodites C3]} by gas chromatography-flame
+    ionisation detection'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/TFAC3026/4/

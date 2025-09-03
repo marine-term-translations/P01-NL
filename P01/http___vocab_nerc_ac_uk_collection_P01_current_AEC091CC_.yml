@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: SO4(2-)_aerosol_H2O_Leaching_>1um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The amount (mass or moles) of the specified chemical entity contained
+    in aerosols within the specified size fraction isolated from a volume of atmosphere
+    using the specified method.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of soluble sulfate {soluble_SO4(2-) CAS 14808-79-8} per
+    unit volume of the atmosphere [aerosol >1um phase] by filtration, water leaching
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/AEC091CC/2/

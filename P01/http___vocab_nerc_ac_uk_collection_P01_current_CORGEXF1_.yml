@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DOC_GF/FFilt_Acid_PtHTCO_bioassay"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of organic carbon {organic_C CAS 7440-44-0} {DOC} per unit volume of experiment water sample [dissolved plus reactive particulate <GF/F phase] by filtration, acidification and high temperature Pt catalytic oxidation"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CORGEXF1/3/"

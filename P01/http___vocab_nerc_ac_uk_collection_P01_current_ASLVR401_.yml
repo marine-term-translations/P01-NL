@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SLvResSens4"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Residual surface elevation of the water body, also referred to as the non-tidal residual, meteorological residual, or surge, i.e. the part of the observed sea level due to weather effects and not due to tidal forces. Measured by a fourth tidal height sensor and subtraction of the predicted tidal value."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Surface elevation residual of the water body by tidal height sensor4 and subtraction of value predicted by tidal analysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ASLVR401/1/"

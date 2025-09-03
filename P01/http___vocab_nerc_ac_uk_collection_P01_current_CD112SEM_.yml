@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SE_Epsilon_112/110Cd_NIST"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The standard error of the mean (defined as the standard deviation divided by the square root of the sample size) of multiple determinations of the specified phenomenon."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to 112Cd/110Cd in NIST SRM 3108 standard error of cadmium-112 {112Cd CAS 14336-65-3} {epsilon(112/110)Cd} in the water body [dissolved plus reactive particulate <0.2um phase] by filtration and thermal ionization mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CD112SEM/5/"

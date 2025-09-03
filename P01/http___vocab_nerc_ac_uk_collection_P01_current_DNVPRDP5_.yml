@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DNVprod"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Tracer doped incubation experiment in the dark (0.2 um filtered)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Production rate constant (daily) of sulphur (non-volatile) per unit time in the water body [dissolved plus reactive particulate <0.2um phase] by 35-S DMS tracer doping, incubation in the dark, filtration, purging of volatiles and counting filtrate"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DNVPRDP5/1/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Con_DissFe<0.2um_FIC_perkg"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The quantity (mol or mass) of iron in a unit mass of any salt or fresh water body determined by flow-injection chemiluminescence method after removal of particles larger than 0.2 microns by filtration."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of total iron {total_Fe CAS 7439-89-6} per unit mass of the water body [dissolved plus reactive particulate <0.2um phase] by filtration, acidification and flow-injection chemiluminescence"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/FEFICKG2/1/"

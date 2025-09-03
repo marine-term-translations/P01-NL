@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "MSCd13CSlowGF/F_ms"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Quantity or mass of the specified analyte in particles classified as slow sinking in a unit volume of sample of fresh or salt water that has been retained on a filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment of carbon-13 in organic carbon {13C in organic_C CAS 14762-74-4} {delta(13)C} in the water body [particulate slow sinking >GF/F phase] by marine snow catcher sampling, settling and mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/D13CMS02/1/"

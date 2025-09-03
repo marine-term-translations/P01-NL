@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Int_NH4upt_>GFF"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of ammonium {NH4+ CAS 14798-03-9} per hour per unit area of the water body [particulate >GF/F phase] by isotope-labelled tracer addition, in-vitro incubation on in-situ rig, filtration and mass spectrometry on residue and profile integration"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/INTNH4UP/7/"

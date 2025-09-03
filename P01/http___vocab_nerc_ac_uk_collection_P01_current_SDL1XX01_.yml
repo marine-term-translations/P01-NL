@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Second_dorsal_length"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A body length measurement used in fish biometric studies and taken as the distance measured from the snout to the posterior edge of the posterior lobe of the second dorsal fin. The biological entity is identified elsewhere in the data schema."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Length (second dorsal length) of biological entity specified elsewhere"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SDL1XX01/1/"

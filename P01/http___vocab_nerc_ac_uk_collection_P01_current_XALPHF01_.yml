@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Alpha_STFRR_bioassay"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The initial light-limited slope of a Photosynthesis versus Irradiance (PvI) curve by the phytoplankton using fast-repetition rate (FRR) fluorescence technique with single turnover flash protocol in an experiment water sample."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Photosynthesis maximum light utilisation coefficient {alpha} in the experiment water sample by single turnover fast repetition rate (FRR) fluorometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/XALPHF01/1/"

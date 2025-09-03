@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "carbon_biomass_alcaraz"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The carbon biomass, calculated using the equation of Alcaraz et al (2003), of an unspecified biological entity in a given area of the bed."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Biomass as carbon of biological entity specified elsewhere per unit area of the bed by computation of carbon biomass using the equation of Alcaraz et al. (2003)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/BCBIOLEA/1/"

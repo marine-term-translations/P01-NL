@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "CAMSSedAge"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Accelerated mass spectrometry on picked tests then Stuiver and Reimer correction"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "14C age of Globigerina bulloides (ITIS: 45797: WoRMS 113434) [Subcomponent: tests] in sediment by picking and accelerator mass spectrometry and correction after Stuiver and Reimer"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SAGEMCGB/2/"

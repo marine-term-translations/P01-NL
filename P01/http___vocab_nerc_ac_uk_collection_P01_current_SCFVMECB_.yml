@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "MedCopFPVSD"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Const temp incubation expt; inv microscopy; stereometrical configurations of Elder (1979)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Biovolume production rate standard deviation of Copepoda (ITIS: 85257: WoRMS 1080) [Size: 500-1000um Subcomponent: faecal pellets] per individual per unit time in the water body by incubation at constant temperature and identification and counting by inverse microscopy and computation using stereometrical configurations of Edler(1979)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SCFVMECB/1/"

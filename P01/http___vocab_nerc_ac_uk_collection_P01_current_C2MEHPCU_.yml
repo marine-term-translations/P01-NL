@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "chl-c2_MGDG_unknown_sp_water>GF/F_HPLC"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The observed pigment matches chlorophyll-c2 monogalactosyldiacylglyceride ester but the particular species of haptophyte it relates to could not be identified using chemotaxonomy techniques. Users should be aware that this code is dataset specific."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of chlorophyll-c2 monogalactosyldiacylglyceride ester (unidentified haptophyte) {Chl-c2-MGDG unknown} per unit volume of the water body [particulate >GF/F phase] by filtration, acetone extraction and high performance liquid chromatography (HPLC)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/C2MEHPCU/1/"

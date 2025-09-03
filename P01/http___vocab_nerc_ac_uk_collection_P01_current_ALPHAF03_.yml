@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Alpha_MTPAM_sediment"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The initial light-limited slope of a Photosynthesis versus Irradiance (PvI) curve by the microphytobenthos using pulse-amplitude modulation (PAM) fluorescence technique with multiple turnover flash protocol."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Photosynthesis maximum light utilisation coefficient in the sediment by multiple turnover pulse-amplitude modulation (PAM) fluorometry and PvI curve analysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ALPHAF03/6/"

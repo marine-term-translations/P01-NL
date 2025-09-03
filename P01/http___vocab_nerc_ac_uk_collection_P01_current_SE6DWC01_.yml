@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Diss_Se(VI)_Filt<0.4/0.45um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Quantity or mass of inorganic selenium Se(VI) contained in a unit volume of a sample of any body of fresh or salt water after particles have been removed by filtration through a 0.4 or 0.45 micron filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of selenate {SeO4(2−) CAS 14124-68-6} per unit volume of the water body [dissolved plus reactive particulate <0.4/0.45um phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SE6DWC01/1/"

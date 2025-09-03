@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Z308M00Z_200-500um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Pleuromamma (ITIS: 85751: WoRMS 104191) [Size: 200-500um]
+    per unit volume of the water body by size fractionation and optical microscopy'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/Z308X00D/3/

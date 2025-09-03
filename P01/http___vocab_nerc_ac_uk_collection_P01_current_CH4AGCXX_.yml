@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "AtCH4"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The volume of methane gas contained in a unit volume of atmosphere (sometimes termed mixing ratio).  Measurement may either be a single determination or the average of replicate determinations."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of methane {CH4 CAS 74-82-8} per unit volume of the atmosphere by gas chromatography"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CH4AGCXX/4/"

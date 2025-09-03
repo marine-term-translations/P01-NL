@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: MaxLength_BE002366
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The value of the longest dimension of the shell or body of the longest
+    specimen of the specified organism in the sample.  This could refer to a single
+    individual should the sample size be one.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Length maximum of Gadus morhua (ITIS: 164712: WoRMS 126436)'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/MUM13236/2/

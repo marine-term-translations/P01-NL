@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DailyDOCProdSD"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The square root of the average of the squares of deviations about the mean of a set of values of the specified measurement."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Production rate standard deviation of organic carbon {organic_C CAS 7440-44-0} {DOC production standard deviation} per day per unit volume of the water body [dissolved plus reactive particulate <0.2um phase] by tracer doping, incubation at unspecified light level, filtration, acidification and counting filtrate"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DDCDRIP5/5/"

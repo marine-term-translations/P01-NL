@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: AbundSqm_BE001252
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Cirripedia (ITIS: 89433: WoRMS 1082) per unit area of the
+    bed by picking'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/OXMFD003/1/

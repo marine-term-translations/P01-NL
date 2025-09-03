@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: WetWt_Cd_BE007532
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The amount (mass or moles) of the specified analyte per unit weight of
+    a fresh sample of the specified organism or part thereof.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of cadmium {Cd CAS 7440-43-9} per unit wet weight of biota
+    {Littorina littorea (ITIS: 70419: WoRMS 140262) [Subcomponent: flesh]}'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ICES0076/2/

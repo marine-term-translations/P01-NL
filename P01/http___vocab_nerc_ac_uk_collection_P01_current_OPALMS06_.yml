@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "MSCOpal_SiFast0.8_auto"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Quantity or mass of the specified analyte in particles classified as fast sinking in a unit volume of sample of fresh or salt water that has been retained on a 0.8 micron filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of biogenic silica {BSi opal} per unit volume of the water body [particulate fast sinking >0.8um phase] by marine snow catcher sampling, settling and colorimetric autoanalysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/OPALMS06/1/"

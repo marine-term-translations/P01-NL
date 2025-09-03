@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: AttenBS_412nm_117deg
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The proportion of light lost between an in-situ transmitter and a receiver
+    due to the process of scattering that is measured at a wavelength of 412 nm.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Attenuation due to backscatter (412 nm wavelength at 117 degree incidence)
+    by the water body [particulate >unknown phase] by in-situ optical backscatter
+    measurement
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/BB117V01/1/

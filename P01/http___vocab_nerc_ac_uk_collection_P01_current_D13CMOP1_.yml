@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "POCd13C>GF/F_acid"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Mass spectrometry on acidified combusted sample (GF/F filtered)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment of carbon-13 in organic carbon {13C in organic_C CAS 14762-74-4} {delta(13)C} in the water body [particulate >GF/F phase] by filtration, acidification, combustion and mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/D13CMOP1/5/"

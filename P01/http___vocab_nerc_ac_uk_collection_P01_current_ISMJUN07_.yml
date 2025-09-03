@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SedPW_NO3_cent_0.4/0.45umFilt"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Concentration (mass or moles) of the specified analyte determined by colorometric autoanalysis of a water sample separated from a wet sediment sample by centrifugation and filtered through a 0.4 or 0.45um pore filter. NO3+NO2 was converted to NO3 by subtraction of NO2."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of nitrate {NO3- CAS 14797-55-8} per unit volume of the sediment pore water [dissolved plus reactive particulate <0.4/0.45um phase] by centrifugal extraction, filtration and colorimetric autoanalysis and correction for nitrite"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ISMJUN07/2/"

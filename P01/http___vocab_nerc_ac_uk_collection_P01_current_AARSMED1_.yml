@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "AARS_BE005913"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "PPi refers to the name of the reagent used in this procedure"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity (hourly per unit mass protein) of aminoacyl-tRNA synthetases {AARS} in biota {zooplankton [Size: 200-450um]} by method of Yebra and Hernandez-Leon modified by Yebra et al. (2005) and expressed as PPi"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/AARSMED1/2/"

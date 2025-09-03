@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Cr3+_water<0.4/0.45um_ICPMS/kg"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The quantity or mass of the specified analyte in a body of salt or fresh water that has passed through a filter. The concentration is expressed per unit mass of the water body."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of chromium, trivalent {Cr3+ CAS 16065-83-1} per unit mass of the water body [dissolved plus reactive particulate <0.4/0.45um phase] by filtration, precipitation, acidification and inductively-coupled plasma mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CR3XX001/2/"

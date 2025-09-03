@@ -1,0 +1,21 @@
+labels:
+- name: altLabel
+  original: ThyUpt_0.2-200um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Measurements made by isotope-doped incubation experiment followed by counting
+    particulates collected on a 0.2um pore filter filtering water previously filtered
+    through a 200um pore filter.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Uptake rate of thymidine {CAS 50-89-5} {bacterial production} per hour
+    per unit volume of the water body [particulate 0.2-200um phase] by tracer doping,
+    incubation in the dark, cascade filtration and counting residue
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/SFTURIPA/4/

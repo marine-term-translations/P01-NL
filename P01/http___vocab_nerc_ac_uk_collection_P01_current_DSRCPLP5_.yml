@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DMScctchangerateNL"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "On-deck incubation in natural light conditions (0.2um filtered)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration change rate of dimethyl sulfide {DMS CAS 75-18-3} per hour per unit volume of the water body [dissolved plus reactive particulate <0.2um phase] by incubation at full natural light level"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DSRCPLP5/4/"

@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: BedAreaAbund_BE007449
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The number of specimens of the specified biological entity (taxon plus
+    additional attributes) in a unit area of the floor of any body of water.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Peresiella clymenoides (ITIS: 67486: WoRMS 129906) per unit
+    area of the bed by sieving and picking under an optical microscope'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/APC07449/3/

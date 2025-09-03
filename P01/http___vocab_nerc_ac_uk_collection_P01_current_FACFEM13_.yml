@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "18:1(n-7)_CalFinF_inc"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Mass of cis-11-octadecenoic acid {CAS 506-17-2} per individual specimen of biota {Calanus finmarchicus (ITIS: 85272: WoRMS 104464) [Sex: female]} by gas chromatography-electron capture detection"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/FACFEM13/2/"

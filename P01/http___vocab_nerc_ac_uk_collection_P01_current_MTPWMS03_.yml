@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "total_Hg_sed_pw"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Quantity or mass of the specified analyte contained in unit volume of a water sample extracted from a wet sediment sample by filtration; the filter size is either unknown or specified elsewhere in the metadata."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of total mercury {total_Hg CAS 7439-97-6} per unit volume of the sediment pore water [dissolved plus reactive particulate <unknown phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MTPWMS03/1/"

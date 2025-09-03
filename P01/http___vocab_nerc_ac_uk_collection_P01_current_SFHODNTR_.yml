@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SFHgt_ODN_Trimble5800"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The distance above the Ordnance Datum Newlyn defined as the Mean Sea Level at Newlyn in Cornwall, UK between 1915 and 1921. Note that this is height above datum so bathymetry values are negative."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Topographic height of seafloor relative to Ordnance Datum Newlyn {sea-floor height} in the water body by Trimble 5800 GPS System"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SFHODNTR/2/"

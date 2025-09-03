@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Eps_114/110Cd_NIST_WC<0.4/0.45um_error"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The estimated uncertainty or 'error' associated with the specified measurement. The method used to estimate uncertainty should be described in the usage metadata."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to 114Cd/110Cd in NIST SRM 3108 uncertainty of cadmium-114 {114Cd CAS 14041-58-8} {epsilon(114)Cd} in the water body [dissolved plus reactive particulate <0.4/0.45um phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CDESDIDP/3/"

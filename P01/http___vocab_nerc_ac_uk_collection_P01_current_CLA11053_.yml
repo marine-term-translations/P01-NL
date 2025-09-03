@@ -1,0 +1,21 @@
+labels:
+- name: altLabel
+  original: Part_labile_Pb>0.4/0.45_ICPMS
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The amount (mass or mole) of the specified element extracted by mild acid
+    treatment from suspended particles retained by a 0.4-0.45um filter and analysed
+    by ICP-MS.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of labile lead {labile_Pb CAS 7439-92-1} per unit volume
+    of the water body [particulate >0.4/0.45um phase] by filtration, acid leaching
+    and inductively-coupled plasma mass spectrometry
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CLA11053/1/

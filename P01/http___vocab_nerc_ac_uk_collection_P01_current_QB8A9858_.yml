@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Count_BE006231"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Originator description of the biological entity was 'White sponge consiting of a mass of branches'"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Count of Demospongiae (ITIS: 47528: WoRMS 164811) [Size: height 10-20cm, diameter ~5cm Morphology: mass of branches Colour: white] on the bed by image analysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/QB8A9858/1/"

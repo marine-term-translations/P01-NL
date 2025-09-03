@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: MollWetWt
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Sieving (300 micron mesh), picking and weighing
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Wet weight biomass of Mollusca (ITIS: 69458: WoRMS 51) [Size: >300um]
+    per unit area of the bed by gravimetry'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/MFWWSAMO/2/

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "fCO2_anom"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The difference in the CO2 fugacity (effective partial pressure allowing for non-ideal gas) between air in equilibrium with seawater and the atmosphere."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Fugacity anomaly (water - air) of carbon dioxide {CO2 CAS 124-38-9} in the water body"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/FCO2ANOM/3/"

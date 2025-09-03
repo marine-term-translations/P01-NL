@@ -1,0 +1,21 @@
+labels:
+- name: altLabel
+  original: DissSm<0.2um_ICPMS/kg
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The concentration of samarium in a body of salt or fresh water analysed
+    by Inductively-coupled plasma mass spectrometry (ICP-MS) after removal of particles
+    larger than 0.2 microns by filtration.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of samarium {Sm CAS 7440-19-9} per unit mass of the water
+    body [dissolved plus reactive particulate <0.2um phase] by filtration, acidification
+    and inductively-coupled plasma mass spectrometry
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/DREW0010/5/

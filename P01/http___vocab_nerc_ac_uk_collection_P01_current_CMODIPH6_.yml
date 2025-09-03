@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Conc_207122-15-4_wetsed
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The quantity or mass of the specified analyte contained in a sample of
+    unsieved sediment normalised to a unit of wet weight.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of 2,2',4,4',5,6'-hexabromodiphenyl ether {BDE154 CAS 207122-15-4}
+    per unit wet weight of sediment
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CMODIPH6/1/

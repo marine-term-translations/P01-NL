@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Leu_upk_hourly_>0.2um_bioassay"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount of leucine taken up over an hour by particles larger than 0.2 microns during a bioassay experiment."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of leucine {CAS 328-39-2} per hour per unit volume of the experiment water sample [particulate >0.2um phase] by isotope-labelled tracer addition, incubation in the dark, filtration and counting residue"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/UPLERIP5/1/"

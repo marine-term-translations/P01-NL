@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DissPo210_<1um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Activity (number of disintegrations per unit time) of the specified isotope in a sample of water from any body of fresh or salt water that has been passed through a 1um filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity of polonium-210 {210Po CAS 13981-52-7} per unit volume of the water body [dissolved plus reactive particulate <1um phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/XPO210DG/2/"

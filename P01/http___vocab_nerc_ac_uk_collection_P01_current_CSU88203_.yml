@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: SO4(2-)_sulfate_aerosol_>1um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: A generic code for the quantity or mass of the specified substance in
+    the aerosols normalised to one unit volume of atmosphere.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of sulfate {SO4(2-) sulphate CAS 14808-79-8} per unit volume
+    of the atmosphere [aerosol >1um phase]
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CSU88203/2/

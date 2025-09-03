@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DpthGEBCO24"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Bathymetric depth derived from the 15 arc-second grid published by the GEBCO community in 2024"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Bathymetric depth of seafloor relative to Mean Sea Level datum {sea-floor depth} in the water body by derivation from GEBCO_24 15 arc-second global grid"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MBANGB24/1/"

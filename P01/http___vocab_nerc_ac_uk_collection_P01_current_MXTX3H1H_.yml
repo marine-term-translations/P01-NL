@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "3H/H_ratio"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Ratio of tritium over hydrogen in an unfiltered sample from any body of fresh or salt water. This quantity is often referred to as "Concentration of tritium" and is usually expressed in Tritium Units (TU) defined as 1 TU = 1 3H atom per 10^18 H atoms."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Atomic ratio of tritium/hydrogen {concentration of tritium} in the water body [dissolved plus reactive particulate phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MXTX3H1H/7/"

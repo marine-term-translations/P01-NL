@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "NetCaCO3_bed_model"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The net production rate of calcium carbonate, calculated as calcification minus dissolution, normalised to a unit area of the bed, as predicted by a numerical model."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Net production rate of calcium carbonate {CaCO3 CAS 471-34-1} {calcification rate} per unit time per unit area of the bed by model prediction"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CALMOD02/1/"

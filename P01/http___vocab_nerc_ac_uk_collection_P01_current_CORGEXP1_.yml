@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "POC_>GF/F_Acid_ElemAnal_bioassay"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Particulates collected on a GF/F filter were acid fumed then analysed using a carbon/nitrogen elemental analyser."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of organic carbon {organic_C CAS 7440-44-0} {POC} per unit volume of experiment water sample [particulate >GF/F phase] by filtration, acidification and elemental analysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CORGEXP1/3/"

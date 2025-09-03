@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: total_Na_aerosol_ERR
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The estimated uncertainty or 'error' associated with the specified measurement.
+    The method used to estimate uncertainty should be described in the usage metadata.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration uncertainty of sodium {Na CAS 7440-23-5} per unit volume
+    of the atmosphere [aerosol phase]
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CSO88252/1/

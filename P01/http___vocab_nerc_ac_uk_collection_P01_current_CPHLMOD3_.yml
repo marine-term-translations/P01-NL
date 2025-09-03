@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "chl-a_WetSed_model_fluor"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The quantity or mass of the specified analyte normalised to a unit volume of the undisturbed sediment (inclusive of the sediment particles and sediment pore water) as predicted by a simulation of the fluorescence of the specified analyte by a numerical model."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of chlorophyll-a {chl-a CAS 479-61-8} per unit volume of the wet sediment by model prediction of fluorescence"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CPHLMOD3/1/"

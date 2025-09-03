@@ -1,0 +1,19 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "CCW"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The side-to-side dimension taken along the curved surface of the bony or chitinous case or shield covering the back or part of the back of some animals like turtles or crabs identified elsewhere in the data schema, following its natural shape.
+"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Width of biological entity specified elsewhere [Subcomponent: carapace] {curved carapace width} by curvilinear measurement"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CCWBXX01/1/"

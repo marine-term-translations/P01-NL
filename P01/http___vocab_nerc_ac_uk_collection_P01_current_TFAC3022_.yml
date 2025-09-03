@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "20:5(n-3)_CalFin_C3"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Proportion of total fatty acids of cis-5,cis-8,cis-11,cis-14,cis-17-eicosapentaenoic acid {timnodonic acid C20:5FA cis5,8,11,14,17 CAS 10417-94-4} in biota {Calanus finmarchicus (ITIS: 85272: WoRMS 104464) [Stage: copepodites C3]} by gas chromatography-flame ionisation detection"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/TFAC3022/4/"

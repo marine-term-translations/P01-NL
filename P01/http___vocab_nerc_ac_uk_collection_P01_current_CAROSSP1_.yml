@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Spec_Carot_>GFF"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Spectrophotometric assay using SCOR protocol of acetone extract from GF/F filtered particulates."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of carotenoid pigments per unit volume of the water body [particulate >GF/F phase] by filtration, acetone extraction and spectrophotometry and processed following SCOR protocol"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CAROSSP1/1/"

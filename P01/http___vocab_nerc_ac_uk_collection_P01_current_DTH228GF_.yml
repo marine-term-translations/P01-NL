@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "228Th_<GF/F"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The activity (number of disintegrations per unit time) of the specified analyte in a body of salt or fresh water that has passed through a GF/F filter. The concentration is expressed per unit mass of the water body."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity of thorium-228 {228Th CAS 14274-82-9} per unit mass of the water body [dissolved plus reactive particulate <GF/F phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DTH228GF/1/"

@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: N2OSat
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Saturation of nitrous oxide {N2O CAS 10024-97-2} in the water body by
+    gas chromatography and computation from concentration
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/SN2OGCTX/2/

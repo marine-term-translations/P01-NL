@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Ulva_stranding_type"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Type of seaweed stranding of Ulva macroalgae based on visual estimation of the relative contribution of Ulva to the total stranded algal biomass using three categories: 100%, >30%, <30%."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Relative cover category of Ulva (ITIS: 6559: WoRMS 144296) [Subgroup: stranding] on the Earth by visual estimation of target taxon dominance (100%, >30%, <30%)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/COVCATUV/2/"

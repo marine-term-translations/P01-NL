@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "IntNH4upt_0.2-2um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Depth integration of measurements made by isotope-doped incubation experiments followed by mass spectrometric analysis of particulates collected on a 0.2um pore filter filtering water previously filtered through a 2um pore filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of ammonium {NH4+ CAS 14798-03-9} per day per unit area of the water body [particulate 0.2-2um phase] by isotope-labelled tracer addition, incubation at unspecified light level, cascade filtration and mass spectrometry on residue and profile integration"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SIAUIIPF/5/"

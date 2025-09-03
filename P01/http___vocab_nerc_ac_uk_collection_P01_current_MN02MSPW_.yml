@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: Mn<0.02um_sed_pw
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of total manganese {total_Mn CAS 7439-96-5} per unit volume
+    of the sediment pore water [dissolved plus reactive particulate <0.02um phase]
+    by centrifugal extraction, filtration, acidification and inductively-coupled plasma
+    mass spectrometry
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/MN02MSPW/7/

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Abund_BE001368_SEM"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The number of detached liths in a unit volume of any samples of fresh or salt water body identified as belonging to the named coccolithophorid organism and counted by scanning electron microscopy."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Abundance of Prymnesiophyceae (ITIS: 2135: WoRMS 115057) [Subcomponent: coccoliths] per unit volume of the water body by identification and counting by scanning electron microscopy (SEM)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/APR01368/1/"

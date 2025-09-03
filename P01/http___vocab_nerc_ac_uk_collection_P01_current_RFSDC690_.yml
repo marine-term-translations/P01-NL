@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: REF_690_sed
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The ratio of light reflected from the sediment surface to the light incident
+    on the surface at the specified wavelengths
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Reflectance (685-695 nm wavelength) of the sediment
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/RFSDC690/1/

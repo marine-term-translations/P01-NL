@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "FE++"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The compartment sediment pore water is considered to include the water overlying the sediment in multicorer tubes"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of ferrous ion {Fe2+ divalent iron CAS 15438-31-0} per unit volume of the sediment pore water [dissolved plus reactive particulate phase] by centrifugal extraction and colorimetric autoanalysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/FEDVAADC/3/"

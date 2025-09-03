@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "d18O_carbonate_BE007337"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Enrichment of 18O relative to Vienna Pee Dee Belemnite standard (also referred to as delta-18O) in the carbonate fraction of the specified organism or part thereof."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to Vienna Pee Dee Belemnite (VPDB) of oxygen-18 in carbonate {18O in CO3} {delta(18)O} in biota {Candona (ITIS: 85132: WoRMS 415154) [Subcomponent: shell]} by mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/O1807337/8/"

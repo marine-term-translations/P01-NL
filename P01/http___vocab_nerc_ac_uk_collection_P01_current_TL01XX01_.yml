@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: Total_length
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: A standard body length measurement used in biometric studies and taken
+    as the longest distance along the main axis. In fish biometrics, this is the distance
+    from the tip of the snout in a straight line to the posterior end of the caudal
+    fin. The biological entity is identified elsewhere in the data schema.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Length (total length) of biological entity specified elsewhere
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/TL01XX01/1/

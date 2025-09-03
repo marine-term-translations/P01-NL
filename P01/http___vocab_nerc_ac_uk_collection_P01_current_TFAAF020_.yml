@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "arachidonic_acid_BE000733"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Proportion of total fatty acids of cis-5,cis-8,cis-11,cis-14-eicosatetraenoic acid {arachidonic acid C20:4FA cis 5,8,11,1 CAS 506-32-1} in biota {Calanus finmarchicus (ITIS: 85272: WoRMS 104464) [Stage: adult Sex: female]} by gas chromatography-flame ionisation detection"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/TFAAF020/5/"

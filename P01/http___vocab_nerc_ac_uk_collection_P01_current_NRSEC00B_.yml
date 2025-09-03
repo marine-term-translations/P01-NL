@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "NormRespC500-1000SE"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The standard error of the mean (defined as the standard deviation divided by the square root of the sample size) of multiple determinations of the specified phenomenon."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Consumption rate standard error of oxygen {O2 CAS 7782-44-7} {respiration} per day per unit biomass as carbon of biota {zooplankton [Size: 500-1000um]} by incubation"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NRSEC00B/6/"

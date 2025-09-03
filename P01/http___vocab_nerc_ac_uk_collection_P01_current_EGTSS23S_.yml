@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "GustWS2>3sec"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Maximum speed of the wind (distance moved per unit time by a parcel of air) parallel to the ground during a gust event (generally regarded as an increase over sustained speed of more than 5 m/s) lasting less than 3 seconds, measured by a second in-situ anemometer."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Speed of wind (gust >3 second duration) {wind speed} in the atmosphere by in-situ anemometer (second sensor)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/EGTSS23S/3/"

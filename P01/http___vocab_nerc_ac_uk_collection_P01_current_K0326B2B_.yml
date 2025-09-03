@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Count_BE006176"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Large semi-transparent light brown anemone. ~30 tentacles of ~7cm length and an oval mouth."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Count of Actiniaria (ITIS: 52485: WoRMS 1360) [Size: diameter ~20cm Morphology: ~30 tentacles (length ~7cm), oval mouth Colour: semi-transparent light brown] on the bed by image analysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/K0326B2B/1/"

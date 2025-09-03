@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Vol2MassCTD2"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The factor that may be used to convert seawater sample volume to mass based on density (in-situ potential temperature at surface pressure) computed from CTD temperature and salinity second sensor data."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Conversion factor (volume to mass) for the water body by CTD (second sensor) and computation of density (in-situ potential temperature surface pressure) reciprocal from pressure, temperature and salinity"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/TOKGPR02/2/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "A2_WR"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Coeff. of 2nd harmonic of directional dist'n from co-spectra of horiz translation"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "2nd order directional energy distribution Fourier cosine coefficient of waves {A2} on the water body by waverider and computation from horizontal co-spectra translation after Kuik et al. (1988)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/GA2CFSV2/2/"

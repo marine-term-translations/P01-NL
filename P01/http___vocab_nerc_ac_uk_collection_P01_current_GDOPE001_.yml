@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "GDOP_East"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The Dilution of Precision (DOP) or Geometric Dilution of Precision (GDOP) is the coefficient of the uncertainty which relates the uncertainties in radial and velocity vectors. It is a key index to optimize the configuration and to assess the positioning precision. First defined in Chapman et al, (1997) On the accuracy of HF radar surface current measurements: Intercomparisons with ship-based sensors. Journal of Geophysical Research Atmospheres 1021(C8):18737-18748."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Dilution of precision of position (longitude) {GDOP(E)}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/GDOPE001/2/"

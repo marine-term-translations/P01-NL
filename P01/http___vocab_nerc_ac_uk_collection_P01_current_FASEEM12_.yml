@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "18:1(n-9)_seston_inc"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of cis-9-octadecenoic acid {oleic acid C18:1FA cis-9 CAS 112-80-1} per unit volume of experiment water sample [particulate GF/F-90um phase] by parallel screened water incubations with and without added grazers, grazer removal, filtration and gas chromatography-electron capture detection"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/FASEEM12/4/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PCB169_sed<2000um_HRGC/HRMS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The quantity or mass of the specified analyte contained in a dried subsample of sediment that passes through a 2000 micron sieve and analysed by the specified method."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of 3,3',4,4',5,5'-hexachlorobiphenyl {PCB169 CAS 32774-16-6} per unit dry weight of sediment <2000um by high resolution gas chromatography-high resolution mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CPCMM068/2/"

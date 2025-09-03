@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Hdino<20umB"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "This code was updated on 18-feb-2016 so that the name Dinoflagellates is used instead of Pyrrophycophyta in the preferred label field. The vernacular term 'dinoflagellates' maps to Pyrrophycophyta in the ITIS taxonomy and Dinophyceae in the WoRMS taxonomy. In the context of this code, the 3 terms are considered synonyms."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Biomass as carbon of Dinoflagellates (ITIS: 9873: WoRMS 19542) [Size: <20um Subgroup: heterotrophic] per unit volume of the water body by optical microscopy and computation of carbon biomass from abundance"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/C200E00A/5/"

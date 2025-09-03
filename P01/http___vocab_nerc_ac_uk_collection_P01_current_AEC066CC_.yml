@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "soluble_Y_aerosol_H2O_Leaching"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (mass or moles) of the specified chemical entity contained in aerosols within the specified size fraction isolated from a volume of atmosphere using the specified method."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of soluble yttrium {soluble_Y CAS 7440-65-5} per unit volume of the atmosphere [aerosol phase] by filtration, water leaching"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/AEC066CC/1/"

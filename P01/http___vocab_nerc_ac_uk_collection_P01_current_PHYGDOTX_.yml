@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: PhGrCoeff-NoNuts
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Dilution experiment (shipboard incubation without nutrients)
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Growth coefficient of phytoplankton in the water body by on-deck incubation
+    without nutrients and chlorophyll determination
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/PHYGDOTX/1/

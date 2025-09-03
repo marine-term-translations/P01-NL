@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "leucine_concSD_ambient"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The concentration standard deviation of leucine in any body of salt or fresh water estimated from dilution experiments following the protocol of Zubkov et al. (2007)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration standard deviation of leucine (bioavailable) {CAS 328-39-2} per unit volume of the water body [dissolved plus reactive particulate <0.2um phase] by isotopic dilution time-series incubations, filtration and counting residue and calculation from regression of radioactivity against incubation time for each dilution and extrapolation to ambient concentration"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/LESDDLTX/2/"

@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: pH(SWS)_SD_bioassay_computed
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Carbonate system parameter calculated from two of pCO2, DIC, TA and pH
+    that have been directly measured in a sample collected from an experimental water
+    sample.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: pH (seawater scale) standard deviation {pH[SWS]} of the experiment water
+    sample by computation
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/PHSSECAL/2/

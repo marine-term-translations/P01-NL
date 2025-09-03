@@ -1,0 +1,21 @@
+labels:
+- name: altLabel
+  original: GEBCO_TID
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Integer code used in GEBCO bathymetric data grids to identify the source
+    data type used in the development of the grid for an individual grid cell. The
+    codes are defined in the collection vocab.nerc.ac.uk/collection/GGT/. A value
+    of 0 is used for cells that are land.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Source identifier of GEBCO grid cell data by classification using GEBCO
+    Grid Source Data Type Identifier (SDN:GGT::)
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/GEBCOTID/1/

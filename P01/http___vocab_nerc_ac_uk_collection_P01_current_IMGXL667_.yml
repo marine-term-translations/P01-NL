@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Abund_BE006259"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Large orange coloured anemone. Thin tentacles (~40% radius length) in two whorls of ~15 tentacles each. Mouth visible as a darker orange colour."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Abundance of Actiniaria (ITIS: 52485: WoRMS 1360) [Size: diameter >20cm Morphology: thin tentacles (~40% radius length) in two whorls of ~15 tentacles each, darker orange mouth Colour: orange] per unit area of the bed by image analysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/IMGXL667/2/"

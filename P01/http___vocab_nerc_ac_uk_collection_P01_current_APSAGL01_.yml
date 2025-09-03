@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Speed_GLONASS
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Speed of measurement platform relative to ground surface {speed over ground}
+    by GLONASS satellite navigation system
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/APSAGL01/3/

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Zeu_1%LD"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The depth of the surface layer of a water body where light is sufficient to support photosynthesis. The operational definition of the euphotic zone in lake and ocean sciences is the depth at which photosynthetic available radiation (PAR) is 1% of its surface value (1%LD) as measured just below the surface."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Depth of euphotic zone (1% light depth) relative to water surface in the water body"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ZEUDEP01/1/"

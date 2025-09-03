@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Flux_CO2_sed_model"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Sediment-air flux of carbon dioxide (expressed as carbon) per unit area per unit time from the sediment to the atmosphere as predicted by a numerical model."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Net upward flux (into atmosphere) of carbon dioxide (expressed as carbon) {CO2_as_C CAS 124-38-9} per unit area per unit time from the sediment by model prediction"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/FLCO2SMD/1/"

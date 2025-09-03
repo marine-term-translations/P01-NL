@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "NPUp_>0.2um_530uE"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Measurements made by radiotracer doped constant light incubation at 530 uE/m2/s followed by counting particulates collected on each filter of a filter cascade down to a 0.2um pore filter.  Rate normalised by dividing the total uptake by the incubation duration in hours. Total value obtained by summing size-fractionated data."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of phosphate {PO43- CAS 14265-44-2} per hour per unit volume of the water body [particulate >0.2um phase] by tracer doping, incubation at 530uE/m2/s light level, cascade filtration and counting residue and summation of size-fractionated values"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NPUPREP4/3/"

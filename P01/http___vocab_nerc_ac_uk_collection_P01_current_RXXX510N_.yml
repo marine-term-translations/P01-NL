@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Nlw510
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Alternative and preferred code for this term to avoid leading digit which
+    upsets NetCDF conventions when used in QXF
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Normalised water-leaving radiance of electromagnetic radiation (510nm
+    wavelength) from the water body
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/RXXX510N/2/

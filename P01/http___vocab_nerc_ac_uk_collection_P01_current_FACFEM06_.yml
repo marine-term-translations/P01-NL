@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: cis-9-palmitoleic_acid_BE006323
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Mass of cis-9-hexadecenoic acid {palmitoleic acid C16:1FA cis-9 CAS 373-49-9}
+    per individual specimen of biota {Calanus finmarchicus (ITIS: 85272: WoRMS 104464)
+    [Sex: female]} by gas chromatography-electron capture detection'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/FACFEM06/5/

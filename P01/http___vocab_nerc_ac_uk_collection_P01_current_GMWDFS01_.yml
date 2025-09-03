@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "MeanWaveDir_S4A1B1"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Calculated from 1st Order Fourier Coefficients of Directional Distribution of Energy, A1 and B1"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Direction (from) mean of waves {mean wave direction} on the water body by Interocean S4 wave gauge and computation from 1st order Fourier coefficients of directional distribution of energy, A1 and B1"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/GMWDFS01/3/"

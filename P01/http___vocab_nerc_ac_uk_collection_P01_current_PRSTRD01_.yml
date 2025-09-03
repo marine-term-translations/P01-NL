@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "ResidPress_NoDriftCorr"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Measurement obtained from sensor used to determine wave or sea level parameters, rigidly mounted to seabed or structure."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Pressure (residual) exerted by the water body plus atmosphere by fixed in-situ pressure sensor and subtraction of value predicted by tidal analysis without correction for drift"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PRSTRD01/2/"

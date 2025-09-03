@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "xN2OEquilSamp"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Ratio of the mass or quantity of matter (moles) of gaseous nitrous oxide to the mass or quantity of matter (moles) of air in equilibrium with a water body sample."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Mixing ratio (equilibrated marine sample) of nitrous oxide {N2O CAS 10024-97-2}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MXRM2OMS/3/"

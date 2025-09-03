@@ -1,0 +1,21 @@
+labels:
+- name: altLabel
+  original: SE_9-myristoleic_acid_BE006321
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The standard error of the mean (defined as the standard deviation divided
+    by the square root of the sample size) of multiple determinations of the specified
+    phenomenon.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Mass standard error of 9-tetradecenoic acid {9-myristoleic acid} per
+    individual specimen of biota {Calanus finmarchicus (ITIS: 85272: WoRMS 104464)
+    [Stage: eggs]} by gas chromatography-electron capture detection'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/FACFGE02/9/

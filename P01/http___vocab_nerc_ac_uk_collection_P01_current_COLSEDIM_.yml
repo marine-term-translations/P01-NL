@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "ColSed"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A text term plus URI describing the sediment colour by visual comparisons with definitions in the Geo-Seas Sediment Colour controlled vocabulary"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Description of colour of sediment by visual estimation and classification to a term from the Geo-Seas Sediment Colour Vocabulary (SDN:GS4::)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/COLSEDIM/2/"

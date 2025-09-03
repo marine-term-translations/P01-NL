@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "238U/236U_filt_water"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Isotope activity ratio of uranium-238 over uranium-236 in a sample from any body of fresh or salt water that has been filtered through a filter of unknown pore size."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity ratio of uranium-238/uranium-236 {238U/236U} in the water body [dissolved plus reactive particulate <unknown phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ARURXX03/1/"

@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: 21:5(n-3)_CalFin_C4
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Proportion of total fatty acids of cis-6,cis-9,cis-12,cis-15,cis-18-heneicosapentaenoic
+    acid in biota {Calanus finmarchicus (ITIS: 85272: WoRMS 104464) [Stage: copepodites
+    C4]} by gas chromatography-flame ionisation detection'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/TFAC4023/2/

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "UKMarHabClass97.06"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A text term plus URI describing the seabed habitat of marine, coastal or estuarine waters using the JNCC's Marine Habitat Classification for Britain and Ireland Version 97.06."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Description of habitat by classification to a term from the JNCC's Marine Habitat Classification for Britain and Ireland Version 97.06 (SDN:M24::)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/UKMH9706/1/"

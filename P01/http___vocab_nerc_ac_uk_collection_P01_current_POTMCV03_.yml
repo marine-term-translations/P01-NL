@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Potemp_TEOS10"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The temperature that a parcel of water would have if moved adiabatically (i.e. without exchange of heat) to a standard reference pressure; calculated using the IOC, SCOR and IAPSO 2010 (UNESCO TEOS-10) algorithm."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Potential temperature of the water body by computation using UNESCO 2010 algorithm"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/POTMCV03/1/"

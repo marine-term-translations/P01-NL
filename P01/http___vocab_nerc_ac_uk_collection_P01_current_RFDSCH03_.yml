@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: RivDisch_H2O_WLG
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Riverine discharge of water by water level gauge and calculation from
+    level
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/RFDSCH03/1/

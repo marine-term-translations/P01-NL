@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Count_BE006257"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Roughly spherical with ~15 1cm long & 1cm wide projections spaced evenly. Grey in colour"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Count of Demospongiae (ITIS: 47528: WoRMS 164811) [Size: diameter ~6cm Morphology: roughly spherical with ~15 evenly-spaced 1cm by 1cm projections Colour: grey] on the bed by image analysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/Z73286B2/1/"

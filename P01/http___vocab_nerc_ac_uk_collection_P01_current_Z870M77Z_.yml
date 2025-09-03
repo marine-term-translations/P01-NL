@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Z870M77Z
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Keratella cochlearis tecta (ITIS: 58366: WoRMS 248020) per
+    unit volume of the water body by optical microscopy'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/Z870M77Z/1/

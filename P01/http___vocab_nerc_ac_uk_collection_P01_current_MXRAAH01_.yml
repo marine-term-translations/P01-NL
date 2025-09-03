@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "AtmosAcetaldehyde"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Ratio of the mass or quantity of matter (moles) of gaseous acetaldehyde to the mass or quantity of matter (moles) of air."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Mixing ratio of acetaldehyde {ethanal CH3CHO CAS 75-07-0} in the atmosphere by proton transfer reaction mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MXRAAH01/1/"

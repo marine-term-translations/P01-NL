@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "MnRelUp"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Tracer doped incubation in the dark (0.45 pore filtered)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Rate of change of partition coefficient (hourly) of total manganese {Mn CAS 7439-96-5} per unit time in the water body [particulate >0.4/0.45um phase] by isotope-labelled tracer addition, incubation in the dark, filtration and counting filtrate and residue and computation of rate of change from variable incubation durations"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MNRURDP2/3/"

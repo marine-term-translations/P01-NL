@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DTP_<GF/F_AA/kg"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (mass or moles) of total phosphorus (i.e.phosphorus in all chemical forms) measured in a unit volume of filtrate of a sea water sample following filtration through GF/F, oxidation and analysis as phosphate using colorimetric autoanalysis. The results were then normalised to a unit mass of water."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of total phosphorus {total_P CAS 7723-14-0} {TDP} per unit mass of the water body [dissolved plus reactive particulate <GF/F phase] by filtration and colorimetric autoanalysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/TPHSKGD1/9/"

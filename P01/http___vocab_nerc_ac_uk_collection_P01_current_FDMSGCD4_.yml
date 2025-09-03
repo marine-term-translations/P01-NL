@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DMSFlux"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Computed from dissolved DMS (DMSXGCD4) and shipboard windspeed"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Steady-state flux (into atmosphere) of dimethyl sulphide {DMS CAS 75-18-3} per unit time per unit area of the water body by purging, cryogenic trapping and gas chromatography and calculation from DMS concentration and shipboard wind speed"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/FDMSGCD4/3/"

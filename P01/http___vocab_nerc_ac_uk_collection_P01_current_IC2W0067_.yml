@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Diss_CAS205-99-2_GFF"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Quantity or mass of the specified substance measured in a specified volume of a sample of water filtered through a GF/F glass fiber filter from any body of fresh or salt water."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of benzo(b)fluoranthene {CAS 205-99-2} per unit volume of the water body [dissolved plus reactive particulate <GF/F phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/IC2W0067/1/"

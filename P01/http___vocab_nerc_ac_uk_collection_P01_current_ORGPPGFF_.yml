@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "POP_>GF/F"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Concentration (mass or moles) of organic phosphorus (i.e.phosphorus in carbon compounds) in suspended particulate material collected on a GF/F filter where the method of analysis is not specified"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of organic phosphorus {organic_P CAS 7723-14-0} {POP} per unit volume of the water body [particulate >GF/F phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ORGPPGFF/1/"

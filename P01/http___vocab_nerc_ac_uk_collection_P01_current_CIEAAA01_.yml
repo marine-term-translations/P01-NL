@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "CIELAB_a_sed"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "One of the numeric colour opponent dimensions which is used to describe chromaticity of sediment colour as defined by the CIELAB 1976 colour space."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "CIELAB coordinate a* (CIELAB 1976 colour space) of the sediment by calculated using CIE algorithm with 2 degree standard observer and D65 illuminant"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CIEAAA01/1/"

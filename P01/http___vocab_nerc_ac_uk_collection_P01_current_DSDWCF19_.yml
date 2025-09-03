@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: DryWtDBT_BE006655
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The amount (mass or number of moles) of the specified analyte per unit
+    weight of the specified organism or part thereof after water has been removed.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of dibutyltin {DBT dibutylstannane CAS 1002-53-5} per unit
+    dry weight of biota {Platichthys flesus (ITIS: 172894: WoRMS 127141) [Sex: male
+    Subcomponent: muscle tissue]}'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/DSDWCF19/5/

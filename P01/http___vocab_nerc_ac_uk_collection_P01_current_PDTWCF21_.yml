@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: WetWt_pDDT_BE006656
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of 4,4''-dichlorodiphenyltrichloroethane {p,p''-DDT CAS
+    50-29-3} per unit wet weight of biota {Pleuronectes platessa (ITIS: 172902: WoRMS
+    127143) [Sex: female Subcomponent: liver]}'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/PDTWCF21/5/

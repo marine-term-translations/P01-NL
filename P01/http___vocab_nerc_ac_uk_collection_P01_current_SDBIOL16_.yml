@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PEG_BVOL_year_HELCOM_COMBINE"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Code used to indicate to which version of the annex 'Biovolumes and Size-classes of Phytoplankton in the Baltic Sea' was used. Recommended use is a SIZRF code from the ICES vocabulary server at http://ices.dk/marine-data/vocabularies/Pages/default.aspx."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "HELCOM COMBINE guidelines version used in calculation"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SDBIOL16/1/"

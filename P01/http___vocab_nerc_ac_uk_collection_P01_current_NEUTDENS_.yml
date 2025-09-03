@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Neutral_Density"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The neutral density is a variable used in oceanography, introduced in 1997 by David R. Jackett and Trevor J. McDougall. It is a function of the three state variables (salinity, temperature, and pressure) and the geographical location (longitude and latitude) and it has the typical units of density (mass/volume). The level surfaces of neutral density, form the "neutral density surfaces", which are the most natural layer interfaces stratifying the deep ocean circulation, along which the strong lateral mixing in the ocean occurs. These surfaces are used in the analyses of ocean data and to perform models of the ocean circulation. The formation of neutral density surfaces from a given hydrographic observation requires only a call to a computational code (available for Matlab and Fortran), that contains the computational algorithm developed by Jackett and McDougall."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Density (neutral) of the water body"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NEUTDENS/1/"

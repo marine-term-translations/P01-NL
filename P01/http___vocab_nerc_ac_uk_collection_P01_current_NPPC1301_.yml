@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PP_daily_GFF-20um_C13"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The daily rate of inorganic carbon taken up by particles passing through a 20um pore filter but retained by a GF/F filter analysed by mass spectrometry following incubations of water samples doped with carbon-13 radioisotope under simulated in-situ light conditions."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of carbon {C} {primary production} per day per unit volume of the water body [particulate GF/F-20um phase] by carbon-13 isotope-labelled tracer addition, dawn-to-dawn on-deck incubation at simulated in-situ light level, filtration and mass spectrometry and computation using equations from Legendre and Gosseline (1996)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NPPC1301/1/"

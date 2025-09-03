@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: WetWtMPT_BE006638
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of monophenyltin {MPT CAS 2406-68-0} per unit wet weight
+    of biota {Merlangius merlangus (ITIS: 164758: WoRMS 126438) [Subcomponent: liver]}'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/MPMMCF12/4/

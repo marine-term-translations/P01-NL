@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: MgO_geosamp
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Proportion of magnesium (expressed as magnesium oxide) {Mg_as_MgO CAS
+    7439-95-4} per unit weight of geological sample
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/MAJO0030/4/

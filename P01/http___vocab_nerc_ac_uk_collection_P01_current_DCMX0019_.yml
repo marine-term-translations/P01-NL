@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Conc_myrcene_water<0.4/0.45um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Concentration (mass or moles) of the analyte contained in a unit volume of a sample of any body of fresh or salt water that has been filtered using an 0.4/0.45um pore size filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of myrcene {CAS 123-35-3} per unit volume of the water body [dissolved plus reactive particulate <0.4/0.45um phase] by gas chromatography-mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DCMX0019/2/"

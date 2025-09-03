@@ -1,0 +1,22 @@
+labels:
+- name: altLabel
+  original: SECOSDarkProd
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The standard error of the mean (defined as the standard deviation divided
+    by the square root of the sample size) of multiple determinations of the specified
+    phenomenon.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Production rate standard error of carbonyl sulfide {COS CAS 463-58-1}
+    per unit time per unit volume of the water body [dissolved plus reactive particulate
+    <GF/F phase] by filtration, incubation in the dark, purging, cryogenic trapping
+    and gas chromatography and correction for hydrolysis
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CSDEGCD1/5/

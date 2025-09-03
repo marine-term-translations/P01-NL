@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "BDE119_SPM"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Quantity or mass of the specified compound contained per unit dry weight of suspended material extracted from an unspecified volume of a body of fresh or salt water by filtration or centrifugation."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of 2,3',4,4',6-pentabromodiphenyl ether {BDE119 CAS 189084-66-0} per unit dry weight of suspended particulate material"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MUM13246/1/"

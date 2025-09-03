@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "BedLaminSed"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A text term plus URI describing bedding and lamination in the sediment by visual comparisons with definitions in the CGI Fabric Type controlled vocabulary"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Description of sediment bedding and lamination of sediment by visual estimation and classification to a term from CGI FabricType Vocabulary (urn:cgi:classifier:CGI:FabricType)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SSSTRATF/1/"

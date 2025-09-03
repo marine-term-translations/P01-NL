@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Carb_C073M82Z"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Optical microscopy. Spelling changed from varrensis as no references to varrensis can be found.  Typographical error (one occurrence only) is original data submission assumed."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Biomass as carbon of Navicula yarrensis (ITIS: 3718: WoRMS 418385) per unit volume of the water body by optical microscopy and computation of carbon biomass from abundance"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/C073M82Z/2/"

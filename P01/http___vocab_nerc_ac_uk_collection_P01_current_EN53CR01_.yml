@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "delta_53Cr_<0.4/0/45um_ICPMS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The isotopic enrichment of 53Cr ([53Cr/52Cr] sample / [53Cr/52Cr] NIST SRM 979 -1) x 1000) in a body of water after the removal of particles through filtration. NIST previously known as NBS until 1988."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to 53Cr/52Cr in NIST SRM 979 of chromium-53 {53Cr} {delta(53)Cr} in the water body [dissolved plus reactive particulate <0.4/0.45um phase] by filtration and inductively-coupled plasma mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/EN53CR01/3/"

@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: GustWS>1min
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Speed of wind (gust >1 minute duration) {wind speed} in the atmosphere
+    by in-situ anemometer
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/EGTSSS1M/2/

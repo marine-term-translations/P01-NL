@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "RHDAPI38"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Relative hybridisation with Synechococcus probe (405SYN) of Bacteria (ITIS: 202421: WoRMS 6) by preservation, filtration and CARD-FISH with DAPI staining and epifluorescence microscopy and expressed as a proportion of DAPI-stained cells"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/RHDAPI38/1/"

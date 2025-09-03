@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "VectorVelErrorCompInst(ADCP)"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Error associated to the vector velocity measured by an ADCP based on an instrument's specifications and the number of good pings received during deployment."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Vector velocity error of water current in the water body by acoustic doppler current profiler (ADCP) and computation from manufacturer's stated ping standard deviation divided by the squared root of the number of good pings in an ensemble"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/VVERRIP1/1/"

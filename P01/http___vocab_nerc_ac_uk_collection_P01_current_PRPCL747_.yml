@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: PrSed_WorV_Siz_5600-11200um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The weight or volume (normalised by total sample weight or volume) of
+    sediment sample particles with a nominal diameter between 5600 and 11200 microns
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Proportion by weight or volume of particles (5600-11200um) in the sediment
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/PRPCL747/2/

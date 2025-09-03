@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "WaterAbs440nm_Filt<0.1um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Absorbance of monochromatic light with a wavelength of 440nm by a sample of a fresh or salt water body that has been passed through a 0.1um pore filter. The quoted value either results from a single determination or the average of replicate determinations."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Absorbance of electromagnetic radiation (440nm wavelength) {gelbstoff light absorbance} in the water body [dissolved plus reactive particulate <0.1um phase] by filtration and spectrophotometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SWLA440C/5/"

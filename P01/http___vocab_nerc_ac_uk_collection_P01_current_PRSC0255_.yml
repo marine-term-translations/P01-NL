@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: PrSedByWtSiz_>4000um_DryWetSievGrav
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The weight (normalised by total sample weight) of sediment sample particles
+    with a nominal diameter greater than 4000 microns.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Proportion by dry weight of particles (>4000um) in the sediment by drying,
+    wet sieving <63um, dry sieving >63um and gravimetry
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/PRSC0255/1/

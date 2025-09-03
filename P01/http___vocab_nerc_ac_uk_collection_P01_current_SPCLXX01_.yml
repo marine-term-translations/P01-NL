@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "CulmenLength"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The length of the dorsal ridge of the upper part of the bill (culmen) of bird specimens identified elsewhere in the data or metadata; the reference points used for the measurement vary depending on the bird species and the method should be recorded in the usage metadata."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Length of biological entity specified elsewhere [Subcomponent: culmen]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SPCLXX01/3/"

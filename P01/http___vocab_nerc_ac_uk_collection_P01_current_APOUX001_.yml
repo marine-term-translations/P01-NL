@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Ux_40K_act_sediment"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The measurement uncertainty scaled to a given confidence level of the rate of radioactive disintegrations due to the specified nuclide in a dried subsample of sediment by gamma-ray spectroscopy."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity expanded uncertainty of potassium-40 {40K CAS 13966-00-2} per unit dry weight of sediment by gamma spectroscopy"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/APOUX001/5/"

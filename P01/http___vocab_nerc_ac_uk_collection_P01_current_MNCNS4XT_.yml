@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Stage4BulkSedMnCont"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (quantity or mass) of manganese in all oxidation states released from a subsample of bulk (unsieved) sediment at stage 4 of the Chester et al (1988) 6-stage sequential leaching protocol and analysed by atomic absorption spectroscopy."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of moderately-reducible total manganese per unit dry weight of sediment by leaching with 0.25M hydroxylamine hydrochloride + 25% acetic acid of leached sample residue from stage 3 in Chester et al (1988) and atomic absorption spectroscopy"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MNCNS4XT/4/"

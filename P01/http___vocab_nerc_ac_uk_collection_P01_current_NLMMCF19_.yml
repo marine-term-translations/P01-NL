@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: WetwtCAS56-55-3_BE006644
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of benzo(a)anthracene {CAS 56-55-3} per unit wet weight
+    of biota {Nucella lapillus (ITIS: 73297: WoRMS 140403) [Subcomponent: flesh]}'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/NLMMCF19/3/

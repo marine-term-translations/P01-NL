@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Decomp_stage"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A coded label published in Rowles et al (2001) indicating the stage of decomposition (condition code) of one or more specimens of a marine mammal (identified elsewhere in the data or metadata) in the sample or observation. This may refer to a single individual if the sample count is one. Possible values are code 1 = live stranding, code 2 = fresh dead stranding, code 3 = moderate decomposition, code 4 = advanced decomposition, and code 5 = mummified carcass or skeleton. Rowles, T.K., Van Dolah, F.M., Hohn, A.A. (2001) Gross necropsy and specimen collection protocols. In T.K. Rowles, F.M. Van Dolah and A.A. Hohn (Eds), CRC handbook of marine mammal medicine (pp. 449-470). Boca Raton, U.S.A.: CRC Press."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Specimen decomposition stage code of biological entity specified elsewhere by classification according to Rowles et al (2001)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DECSBEXX/1/"

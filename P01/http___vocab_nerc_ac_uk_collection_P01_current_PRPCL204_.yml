@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: PrSedByVolSiz_878.7-1023.7um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The volume (normalised by total sample volume) of sediment sample particles
+    with a nominal diameter between 878.7 and 1023.7 microns
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Proportion by volume of particles (878.7-1023.7um) in the sediment
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/PRPCL204/2/

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "LorSpec_Phae_>5um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Spectrophotometric assay following the Lorenzen protocol of acetone extract from particulates collected on a 5um pore filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of phaeopigments {pheopigments} per unit volume of the water body [particulate >5um phase] by filtration, acetone extraction and spectrophotometry and processing following the Lorenzen protocol"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SPHASPPA/2/"

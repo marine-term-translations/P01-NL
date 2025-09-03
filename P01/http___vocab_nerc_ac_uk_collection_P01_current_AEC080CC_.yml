@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "soluble_Th_aerosol_NH4AC_Leaching_>1um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (mass or moles) of the specified chemical entity contained in aerosols within the specified size fraction isolated from a volume of atmosphere using the specified method."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of soluble thorium {soluble_Th CAS 7440-29-1} per unit volume of the atmosphere [aerosol >1um phase] by filtration, leaching with pH 4.7 ammonium acetate buffer"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/AEC080CC/1/"

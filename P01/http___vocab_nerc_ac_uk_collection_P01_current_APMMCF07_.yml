@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: WetWtCAS83-32-9_BE006649
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of acenaphthene {CAS 83-32-9} per unit wet weight of biota
+    {Limanda limanda (ITIS: 172881: WoRMS 127139) [Sex: male Subcomponent: liver]}'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/APMMCF07/2/

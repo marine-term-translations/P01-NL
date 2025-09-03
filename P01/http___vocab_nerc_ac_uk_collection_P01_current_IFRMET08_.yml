@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: DryWt_Cd_BE007125
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The amount (mass or number of moles) of the specified analyte per unit
+    weight of the specified organism or part thereof after water has been removed.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of cadmium {Cd CAS 7440-43-9} per unit dry weight of biota
+    {Venerupis philippinarum (ITIS: 81477: WoRMS 367756) [Subcomponent: flesh]}'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/IFRMET08/2/

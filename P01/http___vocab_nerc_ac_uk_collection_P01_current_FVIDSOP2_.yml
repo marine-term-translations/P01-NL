@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "fric_vel_20av_sonic_eddy_cov"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The 20-minute averaged shear stress in units of velocity exerted by wind in the atmosphere measured by sonic anemometer and using the eddy covariance method."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Friction velocity 20-minute mean of wind in the atmosphere by in-situ sonic anemometer and computation using the eddy covariance method"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/FVIDSOP2/1/"

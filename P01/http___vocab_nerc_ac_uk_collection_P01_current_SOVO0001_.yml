@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "CntBrdPair"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The number of breeding pairs or occupied territories of a given species in a given area. This number is determined by standardized interpretation of several types of territory-indicative behavior (song, pair bond, alarm, nest, etc.) observed during several visits to the survey area. The number of visits depends on habitat and species selection (all species or a fixed selection of rare or scarce species)."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Count (breeding pairs) of biological entity specified elsewhere"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SOVO0001/2/"

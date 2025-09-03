@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "BactDOCUp"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Incubation experiment on 0.8um filtered water. DOC determined by Pt HTCO."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of organic carbon {organic_C CAS 7440-44-0} {DOC} per hour per unit volume of the water body [particulate <0.8um phase] by filtration, incubation and high temperature catalytic oxidation and differencing DOC before and after incubation"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DOCUCOBC/4/"

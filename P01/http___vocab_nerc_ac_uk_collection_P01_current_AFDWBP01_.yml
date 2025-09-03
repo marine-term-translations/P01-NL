@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DailyBenthicProdAFDW"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Daily macrobenthic production estimated from ash free dry weight biomass in micrograms and the water temperature in degree Celsius according to a general allometric equation (Edgar, 1990)."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Ash-free dry weight biomass production rate of biological entity specified elsewhere per day per unit area of the bed by computation from ash-free dry weight and temperature using a general allometric equation (Edgar, 1991)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/AFDWBP01/1/"

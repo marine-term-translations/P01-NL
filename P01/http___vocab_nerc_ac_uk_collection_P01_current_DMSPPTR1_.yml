@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DMSPD_<GF/F_PTRMS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The concentration (mass or moles) of DMSP in the dissolved phase following the removal of DMS. DMSP is determined using chemical cleavage to DMS and subsequent analysis by Proton Transfer Reaction Mass Spectrometry."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of dimethylsulfoniopropionate {DMSP dimethylsulphoniopropionate CAS 7314-30-9} per unit volume of the water body [dissolved plus reactive particulate <GF/F phase] by filtration, alkali hydrolysis and proton transfer reaction mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DMSPPTR1/2/"

@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Numb_BE006092
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Count (in assayed sample) of Euphausia krohnii (ITIS: 660849: WoRMS 110687)
+    [Stage: sub-adult Sex: female]'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/D30B3217/3/

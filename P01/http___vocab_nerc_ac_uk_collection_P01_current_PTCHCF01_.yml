@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Glider_Pitch_Config
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The distance of a glider's internal pitch mass from the position that
+    would maintain neutral pitch (Positive nose up).
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Setting (offset distance from neutral) of glider pitch mass
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/PTCHCF01/1/

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Po210/Pb210_water<0.4/0.45um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Isotope activity ratio of dissolved polonium-210 over dissolved lead-210 in a sample from any body of fresh or salt water after removal of particles larger than 0.4/0.45um."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity ratio of polonium-210/lead-210 {210Po/210Pb} in the water body [dissolved plus reactive particulate <0.4/0.45um phase] by filtration, acidification and alpha spectroscopy"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/APO77005/1/"

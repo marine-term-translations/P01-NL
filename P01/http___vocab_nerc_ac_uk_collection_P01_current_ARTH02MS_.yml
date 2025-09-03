@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: 232Th/230Th_<0.2um_ICPMS
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Activity ratio of thorium-232/thorium-230 {232Th/230Th} in the water body
+    [dissolved plus reactive particulate <0.2um phase] by filtration, acidification
+    and inductively-coupled plasma mass spectrometry
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ARTH02MS/2/

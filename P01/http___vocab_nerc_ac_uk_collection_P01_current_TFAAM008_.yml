@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "stearic_acid_BE000734"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Proportion of total fatty acids of octadecanoic acid {C18:0FA stearic acid CAS 57-11-4} in biota {Calanus finmarchicus (ITIS: 85272: WoRMS 104464) [Stage: adult Sex: male]} by gas chromatography-flame ionisation detection"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/TFAAM008/4/"

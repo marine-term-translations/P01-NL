@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "NCUpt_>2um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Measurements made by radiotracer doped experiment, incubation at simulated in-situ light level, followed by counting of particulates collected on a cascade filter down to 2um and summing the size fractions. Rate normalised by dividing the total uptake by the incubation duration in hours."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of carbon {C} per hour per unit volume of the water body [particulate >2um phase] by isotope-labelled tracer addition, on-deck incubation at simulated in-situ light level, cascade filtration and counting residue and summation of size-fractionated values"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SNCURAAC/4/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "d13C_VPDB_atCH4"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Enrichment of 13C relative to Vienna Pee Dee Belemnite standard (also referred to as delta-13C) in atmospheric methane. Measurement is either a single determination or the average of replicates."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to Vienna Pee Dee Belemnite (VPDB) of carbon-13 in methane {13C in CH4 CAS 14762-74-4} {delta(13)C} in the atmosphere by mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ECH4VPDB/4/"

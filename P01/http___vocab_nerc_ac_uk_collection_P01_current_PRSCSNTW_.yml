@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: PrNCSSzClss2-63
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Particle sizer after removal of carbonates by acidification
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Proportion of particles (2-63um) in the sediment [non-carbonate phase]
+    by acidification and particle sizer
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/PRSCSNTW/3/

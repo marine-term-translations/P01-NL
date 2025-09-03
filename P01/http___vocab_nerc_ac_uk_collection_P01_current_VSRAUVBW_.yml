@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DWIrr_UVB"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The radiation flux integrated over the UV-B (280-315nm) wavelengths travelling vertically downwards through the atmosphere"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Downwelling vector irradiance as energy of electromagnetic radiation (ultra-violet B wavelengths) in the atmosphere by cosine-collector radiometer"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/VSRAUVBW/2/"

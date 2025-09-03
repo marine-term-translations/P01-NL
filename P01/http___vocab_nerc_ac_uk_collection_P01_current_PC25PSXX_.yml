@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Siz25pctile
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Particle sizer assuming cumulative frequency ordered by phi (coarse to
+    fine)
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Grain-size 25th percentile of particles in sediment by particle sizer
+    and analysis of cumulative frequency ordered by phi (coarse to fine)
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/PC25PSXX/2/

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "AARSSD_BE000731"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "PPi refers to the name of the reagent used in this procedure"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity standard deviation (hourly per unit mass protein) of aminoacyl-tRNA synthetases {AARS} in biota {Calanus finmarchicus (ITIS: 85272: WoRMS 104464) [Stage: C5]} by method of Yebra and Hernandez-Leon modified by Yebra et al. (2005) and expressed as PPi"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/U99A14SD/3/"

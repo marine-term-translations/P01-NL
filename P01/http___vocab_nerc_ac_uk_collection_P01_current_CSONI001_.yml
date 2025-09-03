@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "soluble_NO3-_aerosol_<1um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (mass or moles) of the specified ion which is incorporated into compounds readily dissolved in water and present in the aerosol phase within the specified size fraction in a unit volume of atmosphere."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of soluble nitrate {soluble_NO3- CAS 14797-55-8} per unit volume of the atmosphere [aerosol <1um phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CSONI001/1/"

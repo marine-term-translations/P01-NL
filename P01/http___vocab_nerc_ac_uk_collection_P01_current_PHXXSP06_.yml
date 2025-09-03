@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "pH(T)_spec_int_TS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The free proton (hydrogen ion) concentration plus the hydrogen sulfate ion concentration of the water measured using a spectrophotometer (internal electrode) and expressed on the pH total scale, with manufacturer's calibration and further calibration against independent measurements of tempearture and salinity applied."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "pH (total scale) {pH[T]} of the water body by spectrophotometry (internal electrode) and manufacturer's calibration and correction against independent temperature and salinity measurements"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PHXXSP06/2/"

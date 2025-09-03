@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PON_>GF/C_ElemAnal"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Carbon/nitrogen analysis of particulates collected on a GF/C filter. Usually regarded as particulate organic nitrogen (PON) because all particulate nitrogen assumed to be organic."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of total nitrogen {total_N} {PON} per unit volume of the water body [particulate >GF/C phase] by filtration and elemental analysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NTOTCNP3/2/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Conc_labile_La_water<0.4/0.45um_ICPMS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (mass or mole) of the specified element extracted by mild acid treatment from suspended particles retained by a 0.4-0.45um filter and analysed by ICP-MS."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of labile lanthanum {labile_La CAS 7439-91-0} per unit volume of the water body [particulate >0.4/0.45um phase] by filtration, acid leaching and inductively-coupled plasma mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CLA77046/1/"

@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: MedCopGutPig_acet
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Gut pigment content per individual of Copepoda (ITIS: 85257: WoRMS 1080)
+    [Size: 500-1000um] by acetone extraction and fluorometry and computation as chorophyll-a
+    equivalent'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/GPIGFACB/2/

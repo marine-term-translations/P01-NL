@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "AttenBS_700nm_142deg"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The proportion of light lost between an in-situ transmitter, that transmits at a 142 degree angle, and a receiver due to the process of scattering that is measured at a wavelength of 700 nm."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Attenuation due to backscatter of electromagnetic radiation (700nm wavelength at 142 degree incidence) by the water body by in-situ optical backscatter measurement"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/BB142RVL/1/"

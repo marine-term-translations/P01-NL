@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: Eu_filt0.45um_ICPMS/kg
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The concentration of europium  in a body of salt or fresh water after
+    removal of particles larger than 0.45 microns by filtration.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of europium {Eu CAS 7440-53-1} per unit mass of the water
+    body [dissolved plus reactive particulate <0.4/0.45um phase] by filtration, acidification
+    and inductively-coupled plasma mass spectrometry
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/EUKG45MS/3/

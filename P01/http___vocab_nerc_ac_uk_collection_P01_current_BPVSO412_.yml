@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "VolScattering_Beta_p_particles_412nm"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The radiant intensity of scattered light from particles in the water body as a function of angle, with the scattering contribution of pure seawater removed, measured at the specified wavelength by an in-situ optical backscattering instrument. Beta(p) is determined by calculating the volume scattering of pure seawater and removing it from the total volume scattering coefficient (Beta) to yield the volume scattering attributable to particles only."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Volume scattering attributable to particles of electromagnetic radiation (412nm wavelength) {Beta(p)} in the water body by in-situ optical backscatter measurement"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/BPVSO412/1/"

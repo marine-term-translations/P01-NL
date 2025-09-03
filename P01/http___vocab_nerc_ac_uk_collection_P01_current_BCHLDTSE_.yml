@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Bact_chl_turnover_SE"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Standard error of the rate of decay over daylight hours (dawn to dusk) of bacteriochlorophyll-a"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Turnover rate standard error (daily) of bacteriochlorophyll-a {CAS 17499-98-8} per unit time in the water body by on-deck incubation at simulated in-situ light level, DCMU poisoning and infra-red kinetic fluorometry and exponential decay curve fitting"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/BCHLDTSE/2/"

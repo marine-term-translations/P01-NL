@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "4-keto-hexanoylfucoxanthin_water>0.2um_HPLC"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "HPLC assay of acetone extraction (GF/F filtered)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of 4-keto-hexanoylfucoxanthin per unit volume of the water body [particulate >0.2um phase] by filtration, acetone extraction and high performance liquid chromatography (HPLC)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/K4HXHPP5/2/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SortSedVis"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A text term plus URI describing the grain-size variability of the sediment by visual comparisons with definitions in the CGI Particle Sorting controlled vocabulary"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Description of grain-size sorting of sediment by visual estimation and classification to a term from the CGI Particle Sorting Vocabulary (urn:classifier:CGI:ParticleSorting)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SRTCVIES/1/"

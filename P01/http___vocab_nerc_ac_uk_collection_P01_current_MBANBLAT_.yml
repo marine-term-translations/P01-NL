@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "BathyDep_LAT"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The distance from the lowest level expected to be reached by the sea surface after pertubations due to waves have been filtered out under average meteorological conditions and any combination of astronomical conditions to the sea bed at a particular location."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Bathymetric depth of seafloor relative to Lowest Astronomical Tide datum {sea-floor depth} in the water body"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MBANBLAT/2/"

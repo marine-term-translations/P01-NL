@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Temp_lab_cal
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Temperature of the water body by in-situ thermometer and laboratory calibration
+    applied
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/TMCLCCL1/2/

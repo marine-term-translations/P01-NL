@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: epidoteAllo_sed0.14-0.25mm
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Proportion of epidote (allothigenous) in sediment 140-250um [heavy fraction
+    phase] by separation in bromoform and optical microscopy
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/HMIN0027/2/

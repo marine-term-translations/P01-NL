@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PartTh234_>GF/F"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Number of disintegrations per unit of time of 234Th nuclei in suspended particulate material retained by a GF/F filter per unit volume of any fresh or salt water body."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity of thorium-234 {234Th CAS 15065-10-8} per unit volume of the water body [particulate >GF/F phase] by filtration and beta spectroscopy"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/T234PL02/6/"

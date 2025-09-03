@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "MinSeafloorDepth"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The minimum seafloor depth at which a biological entity specified elsewhere in the data schema was observed in a sample. The parameter is typically used in case of transect with different sub-samples collected at different depths."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Depth minimum of biological entity specified elsewhere on the bed by epibenthic sampling"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DMIN7117/2/"

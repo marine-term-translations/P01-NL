@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: Z841M00R_500-1000um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Size fractionation followed by optical microscopy. Common name Amphioxus
+    is also an invalid genus
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Cephalochordata (ITIS: 159679: WoRMS 1824) [Stage: larvae
+    Size: 500-1000um] per unit volume of the water body by size fractionation and
+    optical microscopy'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/Z841X0RC/1/

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "TypeDepEnvSed"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A text term plus URI describing the depositional environment type of the sediment by visual comparisons with definitions in the CGI Event Environment controlled vocabulary"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Description of depositional environment type of sediment by classification to a term from CGI Event Environment Vocabulary (urn:cgi:classifier:CGI:EventEnvironment)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DEPENVIR/1/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Part_Pr>4um_ICPMS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Concentration of praseodymium in suspended particles by Inductively-coupled plasma mass spectrometry (ICP-MS) on acid leachate (0.4um pore filtered). Mass refers to mass of filtered seawater."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of praseodymium {Pr CAS 7440-10-0} per unit mass of the water body [particulate >0.4/0.45um phase] by acid leaching of filter residue and inductively-coupled plasma mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PRKGPTMS/3/"

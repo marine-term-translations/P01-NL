@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DryWt_IMS_PAHs_sed"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Quantity or mass of the sum of polycyclic aromatic hydrocarbons whose concentrations are summed to produce an overall 'PAH concentration' by the Institute of Marine Sciences, Middle East Technical University, Turkey. The mixture comprises naphthalene, 1-methylnaphthalene, 1-ethylnaphtahalene, acenaphthylene, acenapthane, fluorene, phenanthrene, anthracene, 2-methylphenanthrene, 1-methylphenanthrene, fluoranthene, 3-6 dimethyl, pyrene, 1-methylpyrene, chrysene and perylene per unit weight of dried unsieved sediment."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of IMS PAH mixture I per unit dry weight of sediment"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CTMSED01/1/"

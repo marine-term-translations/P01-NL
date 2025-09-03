@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Abund_BE010453_SEM"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Number of individuals of the specified biological entity identified and counted using scanning electron microscopy and normalised to a unit volume of water sample."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Abundance of Asteromphalus hookeri (ITIS: 2640: WoRMS 162259) [Size: >45um] per unit volume of the water body by filtration and identification and counting by scanning electron microscopy (SEM)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/KZRTAM01/1/"

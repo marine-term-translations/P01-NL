@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "NO3_Filt_IonChrom"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Concentration of nitrate (NOT nitrate+nitrite) per unit volume of a fresh or salt water body determined by ion chromatography after filtration through an unknown type of filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of nitrate {NO3- CAS 14797-55-8} per unit volume of the water body [dissolved plus reactive particulate <unknown phase] by filtration and ion chromatography"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NO3FLTIC/2/"

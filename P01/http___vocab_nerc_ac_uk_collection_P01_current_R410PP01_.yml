@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Reflect_2-pi410nm
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Reflectance (410nm wavelength) in the water body by 2-pi scalar radiometer
+    and division of upwelling irradiance by downwelling irradiance
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/R410PP01/1/

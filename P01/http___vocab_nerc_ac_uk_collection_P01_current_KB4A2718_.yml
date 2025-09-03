@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Numb_BE006152
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Count (in assayed sample) of Calanus (ITIS: 85263: WoRMS 104152) [Stage:
+    nauplii N4-N6]'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/KB4A2718/4/

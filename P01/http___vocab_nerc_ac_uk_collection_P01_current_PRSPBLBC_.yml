@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "BactResp"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Bubbling technique to determine the proportion of labelled leucine respired"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Proportion respired of carbon (incorporated as leucine) {CAS 7440-44-0} by the water body [particulate >unknown phase] by 14C leucine doping, incubation, acidification, purging and trapping CO2 and counting liberated gas"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PRSPBLBC/3/"

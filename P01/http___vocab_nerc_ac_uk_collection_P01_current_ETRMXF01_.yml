@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "ETRmax(chl)_STFRR_water"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The maximum electron transport rate through photosystem II determined in natural body of fresh or salt water using single-turnover fast repetition rate fluorometry and normalised to the quantity or mass of chlorophyll-a."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Maximum photosynthetic electron transport rate (normalised to chlorophyll-a) {ETRmax(chl)} in the water body by single turnover fast repetition rate (FRR) fluorometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ETRMXF01/1/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "HetAct"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Incubation of sample doped with fluorescine diacetate"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Hydrolysis rate (hourly) of fluorescein diacetate {hydrolytic activity CAS 596-09-8} per unit time per unit volume of wet sediment by doping with fluorescine diacetate, incubation and fluorometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SHTAFLTX/2/"

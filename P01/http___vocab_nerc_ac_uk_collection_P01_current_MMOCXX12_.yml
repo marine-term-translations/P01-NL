@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DryWt_CAS60851-34-5_BE008950"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The dry weight concentration of the specified analyte in the specified organism or part thereof."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of 2,3,4,6,7,8-hexachlorodibenzofuran {2,3,4,6,7,8-hexaCDF CAS 60851-34-5} per unit dry weight of biota {Dicentrarchus labrax (ITIS: 170317: WoRMS 126975) [Subgroup: 2-year old]}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MMOCXX12/1/"

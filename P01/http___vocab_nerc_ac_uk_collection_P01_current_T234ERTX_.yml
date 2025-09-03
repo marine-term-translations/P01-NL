@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: Th234_unfilt_beta_Err
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The combined uncertainty associated with the specified measurement. The
+    method used to estimate uncertainty should be described in the usage metadata.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Activity combined uncertainty of thorium-234 {234Th CAS 15065-10-8} per
+    unit volume of the water body [dissolved plus reactive particulate phase] by beta
+    spectroscopy
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/T234ERTX/4/

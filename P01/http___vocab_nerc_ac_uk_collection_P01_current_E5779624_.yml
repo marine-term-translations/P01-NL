@@ -1,0 +1,21 @@
+labels:
+- name: altLabel
+  original: LenSD_eye-to-tels_BE006014
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The square root of the average of the squares of deviations about the
+    mean of a set of values of the specified measurement.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Length (from the front of the eye to the tip of the telson) standard
+    deviation of Thysanoessa inermis (ITIS: 95573: WoRMS 110708) [Stage: adult Sex:
+    male Subgroup: with spermatophores at the genital aperture or attached to the
+    petasma]'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/E5779624/6/

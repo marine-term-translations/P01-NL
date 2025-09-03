@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "d18O_in_nitrate_WC<0.2um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The isotopic enrichment (1000*(sample(18O/16O ratio) - natural ratio)/(natural ratio)) of 18O in nitrate molecules (NO3-) in a body of salt or fresh water after removal of particles larger than 0.2 microns by filtration."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment of oxygen-18 in nitrate {18O in NO3- CAS 14797-71-8} {delta(18)O} in the water body [dissolved plus reactive particulate <0.2um phase] by filtration, denitrification to N2O by cultured bacteria and Continuous-Flow Isotope Ratio Mass-Spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/D18OWC21/1/"

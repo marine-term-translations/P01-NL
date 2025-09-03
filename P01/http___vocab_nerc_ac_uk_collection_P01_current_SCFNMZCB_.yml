@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "MedCopFPNSD"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Constant temperature incubation experiment; inverse microscopy"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Production rate standard deviation of Copepoda (ITIS: 85257: WoRMS 1080) [Size: 500-1000um Subcomponent: faecal pellets] per individual per unit time in the water body by incubation at constant temperature and identification and counting by inverse microscopy"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SCFNMZCB/1/"

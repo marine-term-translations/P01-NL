@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SWS_average_area"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A flow cytometry parameter defined as the sum of the areas under the sideward light scatter curve of individual particles belonging to a same cluster (or group) defined by a region, divided by the number of particles in the cluster. The Sideward light Scatter (SWS) corresponds to the amount of photons scattered at 90 degrees to the laser beam direction by a particle when crossing a laser beam."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Area mean of sideward light scatter pulse per cluster from the water body by flow cytometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SWSAREAA/1/"

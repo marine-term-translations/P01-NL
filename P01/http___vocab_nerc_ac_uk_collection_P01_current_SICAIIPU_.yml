@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "IntCalcif_0.2-5um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Depth integrated measurements made by isotope-doped incubation experiment followed by counting of particulates collected on a 0.2um pore filter filtering water previously filtered through a 5um pore filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Calcification rate (daily) per unit time per unit area of the water body [particulate 0.2-5um phase] by isotope-labelled tracer addition, incubation at unspecified light level, cascade filtration and counting residue and differencing results from acidified and unacidified samples and profile integration"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SICAIIPU/1/"

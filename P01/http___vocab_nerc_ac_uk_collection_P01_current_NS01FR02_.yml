@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Sigma_ST-FRR_SD"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The standard deviation of the effective absorption cross-section of the photosystem-II photochemistry measured in a water sample using single-turnover fast repetition rate fluorometry."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Functional absorption cross-section standard deviation {Sigma-PSII} in the water body by single turnover fast repetition rate (FRR) fluorometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NS01FR02/2/"

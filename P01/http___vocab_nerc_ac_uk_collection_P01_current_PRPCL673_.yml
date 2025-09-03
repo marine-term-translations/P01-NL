@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: PrSed_WorV_Siz_19.4-24.1um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The weight or volume (normalised by total sample weight or volume) of
+    sediment sample particles with a nominal diameter between 19.4 and 24.1 microns
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Proportion by weight or volume of particles (19.4-24.1um) in the sediment
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/PRPCL673/2/

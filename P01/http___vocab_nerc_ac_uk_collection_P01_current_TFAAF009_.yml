@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "oleic_acid_BE000733"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Proportion of total fatty acids of cis-9-octadecenoic acid {oleic acid C18:1FA cis-9 CAS 112-80-1} in biota {Calanus finmarchicus (ITIS: 85272: WoRMS 104464) [Stage: adult Sex: female]} by gas chromatography-flame ionisation detection"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/TFAAF009/4/"

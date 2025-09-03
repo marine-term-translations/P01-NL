@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "MeanWavePeriodTz_PRESS_UncorrAtt"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The average of the zero crossing intervals as obtained by dividing the record duration by the number of times the water elevation crosses the mean record level in one direction using the specified method."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Zero-crossing period of waves {Tz} on the water body by fixed in-situ pressure sensor and computation using Fourier analysis with no depth attenuation correction"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/GTZAUP01/8/"

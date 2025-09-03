@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "delta_30Si_0.2um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The isotopic enrichment (1000*(sample 30/28 ratio - natural ratio)/(natural ratio)) of 30Si in a body of salt or fresh water after removal of particles larger than 0.45 microns by filtration."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment of silicon-30 {30Si} {delta(30)Si} in the water body [dissolved plus reactive particulate <0.2um phase] by filtration, acidification, pre-concentration, ion-exchange chromatography and inductively-coupled plasma mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/D30SIMS1/4/"

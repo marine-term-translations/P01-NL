@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "WColHt_MW"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Mid-water pressure measurement corrected to zero at sea surface and converted to seawater depth. Measurement obtained from sensor used to determine location of instrument in the water column, mounted on a semi-rigid structure, e.g. mooring."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Depth below surface of the water body by semi-fixed in-situ pressure sensor and correction to zero at sea level and conversion to depth using unspecified algorithm"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PPSBPR01/2/"

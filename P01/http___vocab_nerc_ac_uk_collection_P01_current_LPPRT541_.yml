@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Conc_protein_Loph_per"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Amount (quantity or mass) of proteins measured in the primary polyp of the specified species of coral divided by the weight of sample analysed."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of protein per unit mass of biota {Lophelia pertusa (ITIS: 53706: WoRMS 135161) [Subcomponent: primary polyp]}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/LPPRT541/1/"

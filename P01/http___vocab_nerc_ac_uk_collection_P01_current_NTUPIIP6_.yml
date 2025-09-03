@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "NO3upt_sum>GFF"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Measurements made by isotope-doped incubation experiment followed by spectrophotometric analysis of the particulates on each filter of a filter cascade down to a GF/F filter.  Total value obtained by summing the size-fractionated data. Incubation conditions not specified by parameter code."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of nitrate {NO3- CAS 14797-55-8} per day per unit volume of the water body [particulate >GF/F phase] by isotope-labelled tracer addition, incubation at unspecified light level, cascade filtration and mass spectrometry on residue and summation of size-fractionated values"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NTUPIIP6/4/"

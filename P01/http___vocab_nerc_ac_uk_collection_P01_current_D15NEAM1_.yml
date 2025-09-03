@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "d15PON>GF/F_acid"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The difference in the proportion of 15N isotope between the nitrogen in the residue of a GF/F filtered sample of water from any fresh or salt water body and a reference standard. Acidification step is due to concurrent elemental analysis and IR-MS of both particulate C and N. Combustion step may occur within elemental analyser linked to mass spectrometer. Measurement is either a single determination or the average of replicates."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment of nitrogen-15 in total nitrogen {15N_in_total_N CAS 14390-96-6} {delta(15)N} in the water body [particulate >GF/F phase] by filtration, acidification, combustion and mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/D15NEAM1/1/"

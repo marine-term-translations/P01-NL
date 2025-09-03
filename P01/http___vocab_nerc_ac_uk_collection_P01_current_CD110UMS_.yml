@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "110Cd/112Cd_ratio_error"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Ratio uncertainty between the the 110Cd and 112Cd isotopes."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Ratio uncertainty of cadmium-110/cadmium-112 {110Cd/112Cd} in the water body [dissolved plus reactive particulate <0.2um phase] by filtration and thermal ionization mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CD110UMS/1/"

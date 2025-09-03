@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "brassicasterol_d13C_>53um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Carbon isotopic signal of brassicasterol from particles sized >53um collected by filtration of a water sample."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment of carbon-13 in brassicasterol {13C in brassicasterol CAS 14762-74-4} {delta(13)C} per unit volume of the water body [particulate >53um phase] by filtration"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SDD13BR1/5/"

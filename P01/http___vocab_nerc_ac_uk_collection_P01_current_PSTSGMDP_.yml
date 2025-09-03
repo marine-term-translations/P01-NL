@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DPccPSTS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Genetic marker and Western dot blot. Coding convention is 1=yes and 0=no."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Expression of genes for PSTS of Prochlorococcus (ITIS: 610076: WoRMS 345515) [Subgroup: deep-adapted] by antibody doping and Western dot blot"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PSTSGMDP/2/"

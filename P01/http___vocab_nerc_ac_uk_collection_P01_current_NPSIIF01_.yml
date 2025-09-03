@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "n(PSII)_STFRR_water"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The quantity of photosystem II reaction centres relative to the quantity of chlorophyll-a in a natural body of fresh or salt water sample determined using single-turnover fast repetition rate fluorometry."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Density (relative to chlorophyll-a) of functional PSII centres {n(PSII)} in the water body by single turnover fast repetition rate (FRR) fluorometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NPSIIF01/1/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "d18O_VPDB_CO3_sediment"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Enrichment of 13C relative to Vienna Pee Dee Belemnite standard (also referred to as delta-13C) in the carbonate fraction of sediment samples"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to Vienna Pee Dee Belemnite (VPDB) of oxygen-18 in carbonate {18O in CO3} {delta(18)O} in the sediment by mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/D18OSEDC/9/"

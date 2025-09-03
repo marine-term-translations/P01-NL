@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Diss_As(III)_Filt<0.4/0.45um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Quantity or mass of inorganic arsenic As(III) contained in a unit volume of a sample of any body of fresh or salt water after particles have been removed by filtration through a 0.4 or 0.45 micron filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of arsenite {AsO3(3-) CAS 15502-74-6} per unit volume of the water body [dissolved plus reactive particulate <0.4/0.45um phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/AS3DWC01/1/"

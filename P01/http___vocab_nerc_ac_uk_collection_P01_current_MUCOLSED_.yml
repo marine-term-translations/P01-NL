@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "MunsellColSed_BODC"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A BODC binary encoding that packs Munsell hue, value and chroma into a 32-bit integer. The first bit (0) is set to zero unless all 32 bits are set to 1 to signify absent data. The next 7 bits describe 10 * the sub-step of the Hue, ranging from 0.0 to 10.0. The next 4 bits describe Hue as the index of the menomic in the array {"R","RP","P","PB","B","BG","G","GY","Y","YR"}. The next 10 bits describe 10 * the Value, ranging from 0.0 to 10.0. The final 10 bits describe 10 * the Chroma value, ranging from 0.0 to 102.3."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Munsell colour (BODC encoding) of sediment by visual estimation"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MUCOLSED/2/"

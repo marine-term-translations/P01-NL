@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "TNCupt_>0.2um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Measurements made by radiotracer doped constant light incubation at 100 uE/m2/s followed by counting particulates collected on each filter of a filter cascade down to a >0.2um pore filter.  Rates normalised by dividing the total uptake by the incubation duration in hours and total value obtained by summing size-fractionated data."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of carbon {C} {primary production} per hour per unit volume of the water body [particulate >0.2um phase] by tracer doping, incubation at 100uE/m2/s light level, filtration and counting residue"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NCUPRAP4/4/"

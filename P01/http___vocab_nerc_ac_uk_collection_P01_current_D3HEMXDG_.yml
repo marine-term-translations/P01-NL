@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: d3He_DG
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Enrichment of helium-3 {3He CAS 14762-55-1} in the water body [dissolved
+    plus reactive particulate phase] by mass spectrometry
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/D3HEMXDG/3/

@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: WetWt_PCB56_BE006353
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of 2,3,3'',4''-tetrachlorobiphenyl {PCB56 CAS 41464-43-1}
+    per unit wet weight of biota {Platichthys flesus (ITIS: 172894: WoRMS 127141)
+    [Size: length >280mm Subcomponent: liver]}'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/PCBBPF05/2/

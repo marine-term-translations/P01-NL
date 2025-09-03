@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "JHSpec_Chl-a_GFF-2um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Trichromatic spectrophotometric assay following the protocol of Jeffrey and Humphrey of acetone extract from particulates on a GF/F filter filtering water previously filtered through a 2um pore filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of chlorophyll-a {chl-a CAS 479-61-8} per unit volume of the water body [particulate GF/F-2um phase] by filtration, acetone extraction and trichromatic spectrophotometry following the Jeffrey and Humphrey protocol"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SCHLSSPN/2/"

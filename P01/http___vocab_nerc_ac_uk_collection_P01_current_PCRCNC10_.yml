@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PropColoniesAffected"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Number of coralligenous colonies (that is multi-species assemblages made of gorgonian, coral, sponge, and bryozoan species) with a percentage of necrosis equal to or greater than 10% of the living area of the colony, and expressed as a proportion relative to the total number of colonies observed in the surveyed population. Generally expressed as a percentage, this is a parameter used to evaluate the conservation status of the coralligenous habitats."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Proportion of coralligenous colonies [Subgroup: with percentage necrosis >=10%]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PCRCNC10/1/"

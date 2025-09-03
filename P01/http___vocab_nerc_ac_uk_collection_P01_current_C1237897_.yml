@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Conc_72918-21-9_drysed_unknfract"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The quantity or mass of the specified analyte contained in a sample of unsieved sediment normalised to a unit of dry weight."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of 1,2,3,7,8,9-hexachlorodibenzofuran {1,2,3,7,8,9-hexaCDF CAS 72918-21-9} per unit dry weight of sediment (unknown fraction)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/C1237897/1/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "AlphaB"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The initial slope of a light-saturation or light-response curve such as a Photosynthesis versus Irradiance (PI or PE) curve."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Calcification maximum light utilisation coefficient for the water body [particulate >0.4/0.45um phase] by PvI incubation, filtration and counting residue and differencing results from acidified and unacidified samples"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ALPBPIP2/5/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Co_Unfilt_FI"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The concentration of colbalt in a body of salt or fresh water determined by flow-injection chemiluminescence after ultraviolet (UV) digestion."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of cobalt {Co CAS 7440-48-4} per unit volume of the water body [dissolved plus reactive particulate phase] by UV digestion and flow-injection chemiluminescence"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/COUFUV09/2/"

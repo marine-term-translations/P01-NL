@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "OrgC_drysed_LOI400C_ElemAnal"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Difference of carbon/nitrogen analyser readings before and after 400C ignition"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of organic carbon {organic_C CAS 7440-44-0} per unit dry weight of sediment by elemental analysis and differencing determinations on sample before and after 400C ignition"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/OCCNCIXT/3/"

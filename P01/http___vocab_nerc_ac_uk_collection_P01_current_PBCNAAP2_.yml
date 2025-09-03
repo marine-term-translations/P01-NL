@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: SPMPbCont
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of lead {Pb CAS 7439-92-1} per unit dry weight of suspended
+    particulate material >0.4/0.45um by filtration and atomic absorption spectroscopy
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/PBCNAAP2/3/

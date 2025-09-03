@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "MaxSpecWt_BE002366"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The mass as collected (i.e. a wet weight) of the heaviest specimen of the specified organism or part thereof in the sample.  This could refer to a single individual should the sample size be one."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Maximum specimen weight of Gadus morhua (ITIS: 164712: WoRMS 126436)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MUM13214/1/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Part_Baxs>4um_ICPMS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Concentration of barium in suspended particles by Inductively-coupled plasma mass spectrometry (ICP-MS) on acid leachate (0.4/0.45um pore filtered). The total particulate Ba content was corrected for lithogenic Ba. Corrected Ba is called excess or biogenic Ba (Baxs) and usually represents >95 percent of total Ba."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of barium {Ba CAS 7440-39-3} per unit volume of the water body [particulate >0.4/0.45um phase] by acid leaching of filter residue and inductively-coupled plasma mass spectrometry and correction for lithogenic Ba contribution"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/BAXSPTMS/4/"

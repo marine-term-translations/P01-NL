@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Biomass_BE004429"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Carbon biomass of individuals from the specified biological entity identified computated from abundance and normalised to a unit volume of water sample."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Biomass as carbon of Polychaeta (ITIS: 914166: WoRMS 883) [Stage: larva] per unit volume of the water body by optical microscopy and computation of carbon biomass from abundance"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/POL883MS/1/"

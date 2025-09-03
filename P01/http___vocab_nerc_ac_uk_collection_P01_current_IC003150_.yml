@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: LNC_CB180_FA_BE008539
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The concentration of the specified analyte in the specified organism or
+    part thereof divided by the concentration of extractable lipids in the same sample.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of 2,2'',3,4,4'',5,5''-heptachlorobiphenyl {PCB180 CAS
+    35065-29-3} per unit mass of lipids in the biota {Mytilus edulis (ITIS: 79454:
+    WoRMS 140480) [Subcomponent: body fat]}'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/IC003150/2/

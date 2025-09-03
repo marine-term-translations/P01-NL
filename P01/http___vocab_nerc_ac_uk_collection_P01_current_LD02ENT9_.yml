@@ -1,0 +1,23 @@
+labels:
+- name: altLabel
+  original: K<0.2um_sed_pw_ICP
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The concentration of the specified analyte in sediment pore water passed
+    through a 0.2um filter. The analytical method of inductively-coupled plasma atomic
+    emission spectroscopy is also sometimes referred to as inductively-coupled plasma
+    optical emission spectroscopy (ICP-OES).
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of potassium {K CAS 7440-09-7} per unit volume of the sediment
+    pore water [dissolved plus reactive particulate <0.2um phase] by in-situ pore
+    water sampling, filtration, acidification and inductively-coupled plasma atomic
+    emission spectroscopy
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/LD02ENT9/1/

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PTC_GFF-200um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Carbon/nitrogen analysis of particulates on a GF/F filter filtering water previously filtered through a 200um pore filter. Often regarded as POC because acidification omitted when suspended particulate material believed to be carbonate-free."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of total carbon {total_C CAS 7440-44-0} {POC} per unit volume of the water body [particulate GF/F-200um phase] by filtration, no acidification and elemental analysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SCRGCNPJ/3/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PartCa_>unknown_CalTr"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Calibration of green-light transmissometer against Ca analyses with chl interference correction"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of calcium {Ca CAS 7440-70-2} per unit volume of the water body [particulate >unknown phase] by green light transmissometer and calibration against Ca analyses with correction for chlorophyll interference"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CAXXTG01/4/"

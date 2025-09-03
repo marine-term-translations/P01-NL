@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Carb_C490A00A"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Use this code where the taxonomist has identified specifically Order Coccosphaerales or for the generic term Coccolithophorids"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Biomass as carbon of Prymnesiophyceae (ITIS: 2135: WoRMS 115057) [Size: 5-8um Subgroup: coccolithophores] per unit volume of the water body by flow cytometry and computation of carbon biomass from abundance"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/C490A00A/3/"

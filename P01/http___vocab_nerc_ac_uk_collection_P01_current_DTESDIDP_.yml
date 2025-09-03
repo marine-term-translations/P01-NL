@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: Delta_114/110Cd_NIST-3108_WC<0.4/0.45um_Err
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The estimated uncertainty or 'error' associated with the specified measurement.
+    The method used to estimate uncertainty should be described in the usage metadata.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Enrichment with respect to 114Cd/110Cd in NIST SRM 3108 uncertainty of
+    cadmium-114 {114Cd CAS 14041-58-8} {delta(114)Cd} in the water body [dissolved
+    plus reactive particulate <0.4/0.45um phase] by using the delta notation
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/DTESDIDP/1/

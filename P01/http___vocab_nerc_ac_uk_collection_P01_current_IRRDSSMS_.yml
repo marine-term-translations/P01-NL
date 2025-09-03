@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SurfSPAR_AvSens"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Averaged data from two or more hemispherical photodiode light meters"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Downwelling 2-pi scalar irradiance as photons of electromagnetic radiation (PAR wavelengths) in the atmosphere by 2-pi scalar radiometer and taking the average value from two or more sensors"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/IRRDSSMS/2/"

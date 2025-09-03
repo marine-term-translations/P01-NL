@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "BottomRelPress2"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Water pressure measured as a phenomenon from which atmospheric pressure (measurements from the locality) plus an arbitrary constant has been subtracted. Measurement obtained from sensor used to determine wave or sea level parameters, rigidly mounted to seabed or structure."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Pressure (measured variable) exerted by the water body by fixed in-situ pressure sensor (second sensor) and corrected using co-located air pressure data expressed to unspecified datum by subtraction of a constant"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PPSSRL02/4/"

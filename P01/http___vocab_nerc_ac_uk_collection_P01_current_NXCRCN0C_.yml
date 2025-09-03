@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "NormExcrNH4C200-500"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount of ammonium produced by a sample of hand-picked live zooplankton individuals in the specified size range and incubated under controlled conditions for a period of 24 hours (or normalised to a period of 24 hours), divided by the amount of carbon (mass or moles) contained in the incubated zooplankton organisms."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Production rate of ammonium {NH4+ CAS 14798-03-9} per day per unit biomass as carbon of biota {zooplankton [Size: 200-500um]} by incubation"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NXCRCN0C/9/"

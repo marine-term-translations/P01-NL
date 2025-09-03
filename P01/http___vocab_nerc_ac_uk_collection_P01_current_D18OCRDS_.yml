@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "delta_18O"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The isotopic enrichment (1000*(sample 18/16 ratio - natural ratio)/(natural ratio)) of 18O in the oxygen of water molecules in a body of salt or fresh water."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment of oxygen-18 in water molecules {18O in H2O CAS 14797-71-8} {delta(18)O} in the water body by cavity ring-down spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/D18OCRDS/7/"

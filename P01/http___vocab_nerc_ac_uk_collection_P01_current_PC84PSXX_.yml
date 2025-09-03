@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Siz84pctile"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Grain size exceeded by 84 per cent by volume of the sample as determined from cumulative frequency distribution ordered by phi (coarse to fine) determined by particle sizer"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Grain-size 84th percentile of particles in sediment by particle sizer and analysis of cumulative frequency ordered by phi (coarse to fine)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PC84PSXX/2/"

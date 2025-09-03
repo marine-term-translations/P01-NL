@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "HELC_Cvrg_BE007117"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Encoded scale defined by the HELCOM COMBINE programme to describe the proportion of the sampled area of the seabed covered by a plant or animal identified elsewhere in the metadata"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Coverage (HELCOM COMBINE) of biological entity specified elsewhere on the bed"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/HELCCVRG/3/"

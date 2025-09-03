@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: RHYBM013
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Hybridisation of an environmental DNA sample with a genetic probe
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Relative hybridisation with Prochlorococcus SS120 probe (SARG634R) of
+    Cyanobacteria (ITIS: 601: WoRMS 146537) by dot blot hybridisation'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/RHYBM013/1/

@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Part_Mo_>51um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Concentration of the specified substance in the particulate fraction >51um
+    and defined as 'sinking'
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of molybdenum {Mo CAS 7439-98-7} per unit volume of the
+    water body [particulate >51um phase]
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CMO17066/2/

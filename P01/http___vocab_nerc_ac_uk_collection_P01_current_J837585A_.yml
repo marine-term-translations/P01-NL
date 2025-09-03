@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Prop_BE006014
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Proportion (in species count) of Thysanoessa inermis (ITIS: 95573: WoRMS
+    110708) [Stage: adult Sex: male Subgroup: with spermatophores at the genital aperture
+    or attached to the petasma] in the water body by optical microscopy'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/J837585A/1/

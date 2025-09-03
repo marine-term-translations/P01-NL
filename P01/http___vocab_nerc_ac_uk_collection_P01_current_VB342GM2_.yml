@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "d138/130Ba_NIST_water<0.2"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Deviation of the 138Ba/134Ba isotopic ratio of a sample of fresh or salt water after removal of particles larger than 0.2 micron relative to the standard solution SRM 3104a, a reference material for Barium (Ba) developed by the US National Institute of Standards and Technology, defined as delta(138/134Ba)NIST =([138Ba/134Ba]sample/[138Ba/134Ba]NIST)-1)×1000. One delta unit represents a one part per 1,000 deviation from the NIST standard composition."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to 138Ba/134Ba in NIST SRM 3104a of barium-138 {138Ba CAS 15010-01-2} {delta(138)Ba} in the water body [dissolved plus reactive particulate <0.2um phase] by filtration, acidification and inductively-coupled plasma mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/VB342GM2/3/"

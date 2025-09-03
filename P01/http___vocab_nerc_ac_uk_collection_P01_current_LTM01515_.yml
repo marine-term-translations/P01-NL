@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "logK_FeL_pH7.2_upperERR"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The value defining the uncertainty interval above the reported measurement when the statistical distribution of the measured phenomena is asymmetrical."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Log ligand binding strength upper uncertainty of iron-complexing organic ligands {Fe_org_ligands} in the water body [dissolved plus reactive particulate <0.2um phase] by filtration, pH adjusted to 7.2 and cathodic stripping voltammetry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/LTM01515/1/"

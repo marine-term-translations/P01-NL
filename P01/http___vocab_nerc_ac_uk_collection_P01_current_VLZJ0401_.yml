@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: DryWtCAS92-52-4_BE007676
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The concentration of the specified analyte in a dried sample of the of
+    the specified organism or part thereof.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of biphenyl {CAS 92-52-4} per unit dry weight of biota
+    {Trachinidae (ITIS: 170989: WoRMS 125570)}'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/VLZJ0401/1/

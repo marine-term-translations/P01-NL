@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "ConcCH4_SedH2O_GC"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The quantity or mass of the specified analyte in water between the grains in a sediment sample that is unfiltered. The compartment sediment pore water is considered to include the water overlying the sediment in corer tubes."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of methane {CH4 CAS 74-82-8} per unit volume of the sediment pore water [dissolved plus reactive particulate phase] by gas chromatography"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CH4CGMMX/2/"

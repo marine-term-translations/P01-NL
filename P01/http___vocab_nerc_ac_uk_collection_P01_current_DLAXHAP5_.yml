@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DMSPLyaseAct"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Headspace analysis of DMS (0.2 um filtered)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity rate (hourly) of dimethylsulphoniopropionate lyase {DMSP lyase} per unit time per unit volume of the water body [particulate >0.2um phase] by filtration, suspension of residue in buffer solution, collection of liberated DMS and gas chromatography"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DLAXHAP5/1/"

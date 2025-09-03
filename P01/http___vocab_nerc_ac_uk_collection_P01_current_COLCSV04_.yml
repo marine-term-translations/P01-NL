@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DissCo_labile<0.4_CSV"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The concentration of labile colbalt in a body of salt or fresh water determined by cathodic stripping voltammetry after ultraviolet (UV) digestion and removal of particles larger than 0.4/0.45 microns by filtration."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of labile cobalt {labile_Co CAS 7440-48-4} per unit volume of the water body [dissolved plus reactive particulate <0.4/0.45um phase] by filtration, UV digestion and cathodic stripping voltammetry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/COLCSV04/3/"

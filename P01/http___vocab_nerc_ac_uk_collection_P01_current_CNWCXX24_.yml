@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Mass_C:N_24_76336
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Mass ratio of carbon/nitrogen in biota {Limacina (ITIS: 76336: WoRMS
+    138122)} by mass spectrometry'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CNWCXX24/2/

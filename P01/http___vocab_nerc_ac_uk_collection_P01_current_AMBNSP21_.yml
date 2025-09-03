@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SPL_AmbientNoise_100Hz_water"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The logarithm to the base 10 of the ratio of the mean-square or root-mean-square of the sound pressure of underwater ambient noise measured within the specified frequency band and the specified time interval relative to a reference pressure value of 1 micropascal (squared if using the mean-square pressure)."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Sound pressure level of ambient noise (100Hz-centred one-third-octave frequency band, time interval specified elsewhere) relative to 1 micropascal in the water body"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/AMBNSP21/1/"

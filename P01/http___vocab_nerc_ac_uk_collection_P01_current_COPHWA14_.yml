@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DTP_<0.2um_AA"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (mass or moles) of total phosphorus (i.e.phosphorus in all chemical forms) contained in a unit volume of filtrate of sea water sample following filtration through 0.2 microns filter, oxidation and analysis as phosphate using colorimetric autoanalysis."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of total phosphorus {total_P CAS 7723-14-0} {TDP} per unit volume of the water body [dissolved plus reactive particulate <0.2um phase] by filtration, oxidation and colorimetric autoanalysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/COPHWA14/6/"

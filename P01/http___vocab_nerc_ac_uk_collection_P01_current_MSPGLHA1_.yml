@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Location_HA2"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Geographic coordinates indicating the location of human activities identified using terms defined in the SeaDataNet controlled vocabulary 'EMODnet human activity categories' (vocab.nerc.ac.uk/collection/HA2)."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Location (geographic coordinates) of human activity by classification to a term from the EMODnet Human Activities vocabulary (SDN:HA2::)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MSPGLHA1/1/"

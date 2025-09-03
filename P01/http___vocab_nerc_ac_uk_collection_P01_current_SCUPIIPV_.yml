@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PP_2-18um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Measurements made by isotope-doped incubation experiments followed by counting particulates collected on a 2um filter filtering water previously filtered through a 18um pore filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of carbon {C} {primary production} per day per unit volume of the water body [particulate 2-18um phase] by isotope-labelled tracer addition, incubation at unspecified light level, cascade filtration and counting residue"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SCUPIIPV/4/"

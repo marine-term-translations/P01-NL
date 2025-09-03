@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: MaxErosionDepth
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The potential elevation eroded from a sediment bed according to the measured
+    properties of the bed and removed material, as determined via an in-situ flume
+    experiment.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Potential erosion depth maximum of sediment on the bed by in-situ flume
+    experiment and computation from total mass of suspended solids and bulk density
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ERPED001/1/

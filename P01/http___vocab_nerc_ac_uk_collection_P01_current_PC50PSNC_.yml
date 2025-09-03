@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Siz50pctileNC"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Particle sizer after acidification assuming cumulative frequency ordered by phi (coarse to fine)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Grain-size 50th percentile of particles {grain-size median} in sediment [non-carbonate phase] by acidification and particle sizer and analysis of cumulative frequency ordered by phi (coarse to fine)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PC50PSNC/3/"

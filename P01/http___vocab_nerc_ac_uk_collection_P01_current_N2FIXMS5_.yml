@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "N2_upk_daily_Mohr"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount of gaseous nitrogen taken into the particulate phase in a day from a sample of a water body that has been chemically modified by the addition of an aliquot of 15N2-enriched seawater following Mohr et al 2010 (doi:10.1371/journal.pone.0012583)."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of dinitrogen {N2 CAS 7727-37-9} {nitrogen fixation} per day per unit volume of the water body [particulate >GF/F phase] by 15N2-enriched seawater addition, on-deck incubation at simulated in-situ light level, filtration and mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/N2FIXMS5/1/"

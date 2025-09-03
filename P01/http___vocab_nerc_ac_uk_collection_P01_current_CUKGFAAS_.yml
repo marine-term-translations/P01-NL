@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Cu_filt0.2um_ETAAS/kg"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Concentration of copper per unit mass of a fresh or salt water body determined by solvent extraction of chelated metal and graphite furnace atomic absorption after filtration (0.2um filtered)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of copper {Cu CAS 7440-50-8} per unit mass of the water body [dissolved plus reactive particulate <0.2um phase] by filtration, acidification, chelation, solvent extraction and graphite furnace atomic absorption spectroscopy"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CUKGFAAS/3/"

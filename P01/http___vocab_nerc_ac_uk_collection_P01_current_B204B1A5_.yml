@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Numb_BE006077
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Count (in assayed sample) of Thysanoessa inermis (ITIS: 95573: WoRMS
+    110708) [Stage: sub-adult+adult Sex: male Subgroup: without external spermatophores]'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/B204B1A5/2/

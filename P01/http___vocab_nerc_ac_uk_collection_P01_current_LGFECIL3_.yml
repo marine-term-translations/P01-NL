@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "FeL3_95pcntCI"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The 95 percent confidence limit of the specified parameter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration 95 per cent confidence interval of iron-complexing organic ligands (of the weaker dissolved iron-binding ligand (L3)) per unit volume of the water body [dissolved plus reactive particulate <0.2um phase] by filtration and cathodic stripping voltammetry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/LGFECIL3/1/"

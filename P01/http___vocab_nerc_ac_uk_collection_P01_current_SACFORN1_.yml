@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SACFORN_Abund"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Encoded scale used to classify the abundance of marine flora and fauna into 7 categories (Superabundant, Abundant, Common, Frequent, Occasional, Rare, Not Found) based on the percent cover or density of organisms on a surface. A variant of the SACFOR scale with the purpose of adding a zero category."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Abundance category (SACFORN) of biological entity specified elsewhere"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SACFORN1/1/"

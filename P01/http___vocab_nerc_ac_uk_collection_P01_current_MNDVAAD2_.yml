@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DissMn2+"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Colorometric autoanalysis (Formaldoxime 480nm) (0.45um pore filtered)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of manganous ion {Mn2+ divalent manganese CAS 16397-91-4} per unit volume of the water body [dissolved plus reactive particulate <0.4/0.45um phase] by filtration and formaldoxime 460nm colorimetric autoanalysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MNDVAAD2/3/"

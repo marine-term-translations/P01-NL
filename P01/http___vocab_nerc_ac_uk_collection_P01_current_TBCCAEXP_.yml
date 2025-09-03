@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Bactcellno_bioassay"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Number of particles resolved as bacteria cells (heterotrophic plus autotrophic if present) in a unit volume of an experiment water sample determined by flow cytometry analysis of samples stained with SYBR Green I."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Abundance of bacteria (ITIS: 202421: WoRMS 6) per unit volume of experiment water sample by SYBR Green I staining and flow cytometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/TBCCAEXP/5/"

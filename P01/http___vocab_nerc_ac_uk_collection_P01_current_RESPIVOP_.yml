@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Resp_IV_Optode"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Respiration rates estimated on bulk water samples from changes in oxygen concentration measured by optical oxygen sensor in bottles incubated in the dark for a set time period."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Consumption rate of oxygen {O2 CAS 7782-44-7} {respiration} per day per unit volume of the water body by in-vitro incubation in the dark and optode"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/RESPIVOP/1/"

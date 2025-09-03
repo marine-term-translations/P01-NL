@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: FvFm_ST-FRR_SD
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The standard deviation of the maximum change in fluorescence quantum yield
+    measured in a water sample using single-turnover fast repetition rate fluorometry.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Photochemical quantum efficiency standard deviation {Fv/Fm} in the water
+    body by single turnover fast repetition rate (FRR) fluorometry
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/NF01FR02/2/

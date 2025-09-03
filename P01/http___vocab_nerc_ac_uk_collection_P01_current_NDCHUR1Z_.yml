@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Epsilon_Nd"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The isotopic enrichment of 143Nd is calculated using the epsilon notation defined as epsilon Nd =([143Nd/144Nd] sample / [143Nd/144Nd] CHUR-1) x 10000). One epsilon unit represents a one part per 10,000 deviation from the CHUR composition."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to 143Nd/144Nd in the CHondritic Uniform Reservoir (CHUR) of neodymium-143 {143Nd CAS 14336-83-5} {epsilon(143)Nd} in the water body [dissolved plus reactive particulate phase] by thermal ionization mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NDCHUR1Z/5/"

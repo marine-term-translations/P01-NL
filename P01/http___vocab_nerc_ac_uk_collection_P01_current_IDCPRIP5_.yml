@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "IntDailyDOCProd"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Tracer activity remaining in 14C-doped, incubated, 0.2um pore-filtered and acidified water sample"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Production rate of organic carbon {organic_C CAS 7440-44-0} {DOC production} per day per unit area of the water body [dissolved plus reactive particulate <0.2um phase] by tracer doping, incubation at unspecified light levels, filtration, acidification and counting filtrate and profile integration"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/IDCPRIP5/4/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Eps_114/110Cd_NIST_WC<0.4/0.45um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The isotopic enrichment of Cd114 calculated using the epsilon notation defined as: Epsilon_114/110Cd sample= ([114Cd/110Cd] standard / [114Cd/110Cd] sample -1) x 10000) in any body of salt or fresh water filtered through 0.4/0.45 micron filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to 114Cd/110Cd in NIST SRM 3108 of cadmium-114 {114Cd CAS 14041-58-8} {epsilon(114)Cd} in the water body [dissolved plus reactive particulate <0.4/0.45um phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CDENRIDP/6/"

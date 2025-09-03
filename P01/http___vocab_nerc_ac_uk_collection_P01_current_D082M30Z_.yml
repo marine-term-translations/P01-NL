@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: D08230
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Plagiogramma staurophorum (ITIS: 3196: WoRMS 149351) per
+    unit mass of sediment by optical microscopy'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/D082M30Z/1/

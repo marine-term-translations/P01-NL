@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: WeBeck
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Weiss algorithm from Beckmann probe data
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Saturation of oxygen {O2 CAS 7782-44-7} in the water body [dissolved plus
+    reactive particulate phase] by in-situ Beckmann probe and computation from concentration
+    using Weiss algorithm
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/OXYSWB01/3/

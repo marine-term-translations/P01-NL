@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: Microlitter_colour_class_water
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Text categorisation of the colour of micro-litter particles observed in
+    a water sample within categories defined in the EMODnet chemistry micro-litter
+    reporting protocol.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Colour class of micro-litter particles in the water body by categorisation
+    using EMODnet chemistry reporting protocol
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/MLITCOLW/1/

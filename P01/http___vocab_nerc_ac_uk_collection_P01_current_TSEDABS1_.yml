@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "ABS_Sediment_Conc"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Betteridge K.F.E.; Thorne P.D. and Cooke R.D. (2008) Calibrating multi-frequency acoustic backscatter systems for studying near-bed suspended sediment transport processes. Continental Shelf Research 28:227-235. Calibration by measuring the backscatter response of suspensions with known scattering characteristics."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of suspended particulate material {SPM} per unit volume of the water body by in-situ acoustic backscatter measurement and calibration using protocols of Betteridge et al. (2008)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/TSEDABS1/5/"

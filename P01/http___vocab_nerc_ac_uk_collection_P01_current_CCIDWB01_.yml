@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Conc_7440-47-3_ID"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (mass or moles) of chromium in a body of salt or fresh water that has passed through a 0.2 micron filter, been acidified, undergone isotope dilution, and measured by inductively-coupled plasma mass spectrometry. The concentration is expressed per unit mass of the water body."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of chromium {Cr CAS 7440-47-3} per unit mass of the water body [dissolved plus reactive particulate <0.2um phase] by filtration, acidification, isotope dilution and inductively-coupled plasma mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CCIDWB01/1/"

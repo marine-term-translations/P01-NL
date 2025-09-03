@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Vol_change_buoy_oil"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The change in volume of oil between the internal and external reservoirs of a vehicle or platform, such as a glider. A positive value represents oil moving from the internal reservoir (within the pressure casing) to the external reservoir, increasing the total volume of the platform, resulting in ascent of the platform. Negative values represent oil moving from the external to the internal reservoir, resulting in descent of the platform."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Volume change of buoyancy control oil"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/VOLCHA01/1/"

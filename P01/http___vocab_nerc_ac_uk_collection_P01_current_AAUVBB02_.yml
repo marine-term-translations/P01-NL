@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "AreaCov_Ulva_blade+filamentous"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Surface of sea and ground covered by a combination of the blade and filamentous morphotypes of the macroalgal genus Ulva estimated by aerial photography and GIS processing, estimated by excluding area within the bloom where the target organism was absent or not dominant. This parameter can sometimes be referred as 'Theoretical area' or 'Theoretical surface'. This kind of parameters is used in the monitoring of opportunistic macroalgal blooms such as 'green tides'."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Coverage (as an area) of Ulva (ITIS: 6559: WoRMS 144296) [Morphology: blade+filamentous] on the Earth by aerial photography, GIS analysis and computation from areal extent multiplied by coverage ratio"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/AAUVBB02/1/"

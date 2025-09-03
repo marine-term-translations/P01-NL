@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: PlatformVelE_GPS
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Eastward velocity of measurement platform relative to ground surface by
+    Ashtech GPS
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/APEWAS01/3/

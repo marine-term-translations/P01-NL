@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "abs_10m_wind_spd_port_sonic"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Vector averaged wind speed from each reciever component of the sensor."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Speed (3D resultant) of wind (at 10 metres) {wind speed} in the atmosphere by port-mounted sonic anemometer and correction for atmospheric stability and to a height of 10m"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/AWSSOP10/2/"

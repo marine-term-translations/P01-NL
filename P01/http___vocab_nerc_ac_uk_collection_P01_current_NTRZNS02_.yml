@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "NO3+NO2_Unfilt_Colin-Situ_ii"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Concentration of nitrogen oxides per unit volume of water body, determined by a second in situ nutrient analyser"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of nitrate+nitrite {NO3+NO2} per unit volume of the water body [dissolved plus reactive particulate phase] by in-situ nutrient analysis system (second sensor)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NTRZNS02/2/"

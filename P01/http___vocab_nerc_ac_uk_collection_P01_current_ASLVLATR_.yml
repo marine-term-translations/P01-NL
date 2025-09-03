@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: SL_LAT_radar
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Surface elevation relative to Lowest Astronomical Tide datum of the water
+    body by radar water level recorder
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ASLVLATR/2/

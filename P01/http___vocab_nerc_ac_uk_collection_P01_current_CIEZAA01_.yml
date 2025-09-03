@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "CIE_Z_sed"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "One of the numeric tristimulus values which describes the chromaticity of sediment colour at a given luminance as defined by the CIE 1931 colour space."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "CIE tristimulus value Z (CIE 1931 XYZ colour space) of the sediment by calculated using CIE algorithm with 2 degree standard observer and D65 illuminant"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CIEZAA01/2/"

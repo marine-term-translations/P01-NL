@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Bact_assimilation_rate_by_BE007025"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Bacteria cells assimilation rate by nanoeukaryotic cells [Size: 2um Subgroup: plastidic] per individual per unit time in the experiment water sample [particulate >0.2um phase] by isotope-labelled tracer addition, pulse-chase incubations, fixation, SYBR Green I staining, flow sorting and scintillation counting"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NAN10062/3/"

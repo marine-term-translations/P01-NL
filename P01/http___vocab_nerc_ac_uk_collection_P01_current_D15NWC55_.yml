@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: d15N_55_95583
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Enrichment of nitrogen-15 {15N CAS 14390-96-6} {delta(15)N} in biota
+    {Thysanopoda acutifrons (ITIS: 95583: WoRMS 110712)} by mass spectrometry'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/D15NWC55/3/

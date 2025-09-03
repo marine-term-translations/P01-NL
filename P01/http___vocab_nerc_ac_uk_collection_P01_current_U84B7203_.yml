@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Abund_BE006535"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Number of particles resolved as heterotrophic eukaryote cells  in a unit volume of any body of fresh or salt water determined by flow cytometry analysis of samples stained with SYBR Green I and subtraction of autofluorescent eukaryote cell count if present."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Abundance of eukaryotic cells [Subgroup: heterotrophic] per unit volume of the water body by SYBR Green I staining and flow cytometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/U84B7203/3/"

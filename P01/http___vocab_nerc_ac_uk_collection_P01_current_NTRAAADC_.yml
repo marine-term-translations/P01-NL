@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "NO3_CentrifugSedPoreWater_Unfilt_NO2CorrColAA"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The concentration of NO3 determined as NO3+NO2 in a sample of pore water extracted from a sediment sample by centrifugation and then corrected to NO3 using a separate NO2 determination on the same sample."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of nitrate {NO3- CAS 14797-55-8} per unit volume of the sediment pore water [dissolved plus reactive particulate phase] by centrifugal extraction and colorimetric autoanalysis and correction for nitrite"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NTRAAADC/2/"

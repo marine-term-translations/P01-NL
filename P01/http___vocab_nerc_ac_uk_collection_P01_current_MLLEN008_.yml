@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: DrySampWt_BE006623
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The mass of a dried sample of the specified taxon or part thereof.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Dry sample weight of Zoarces viviparus (ITIS: 165324: WoRMS 127123) [Subcomponent:
+    muscle tissue]'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/MLLEN008/2/

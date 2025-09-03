@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SampTrkLen_haversine"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The angular (haversine) distance of the route along which a sample was collected or an observation was made, such as a beach transect, the track of a sampling net through water, or the track of a benthic sampler along the seafloor. It can also include the angular (haversine) distance of the passage or transit between sampling or observation locations."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Length of sampling track by computation using the haversine formula"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/LENSMTRK/1/"

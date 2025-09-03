@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "WingLength"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The length of the wing of biological specimens identified elsewhere in the data or metadata. For birds, wing length is defined as the distance from the distal portion of the carpus (at the bend of the wing) to the tip of the longest primary feathers."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Length of biological entity specified elsewhere [Subcomponent: wings]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SPWLXX01/3/"

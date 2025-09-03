@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Wind_speed_10minMean_LIDAR"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The 10-minute averaged speed of the wind (distance moved per unit time by a parcel of air) parallel to the ground at a given place and time, measured by LIDAR."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Speed 10-minute mean of wind {wind speed} in the atmosphere by infra-red laser rangefinder (infra-red LIDAR)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/EWSBLD01/1/"

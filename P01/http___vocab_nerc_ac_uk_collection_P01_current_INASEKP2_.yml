@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SEIntNH4upt_>GFF_MK"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The standard error of the mean (defined as the standard deviation divided by the square root of the sample size) of multiple determinations of the specified phenomenon."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate standard error of ammonium {NH4+ CAS 14798-03-9} per day per unit volume of the water body [particulate >GF/F phase] by isotope-labelled tracer addition, incubation at different light levels, filtration and mass spectrometry on residue and correction based on Michaelis Menten kinetics"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/INASEKP2/1/"

@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Mesh_size_sieve_lower
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The average one-dimensional mesh aperture size of the sieve used to sort
+    biological material from a sample (typically a sediment sample). Only the material
+    that remains in the sieve is used in the analyses.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Mesh size of sampling processor (lower sieve)
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/MSHSIZE2/1/

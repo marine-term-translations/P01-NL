@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: BSa-wAlkdioic25Cont
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The amount (mass or moles) of the specified organic compound per unit
+    mass of dry sediment.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of pentacosanedioic acid {25C alpha-omega alkanadioic acid
+    CAS 73292-42-9} per unit dry weight of sediment by gas chromatography-mass spectrometry
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CD25GCTX/1/

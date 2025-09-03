@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: SPMA553A
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Spectrophotometric scan on GF/F filtered material
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Absorbance of electromagnetic radiation (553nm wavelength) {light absorbance}
+    by the suspended particulate material >GF/F by filtration and spectrophotometry
+    on filtrate
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/SPMA553A/2/

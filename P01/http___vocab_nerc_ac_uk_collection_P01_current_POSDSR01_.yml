@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Trans_Red_10cm_SD
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Transmittance standard deviation (red light wavelength) per 10cm of the
+    water body by 10cm path length red light transmissometer
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/POSDSR01/1/

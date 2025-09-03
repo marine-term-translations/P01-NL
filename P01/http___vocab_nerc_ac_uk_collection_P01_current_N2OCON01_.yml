@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "N2OCON"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The daily quantity of nitrous oxide consumed in an incubated sample of unfiltered water using a nitrogen-15 tracer addition method."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Consumption rate of nitrous oxide {N2O CAS 10024-97-2} per day per unit volume of the water body [dissolved plus reactive particulate phase] by 15N-tracer addition, incubation, fixation, gas purging and trapping and gas chromatography-isotope ratio mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/N2OCON01/1/"

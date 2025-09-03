@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Part_Pb210_0.4/0.45-51um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The activity of lead-210 in the particulate material between 0.4/0.45 and 51um suspended in a water body.  Activities were corrected for in-growth and decay."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity of lead-210 {210Pb CAS 14255-04-0} per unit mass of the water body [particulate 0.4/0.45-51um phase] by filtration and alpha spectroscopy"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PB210PAK/2/"

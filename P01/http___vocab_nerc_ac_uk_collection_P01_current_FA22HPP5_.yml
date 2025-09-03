@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: lysine_water>0.2um_HPLC
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: ortho-phthalaldehyde reaction/ reverse phase HPLC (GF/F filtered)
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of lysine {Lys K CAS 70-54-2} per unit volume of the water
+    body [particulate >0.2um phase] by filtration, ortho-phthalaldehyde reaction and
+    high performance liquid chromatography (HPLC)
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/FA22HPP5/3/

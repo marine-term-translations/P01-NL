@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: DryWt_CDF6P_MU_BE007133
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The dry weight concentration of the specified analyte in the specified
+    organism or part thereof.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of 1,2,3,4,6,7,8-heptachlorodibenzofuran {1,2,3,4,6,7,8-heptaCDF
+    CAS 67562-39-4} per unit dry weight of biota {Perca fluviatilis (ITIS: 168470:
+    WoRMS 151353) [Subcomponent: muscle tissue]}'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/IC220297/1/

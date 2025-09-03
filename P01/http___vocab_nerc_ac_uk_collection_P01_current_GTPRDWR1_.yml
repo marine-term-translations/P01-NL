@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "TzPeakWvRdr_READ"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Fp5= [Sum of (frequency of band i)*((energy of band i[Ei])/(energy of peak frequency [Epeak]))^5]/[Sum of (Ei/Epeak)^5]"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Period at the peak spectral energy of waves {Fp5} on the water body by waverider and automated record analysis using the READ algorithm"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/GTPRDWR1/2/"

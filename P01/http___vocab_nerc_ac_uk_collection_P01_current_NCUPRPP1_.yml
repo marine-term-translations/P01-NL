@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "TNCuptAzide_>GFF"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Measurements made by radiotracer doped azide poisoned control incubation followed by counting particulates collected on a GF/F filter. Rate normalised by dividing the total uptake by the incubation duration in hours."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of carbon {C} {primary production} per hour per unit volume of the water body [particulate >GF/F phase] by isotope-labelled tracer addition, azide poisoning, incubation at unspecified light level, filtration and counting residue"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NCUPRPP1/4/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "GlobHirsDext_fix"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Hand picking from >150 micron fraction (laboratory: fixed volume sample)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Proportion with dextral coiling of Globorotalia hirsuta (WoRMS 113448) [Subcomponent: tests] in sediment >150um by fixed volume sampling, sieving, picking and optical microscopy"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/GHDXFVBS/2/"

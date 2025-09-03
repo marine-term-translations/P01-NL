@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: sandstone_315-630um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The proportion of sediment particles in the size class 315-630um identified
+    as being sandstone lithology.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Proportion of particles (sandstone) in the sediment 315-630um
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/SANDGS02/2/

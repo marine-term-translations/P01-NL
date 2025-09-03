@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: LenGasLarvSD
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The square root of the average of the squares of deviations about the
+    mean of a set of values of the specified measurement.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Length standard deviation of Gastropoda (ITIS: 69459: WoRMS 101) [Stage:
+    larvae] by optical microscopy'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/BLSDOXGL/3/

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "CaCO3_drysed_63-4000um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The proportion by weight of calcium carbonate to the total weight of a dried sample of disaggregated minerals or mineraloids of size range between 63 microns and 4 millimeters or identified as the combination of 'Sand' + 'Granule' classes on the Wentworth scale."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Proportion of calcium carbonate {CaCO3 CAS 471-34-1} per unit dry weight of sediment 63-4000um"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PCACX315/1/"

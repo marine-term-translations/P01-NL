@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "HeadLength"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The length of the head of biological specimens identified elsewhere in the data or metadata. The reference points used in the measurement vary depending on given group of organisms and should be recorded in the usage metadata; for birds it is typically defined as the distance between the back of the skull and the tip of the bill."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Length of biological entity specified elsewhere [Subcomponent: head]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SPHLXX01/3/"

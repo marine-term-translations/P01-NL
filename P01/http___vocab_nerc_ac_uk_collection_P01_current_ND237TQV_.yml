@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "237Np_unfilt"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The activity (number of disintegrations per unit time) of neptunium-237 in a sample of water from any body of fresh or salt water. Activity was calculated from concentrations using the 237Np half-live 2144000 y."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity of neptunium-237 {237Np CAS 13994-20-2} per unit volume of the water body [dissolved plus reactive particulate phase] by inductively-coupled plasma mass spectrometry and concentration to activity conversion based on half life"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ND237TQV/2/"

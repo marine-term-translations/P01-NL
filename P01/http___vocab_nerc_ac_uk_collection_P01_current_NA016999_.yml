@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "abund_bact_BE006308"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Number of particles resolved as bacteria cells (heterotrophic plus cyanobacteria if present) from the high nucleic acid content cluster (HNA) in a unit volume of any body of fresh or salt water determined by flow cytometry analysis of particles stained with SYBR Green I."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Abundance of bacteria (ITIS: 202421: WoRMS 6) [Subgroup: high nucleic acid cell content] per unit volume of the water body by SYBR Green I staining and flow cytometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NA016999/4/"

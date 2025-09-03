@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DTN_Unfilt_Oxidation_ColAA/kg"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (moles or mass) of nitrogen in all species other than dissolved gaseous nitrogen contained in an unfiltered water sample analysed by colorimetric autoanalysis of the oxidised sample, and expressed per unit mass of water."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of total nitrogen {total_N} per unit mass of the water body [dissolved plus reactive particulate phase] by oxidation and colorimetric autoanalysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NTCOKGOA/1/"

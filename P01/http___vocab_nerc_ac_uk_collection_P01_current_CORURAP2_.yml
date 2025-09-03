@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: CoRelUp
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Tracer doped constant light incubation 100uE/m2/s (0.45 pore filtered)
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Rate of change of partition coefficient (hourly) of cobalt {Co CAS 7440-48-4}
+    per unit time in the water body [particulate >0.4/0.45um phase] by tracer doping,
+    incubation at 100uE/m2/s light level, filtration and counting filtrate and residue
+    and computation of rate of change from variable incubation durations
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CORURAP2/3/

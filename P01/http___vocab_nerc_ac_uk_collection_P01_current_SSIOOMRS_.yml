@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SedSiRSOP"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Simulated resuspension event in an on-deck mesocosm"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Resuspension-event flux (into water) of silicate {SiO44- CAS 17181-37-2} per unit time per unit area of the bed by mesocosm simulated resuspension and calculation from rate of change of concentration in overlying water"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SSIOOMRS/3/"

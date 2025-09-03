@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "methionine_dailyuptakeSD"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The uptake rate standard deviation over 24 hours of methionine from a body of salt or fresh water estimated from dilution experiments following the protocol of Zubkov et al. (2007)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate standard deviation (daily) of methionine (bioavailable) {CAS 59-51-8} per unit time per unit volume of the water body [particulate >0.2um phase] by isotopic dilution time-series incubations, filtration and counting residue and calculation from regression of radioactivity against incubation time for each dilution and extrapolation to turnover time at ambient concentration"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MESDUPTX/2/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "TCO2CASW"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (mass or moles) of the specified analyte contained in unit volume of a water sample extracted from a wet sediment sample and filtered through a 0.4 or 0.45um pore filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of total inorganic carbon {TCO2 CAS 7440-44-0} per unit volume of the sediment pore water [dissolved plus reactive particulate <0.4/0.45um phase] by extraction by squeezing, filtration, acidification and CO2 quantification by gas analyser"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/TCO2CASW/5/"

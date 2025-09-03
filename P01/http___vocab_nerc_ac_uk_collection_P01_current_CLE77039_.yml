@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: Conc_uncert_Pb_water<0.4/0.45um_ICPMS
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The combined uncertainty associated with the specified measurement. The
+    method used to estimate uncertainty should be described in the usage metadata.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration combined uncertainty of lead {Pb CAS 7439-92-1} per unit
+    volume of the water body [particulate >0.4/0.45um phase] by filtration, acid digestion
+    and inductively-coupled plasma mass spectrometry
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CLE77039/2/

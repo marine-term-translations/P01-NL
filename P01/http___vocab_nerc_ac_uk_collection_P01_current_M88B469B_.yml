@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Count_BE006161"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "White bottle shaped sponges grouoped & clearly visible oscula (~1-2cm diameter)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Count of Demospongiae (ITIS: 47528: WoRMS 164811) [Size: height ~10cm Morphology: grouped and clearly visible oscula (diameter 1-2cm), bottle shaped Colour: white] on the bed by image analysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/M88B469B/1/"

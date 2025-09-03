@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "WaveIntegPeriod"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Reciprocal of the frequency of waves computed by Fourier analysis from waverider data using the formula SQRT(m-2/m0) as proposed by Cartwright and Longuet-Higgins (1956)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Integral period of waves on the water body by waverider and computation from moments as defined by Cartwright and Longuet-Higgins (1956)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/GTEEFA02/1/"

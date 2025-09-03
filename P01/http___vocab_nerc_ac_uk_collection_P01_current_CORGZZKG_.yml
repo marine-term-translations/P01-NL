@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DOC/kg"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Concentration of organic carbon (i.e. carbon not in carbonate or bicarbonate molecules) dissolved per unit mass of the water column. This is a DOC measurement obtained by measuring TOC and assuming that POC=0. Carbon may be expressed in terms of mass, mass or quantity of substance."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of organic carbon {organic_C CAS 7440-44-0} {DOC} per unit mass of the water body [dissolved plus reactive particulate phase]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CORGZZKG/1/"

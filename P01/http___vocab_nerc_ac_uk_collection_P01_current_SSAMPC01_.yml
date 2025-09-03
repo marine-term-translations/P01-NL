@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SubSamplingCoefficient"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A decimal coefficient lower or equal to 1 that indicates the proportion of the sample that is represented in the sub-sample. This value allows to rescale the counted (and measured) individuals to the total sampling effort applied at sample level. If no proportional subsampling occurred this value should equal 1."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Sub-sampling coefficient"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SSAMPC01/1/"

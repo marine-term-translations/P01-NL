@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "MnKfdc"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Radiotracer incubation at 100 uE/m2/s: phases split by 0.45 um pore filtration"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Fast distribution coefficient (dissolved plus reactive particulate <0.4/0.45um/particulate >0.4/0.45um) of total manganese {Mn CAS 7439-96-5} in the water body by tracer doping, incubation at 100uE/m2/s light level, filtration and gamma spectroscopy"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MNKDRAX2/4/"

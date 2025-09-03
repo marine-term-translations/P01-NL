@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: MaxTz
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The longest interval between two upward (or downward according to the
+    convention adopted) zero crossings during a recording burst.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Zero-crossing period maximum of waves on the water body
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/GTZMZZ01/5/

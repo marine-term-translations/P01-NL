@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Cd_filt0.2um_TIMS/kg"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Concentration of cadmium per unit mass of a fresh or salt water body determined by thermal ionization mass spectrometry after filtration (0.2um filtered)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of cadmium {Cd CAS 7440-43-9} per unit mass of the water body [dissolved plus reactive particulate <0.2um phase] by filtration and thermal ionization mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CDKGTIMS/2/"

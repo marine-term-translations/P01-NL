@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SEMZooGrzCoeffDMSPp"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Dilution experiment (shipboard incubation)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Grazing coefficient by microzooplankton standard error of dimethylsulphoniopropionate {DMSP dimethylsulfoniopropionate CAS 7314-30-9} in the water body [particulate >unknown phase] by on-deck incubation dilution experiment"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/GRZEDDDP/5/"

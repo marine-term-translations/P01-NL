@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: WetWt_CAS292850-13-6_BE010306
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The wet weight concentration of the specified analyte in the specified
+    organism or part thereof.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of carboxyhomoyessotoxin {CAS 292850-13-6} per unit wet
+    weight of biota {Glycymeris glycymeris (ITIS: 79429: WoRMS 140025) [Subcomponent:
+    hepatopancreas]}'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/YSOTOXI3/1/

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Count_BE006265"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Purple anemone with purple tentacles ~60% radius of whole animal in three whorls of ~ 20 tetacles. Oral disc more orange in colour."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Count of Actiniaria (ITIS: 52485: WoRMS 1360) [Size: diameter 15-20cm Morphology: purple tentacles (~60% radius of whole animal) in three whorls of ~20 tentacles, orange oral disc Colour: purple] on the bed by image analysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/P420830B/1/"

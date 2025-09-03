@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "WavePeriodSpecMax_S4"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The reciprocal of the frequency at which the power spectral density of the surface elevation is maximal determined from high-frequency pressure measurements by an S4 wave gauge."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Period at spectral maximum of waves {peak period Tp} on the water body by Interocean S4 wave gauge"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/GTPKFS01/4/"

@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: MPN_FecalColiform_sed_WW
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Number of individuals from the specified biological entity identified
+    and counted using the most probable number method and normalised to a unit mass
+    of fresh unsieved sediment.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Abundance of faecal coliform bacteria per unit wet weight of sediment
+    by most probable number method
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/AFAX88X1/1/

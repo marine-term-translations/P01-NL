@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: N_analysed_BE008221
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The number of individual specimen of the specified organism used in the
+    analysis.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Number (of specimen analyses) {sample size} of Mytilus trossulus (ITIS:
+    567928: WoRMS 140482)'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/NS25A402/1/

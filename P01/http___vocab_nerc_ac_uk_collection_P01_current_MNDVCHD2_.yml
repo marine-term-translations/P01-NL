@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DissMn2+_<0.4um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Dissolved (no particles >0.4um) divalent manganese per unit volume of a water body assayed using the colorometric method of Chin (1992)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of manganous ion {Mn2+ divalent manganese CAS 16397-91-4} per unit volume of the water body [dissolved plus reactive particulate <0.4/0.45um phase] by filtration and 1-(2-pyridylazo)-2-naphthol (PAN)-Mn 560nm colorimetric autoanalysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MNDVCHD2/3/"

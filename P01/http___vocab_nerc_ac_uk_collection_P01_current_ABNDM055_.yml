@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: ABNDM055
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Semibalanus balanoides (ITIS: 89687: WoRMS 106210) per unit
+    area of the bed by sieving and picking under an optical microscope'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ABNDM055/3/

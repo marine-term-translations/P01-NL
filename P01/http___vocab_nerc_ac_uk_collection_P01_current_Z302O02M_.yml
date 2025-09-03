@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Z302O02M"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Duplicate code - use Z302M02O in preference. Snook through as C5-6 which is a synonym for C5-adult and has subsequently ben changed to C5-adult to allow the code table to be cleaned up"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Abundance of Calanus helgolandicus (ITIS: 85276: WoRMS 104466) [Stage: copepodites C5 plus adults] per unit volume of the water body by optical microscopy"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/Z302O02M/3/"

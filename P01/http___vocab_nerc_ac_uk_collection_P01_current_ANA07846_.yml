@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "HNan_FC"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Number of particles in a unit volume of any body of fresh or salt water resolved by flow cytometry as undifferentiated eukaryotic heterotrophs in an operationally defined nanoplankton size range; this code can be used when counts were labelled as nano, heterotrophic or aplastidic, and eukaryotes or flagellates, or when it is known that the counts were from the nanoplankton size range and obtained from samples stained with a nucleic-acid specific fluorescent dye, and subtraction of photosynthetic cell counts if present."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Abundance of nanoeukaryotic cells [Subgroup: heterotrophic] per unit volume of the water body by flow cytometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ANA07846/3/"

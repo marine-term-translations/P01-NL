@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Enrich_18O_grndwater"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The isotopic enrichment (1000*(sample 18/16 ratio - natural ratio)/(natural ratio)) of 18O in the oxygen of water molecules of water held in interstices of soil or rock."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to the VSMOW-SLAP scale of oxygen-18 in water molecules {18O in H2O CAS 14797-71-8} {delta(18)O} in groundwater [dissolved plus reactive particulate phase] by equilibration with and cryogenic trapping of CO2 and mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/D18OGWXX/6/"

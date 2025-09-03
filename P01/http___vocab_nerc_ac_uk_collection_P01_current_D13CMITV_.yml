@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DICd13C_VPDB"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The change in the relative abundance of 13C (also referred to as delta-13C) isotope in inorganic carbon relative to the reference abundance measured in Vienna Pee Dee Belemnite, from an unfiltered and acidified body of salt or fresh water."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to Vienna Pee Dee Belemnite (VPDB) of carbon-13 in inorganic carbon {13C in inorganic_C CAS 14762-74-4} {delta(13)C} in the water body [dissolved plus reactive particulate phase] by acidification and mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/D13CMITV/1/"

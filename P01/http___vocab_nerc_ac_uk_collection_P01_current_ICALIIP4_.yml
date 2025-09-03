@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "IntCalcif_>0.2um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Depth integration of measurements made by isotope-doped incubation experiments followed by counting the particulates on each filter of a filter cascade down to a 0.2um pore filter. Individual depth values obtained by summing the size-fractionated data.  Incubation conditions not specified by parameter code."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Calcification rate (daily) per unit time per unit area of the water body [particulate >0.2um phase] by isotope-labelled tracer addition, incubation at different light levels, cascade filtration and scintillation counting and differencing results from acidified and unacidified samples, summation of size fractionated data and depth integration"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ICALIIP4/1/"

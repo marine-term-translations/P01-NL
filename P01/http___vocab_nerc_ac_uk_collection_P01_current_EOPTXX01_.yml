@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Eopt_PAM_sediment"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The irradiance at which maximum photosynthesis (Pmax) is reached in a Photosynthesis versus Irradiance (PvI) curve by the microphytobenthos using pulse-amplitude modulation (PAM) fluorescence technique with multiple turnover flash protocol."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Photosynthesis optimum irradiance (PAR wavelengths) in the sediment by multiple turnover pulse-amplitude modulation (PAM) fluorometry and PvI curve analysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/EOPTXX01/2/"

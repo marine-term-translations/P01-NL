@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PctLight_Morel"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Ratio of downwelling PAR irradiance at depth divided by downwelling PAR irradiance just below the surface determined from downwelling PAR in air using the protocol of Morel (1978) (https://doi.org/10.1016/0146-6291(78)90623-9) expressed as percentage."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Proportion of sub-surface irradiance (PAR wavelengths) by cosine-collector radiometer and sub-surface irradiance computed from surface irradiance after Morel (1978)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DWIRRRAT/3/"

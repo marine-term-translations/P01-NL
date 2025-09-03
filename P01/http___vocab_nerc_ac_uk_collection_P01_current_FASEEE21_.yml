@@ -1,0 +1,23 @@
+labels:
+- name: altLabel
+  original: 20:4(n-6)_seston_inc_SE
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The standard error of the mean (defined as the standard deviation divided
+    by the square root of the sample size) of multiple determinations of the specified
+    phenomenon.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration standard error of cis-5,cis-8,cis-11,cis-14-eicosatetraenoic
+    acid {arachidonic acid C20:4FA cis 5,8,11,1 CAS 506-32-1} per unit volume of experiment
+    water sample [particulate GF/F-90um phase] by parallel screened water incubations
+    with and without added grazers, grazer removal, filtration and gas chromatography-electron
+    capture detection
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/FASEEE21/5/

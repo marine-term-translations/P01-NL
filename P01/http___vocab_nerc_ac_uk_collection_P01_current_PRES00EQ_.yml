@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Press_eq
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The force exerted by gases in air equilibrated with a liquid sample inside
+    the measurement loop or equilibration chamber of a gas analyser.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Pressure (in measurement loop for equilibrated marine sample)
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/PRES00EQ/3/

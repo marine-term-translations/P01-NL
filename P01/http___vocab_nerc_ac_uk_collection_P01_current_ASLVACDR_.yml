@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SL_UKACD_radar"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Height of the sea surface relative to the low water plane specified by UK Admiralty. This approximates to Lowest Astonomical Tide but the two are not exactly the same in some geographical areas."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Surface elevation relative to UK Admiralty Chart Datum of the water body by radar water level recorder"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ASLVACDR/2/"

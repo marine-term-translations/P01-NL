@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: WetWtBiom_BE000648
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Wet weight biomass of Brachyura (ITIS: 98276: WoRMS 106673) per unit
+    area of the bed by gravimetry'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/OMXMGB11/2/

@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: VertDiffC
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: This is the alternative term for this definition.  Only use to cover cases
+    where there are two sensors of the same type contributing to the data set and
+    referential integrity considerations prevent a usage of a single code.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Log10 vertical diffusion coefficient in the water body by turbulence profiler
+    (second sensor) and computation from turbulent kinetic energy and density
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/VDFCCV02/3/

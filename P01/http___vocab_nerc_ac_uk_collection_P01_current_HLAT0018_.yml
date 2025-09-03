@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Conc_limonene_atmos
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Concentration (mass or moles) of the analyte contained in a unit volume
+    of the part of the atmosphere composed entirely of gases.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of limonene {CAS 138-86-3} per unit volume of the atmosphere
+    [gaseous phase] by gas chromatography-mass spectrometry
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/HLAT0018/2/

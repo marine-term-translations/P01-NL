@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Conc_TAl"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Amount (mass or moles) of aluminium determined by lumogallion fluorescence in a given volume of an unfiltered, acid-digested sample of any body of fresh or salt water."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of aluminium (total dissolvable) {Al CAS 7429-90-5} per unit volume of the water body [dissolved plus reactive particulate phase] by acidification and lumogallion fluorescence"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ALVOLLGF/2/"

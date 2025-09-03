@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Abund(inc)_BE002980
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Kofoidinium (ITIS: 331428: WoRMS 109499) per unit volume
+    of experiment water sample by optical microscopy'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/U5A82AB4/3/

@@ -1,0 +1,22 @@
+labels:
+- name: altLabel
+  original: abund_bact_BE006308_bioassay
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Number of particles resolved as bacteria cells (heterotrophic plus cyanobacteria
+    if present) from the high nucleic acid content cluster (HNA) in a unit volume
+    of an experiment water sample determined by flow cytometry analysis of samples
+    stained with SYBR Green I.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of bacteria (ITIS: 202421: WoRMS 6) [Subgroup: high nucleic
+    acid cell content] per unit volume of experiment water sample by SYBR Green I
+    staining and flow cytometry'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/NA016EXP/5/

@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: HF_HsPeak
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Spectral significant wave height of waves (around spectral peak) {Hm0}
+    on the water body by high frequency radar and cell averaging
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/HFRDHSSP/2/

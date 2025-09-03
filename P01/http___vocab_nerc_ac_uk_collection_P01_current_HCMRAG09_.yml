@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "aliph_sed_anox"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The combined mass of all aliphatic (no benzene rings) compounds that may be extracted per unit weight of dried unsieved sediment deficient in oxygen."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of aliphatic hydrocarbons {aliphatic-H} per unit dry weight of sediment anoxic layer"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/HCMRAG09/1/"

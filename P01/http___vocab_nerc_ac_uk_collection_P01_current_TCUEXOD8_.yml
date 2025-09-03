@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "CalciteProd_daily_>0.4um_bioassay"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "not supplied"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Calcification rate (daily) of carbon {C CAS 7440-44-0} {calcite production} per unit time per unit volume of the experiment water sample [particulate >0.4/0.45um phase] by isotope-labelled tracer addition, incubation, filtration, acidification, gas trapping and scintillation counting"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/TCUEXOD8/3/"

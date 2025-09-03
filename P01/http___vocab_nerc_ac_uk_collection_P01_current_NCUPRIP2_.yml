@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "TNCupt_>0.45um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Measurements made by radiotracer in-situ incubation followed by counting particulates collected on a 0.4/0.45um pore filter. Rate normalised by dividing the total uptake by the incubation duration in hours."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of carbon {C} {primary production} per hour per unit volume of the water body [particulate >0.4/0.45um phase] by isotope-labelled tracer addition, in-vitro incubation on in-situ rig, filtration and counting residue"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NCUPRIP2/6/"

@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: SPMPigAbs607
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Absorbance of electromagnetic radiation (607nm wavelength) {light absorbance}
+    by the suspended particulate material >GF/F [pigment phase] by filtration and
+    spectrophotometry on residue before and after NaOCl bleaching and differencing
+    of the measurements
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/PIGNA607/2/

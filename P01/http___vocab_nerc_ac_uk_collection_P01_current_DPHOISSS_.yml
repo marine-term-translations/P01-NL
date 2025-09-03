@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SD_SedPO4SSOP_IS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Analysis of overlying water using syringe samples from in-situ incubation"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Steady-state flux standard deviation (into water) of phosphate {PO43- CAS 14265-44-2} per unit time per unit area of the bed by in-situ incubation and calculation from rate of change of concentration in overlying water"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DPHOISSS/4/"

@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: BinNum
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Neutral labels for the sampling bins of instruments such as ADCPs using
+    a convention of monotonic integers starting at 1 for the bin nearest to the instrument
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Bin number
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/BINNUMBR/1/

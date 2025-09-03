@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "AreaExtent_Ulva_bloom_blade+filamentous"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Total surface of sea and ground affected by a macroalgal bloom composed of a combination of the blade and filamentous morphotypes from the genus Ulva, estimated from aerial photography and GIS processing. This kind of parameters is used in the monitoring of opportunistic macroalgal blooms such as 'green tides'."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Areal extent of Ulva (ITIS: 6559: WoRMS 144296) [Morphology: blade+filamentous Subgroup: bloom] on the Earth by aerial photography, GIS analysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/AXUVBB02/1/"

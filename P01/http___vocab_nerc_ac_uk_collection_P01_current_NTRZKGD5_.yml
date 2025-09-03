@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "NO3+NO2_0.2umFilt_ColAA/kg"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Amount (quantity or mass) of total oxidised inorganic nitrogen (nitrate and nitrite) accessible to assay per unit mass of a 0.2 micron pore-filtered sample of any body of fresh or salt water."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of nitrate+nitrite {NO3+NO2} per unit mass of the water body [dissolved plus reactive particulate <0.2um phase] by filtration and colorimetric autoanalysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NTRZKGD5/1/"

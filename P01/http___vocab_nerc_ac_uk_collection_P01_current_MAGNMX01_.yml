@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "MX_norm"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The normalised x component of the measure of the total magnetic field relative to the instrument frame, corrected for instrument pitch and roll. These values can be used to determine instrument heading and correct directional measurements relative to magnetic north."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Magnetic flux (x component) relative to instrument frame {MX} by triaxial fluxgate compass and normalisation and correction for pitch and roll"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MAGNMX01/1/"

@@ -1,0 +1,21 @@
+labels:
+- name: altLabel
+  original: NH4_ox_SD_bioassay
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Oxidation rate standard deviation (hourly) of ammonium {NH4+ CAS 14798-03-9}
+    {nitrification rate} per unit time per unit volume of the experiment water sample
+    [dissolved plus reactive particulate <GF/F phase] by isotope-labelled tracer addition,
+    incubation, filtration, sudan-1 synthesis, SPE extraction, HPLC purification and
+    mass spectrometry and calculated using the Blackburn and Caperon Model
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ASDEXITX/4/

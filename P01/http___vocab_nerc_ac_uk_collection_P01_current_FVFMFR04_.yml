@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "FRRF_FvFm_BlankCorr_dark"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Photochemical quantum efficiency {Fv/Fm} in the water body by in-situ fast repetition rate fluorometer (FRRF) and calculation from blank-corrected Fm and Fo fluorescence yields from the dark chamber"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/FVFMFR04/2/"

@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Part_230Th>0.8um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Not corrected for detrital materials
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Activity of thorium-230 {230Th CAS 14269-63-7} per unit volume of the
+    water body [particulate >0.8um phase] by filtration
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/TH230MS8/2/

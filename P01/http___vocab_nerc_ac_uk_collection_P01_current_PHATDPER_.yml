@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Err_PO4_aerosolDepRate"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Deposition rate standard error (from atmosphere aerosol) of phosphorus (water soluble reactive) {P} {'PO4'} per unit time per unit area of the water body by filtration and colorimetric analysis and computation assuming a 1cm/s deposition velocity"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PHATDPER/4/"

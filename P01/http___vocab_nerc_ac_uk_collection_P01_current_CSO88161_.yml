@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: soluble_Zr_aerosol_acid_leach
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: A generic code for the quantity or mass of the specified substance in
+    the aerosols normalised to one unit volume of atmosphere.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of soluble zirconium {soluble_Zr CAS 7440-67-7} per unit
+    volume of the atmosphere [aerosol phase] by acid leaching of filter residue
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CSO88161/1/

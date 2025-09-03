@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "ClusterNameID"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Opaque key term identifying the type of particles belonging to a specific flow cytometry cluster, taken from the NVS SeaDataCloud Flow Cytometry Standardised Cluster Names controlled vocabulary F02."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Registered name identifier of flow cytometry cluster by classification to a term from the NVS SeaDataCloud Flow Cytometry Standardised Cluster Names Vocabulary (SDN:F02::)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/IDCLFL02/1/"

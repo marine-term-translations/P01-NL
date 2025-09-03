@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Sigma0_TEOS10"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The difference between the density of a water parcel and a density of 1000 kg/m^3, if the water parcel were moved adiabatically to 0 decibars. Calculated from the corresponding absolute salinity and conservative temperature values using the algorithm from IOC, SCOR and IAPSO (2010). TEOS-10: Thermodynamic Properties of Seawater Calculation and Use. UNESCO, Paris."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Potential density anomaly {Sigma-0} of the water body by computation from absolute salinity and conservative temperature using UNESCO 2010 algorithm"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SIGTPR03/1/"

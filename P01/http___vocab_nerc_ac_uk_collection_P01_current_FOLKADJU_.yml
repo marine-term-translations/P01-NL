@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "AdjFolkClass"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A text term plus URI describing the Adjusted Folk Class by visual comparisons with definitions in the Geo-Seas Adjusted Folk Class controlled vocabulary based on updates of Folk (1954) by BGS and Flemming (2000)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Description of Adjusted Folk Class of sediment by visual estimation and classification to a term from the Geo-Seas Adjusted Folk Class Vocabulary (SDN:GS3::) based on Flemming (2000)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/FOLKADJU/2/"

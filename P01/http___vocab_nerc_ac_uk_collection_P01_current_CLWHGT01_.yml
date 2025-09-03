@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Claw_height"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The vertical dimension of the sharp usually slender and curved nail or extension at the end of a toe or limb in some organisms, or one of the pincer-like organs on some limbs of arthropods, known as a claw, of a biological organism identified elsewhere in the data schema."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Height of biological entity specified elsewhere [Subcomponent: claw]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CLWHGT01/1/"

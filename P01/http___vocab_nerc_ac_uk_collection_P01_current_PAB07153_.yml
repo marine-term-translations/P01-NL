@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PresAbs_BE007153_PCR"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Statement of whether the specified taxon is present (boolean true) or absent (boolean false) in a sample based on detection of taxon DNA by PCR"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Presence or absence of Mytilus edulis (ITIS: 79454: WoRMS 140480) [Stage: larvae] in the water body by filtration, DNA extraction and polymerase chain reaction"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PAB07153/3/"

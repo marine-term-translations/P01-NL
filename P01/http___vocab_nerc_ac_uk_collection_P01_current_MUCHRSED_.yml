@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: MunsellChromaSed
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: An integer specifying the colour purity following the classification of
+    Munsell (1912) based on visual examination
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Munsell chroma of sediment by visual estimation
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/MUCHRSED/1/

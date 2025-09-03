@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: Part_232Th_0.8-51um/kg_SE
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The standard error of the mean (defined as the standard deviation divided
+    by the square root of the sample size) of multiple determinations of the specified
+    phenomenon.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Activity standard error of thorium-232 {232Th} per unit mass of the water
+    body [particulate 0.8-51um phase] by filtration
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/THKG2ER5/3/

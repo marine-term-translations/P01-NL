@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Sed_C38:3_ethyl_ketone
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The amount (mass or moles) of the specified organic compound per unit
+    mass of dry sediment.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of ethyl octatriaconta-9E,16E,23E-trien-3-one {C38:3 ethyl
+    ketone} per unit dry weight of sediment
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ALKANS06/1/

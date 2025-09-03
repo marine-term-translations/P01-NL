@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Delta_114/110Cd_NIST-3108_WC<0.2um_ICPMS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The isotope composition of cadmium 114 relative to cadmium 110 in the dissolved phase of a sample of water filtered through 0.2 relative to the NIST 3108 standard, analysed using ICP-MS and reported using the delta notation defined as: Delta_114/110Cd sample= (([114Cd/110Cd]sample / [114Cd/110Cd]standard) -1) x 1000)."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to 114Cd/110Cd in NIST SRM 3108 of cadmium-114 {114Cd CAS 14041-58-8} {delta(114)Cd} in the water body [dissolved plus reactive particulate <0.2um phase] by filtration and inductively-coupled plasma mass spectrometry and using the delta notation"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DTENRICP/1/"

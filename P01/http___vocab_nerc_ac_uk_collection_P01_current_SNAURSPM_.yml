@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "NNH4Upt_nat_GFF-5um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Measurements made by tracer doped incubation in full natural sunlight followed by mass spectrometric analysis of particulates collected on a GF/F filter filtering water previously filtered through a 5um pore filter. Rates normalised by dividing total uptake by the incubation duration in hours."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of ammonium {NH4+ CAS 14798-03-9} per hour per unit volume of the water body [particulate GF/F-5um phase] by tracer doping, on-deck incubation at full natural light level, cascade filtration and mass spectrometry on residue"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SNAURSPM/4/"

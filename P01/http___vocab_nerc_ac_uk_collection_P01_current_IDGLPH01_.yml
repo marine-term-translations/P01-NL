@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "ID_glider_phase_EGO"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A numeric integer term describing the phase of glider operation defined using the Everyone's Gliding Observatories (EGO) format reference list (https://doi.org/10.13155/34980)."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Identifier of glider phase by classification to a term from the Everyone's Gliding Observatories (EGO) format reference list (https://doi.org/10.13155/34980)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/IDGLPH01/1/"

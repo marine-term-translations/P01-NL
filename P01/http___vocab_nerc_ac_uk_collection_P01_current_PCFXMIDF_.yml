@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DinoflagCarbFlux"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "This code was updated on 18-feb-2016 so that the name Dinoflagellates is used instead of Pyrrophycophyta in the preferred label field. The vernacular term 'dinoflagellates' maps to Pyrrophycophyta in the ITIS taxonomy and Dinophyceae in the WoRMS taxonomy. In the context of this code, the 3 terms are considered synonyms."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Sedimentation flux as carbon of Dinoflagellates (ITIS: 9873: WoRMS 19542) per unit time per unit area of the water body by sediment trapping and optical microscopy and abundance to carbon conversion"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PCFXMIDF/4/"

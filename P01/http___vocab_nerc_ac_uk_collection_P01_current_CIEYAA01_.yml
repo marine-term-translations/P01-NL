@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "CIE_Y_sed"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A numeric specifying the luminance or brightness of sediment colour as defined by the CIE 1931 colour space."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "CIE tristimulus value Y (CIE 1931 XYZ colour space) of the sediment by calculated using CIE algorithm with 2 degree standard observer and D65 illuminant"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CIEYAA01/1/"

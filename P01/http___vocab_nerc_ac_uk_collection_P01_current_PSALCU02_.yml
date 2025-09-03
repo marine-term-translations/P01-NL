@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "P_sal_CTD_uncalib2"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "This is the alternative term for this definition.  Only use to cover cases where there are two sensors of the same type contributing to the data set and referential integrity considerations prevent a usage of a single code."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Practical salinity of the water body by CTD (second sensor) and computation using UNESCO 1983 algorithm and no calibration against independent measurements"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PSALCU02/4/"

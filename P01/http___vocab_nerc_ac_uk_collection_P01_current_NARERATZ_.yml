@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "NNH4Reg"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Diffusion extraction of gas from tracer doped constant light incubation at 100UE/m2/s"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Regeneration rate (hourly) of ammonium {NH4+ CAS 14798-03-9} per unit time per unit volume of the water body by tracer doping, incubation at 100uE/m2/s light level, diffusion extraction of gas and mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NARERATZ/3/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "JHSpec_Chl-b_GFF-5um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Trichromatic spectrophotometric assay following Jeffrey and Humphrey protocols of acetone extract from particulates on a GF/F filter filtering water previously filtered through a 5um pore filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of chlorophyll-b {chl-b CAS 519-62-0} per unit volume of the water body [particulate GF/F-5um phase] by filtration, acetone extraction and trichromatic spectrophotometry following the Jeffrey and Humphrey protocol"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SCHBSSPM/2/"

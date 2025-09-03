@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: P00000A
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Optical microscopy. Note that Division Bacillariophyta is equivalent to
+    the common name Diatom
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Bacillariophyceae (ITIS: 2287: WoRMS 148899) [Size: small]
+    per unit volume of the water body by optical microscopy'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/P000M00A/2/

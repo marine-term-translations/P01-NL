@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: Microlitter_weight_sediment
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The weight after drying of items classified as micro-litter counted in
+    a sediment sample within categories defined in the EMODnet chemistry micro-litter
+    reporting protocol.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Dry weight of micro-litter particles collected from the sediment by categorisation
+    using EMODnet chemistry reporting protocol
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/MLDWSD01/1/

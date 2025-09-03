@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DONExcr"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "15N-doped: incubated at simulated in-situ light: processed according to Slawyk and Raimbault (1995)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Production rate of organic nitrogen {organic_N} {DON excretion rate} per hour per unit volume of the water body [dissolved plus reactive particulate <GF/F phase] by isotope-labelled tracer addition, on-deck incubation at simulated in-situ light level, filtration and protocol of Slawyk and Raimbault (1995)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DNEXSOXX/3/"

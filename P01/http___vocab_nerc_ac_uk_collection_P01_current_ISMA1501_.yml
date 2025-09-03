@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "ConcAtSatN2"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The theoretical amount (mass or moles) of nitrogen that may be dissolved in a sample of any body of water of given temperature and salinity at atmospheric pressure."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration (at saturation at atmospheric pressure) of nitrogen {N2} in the water body by computation from salinity and temperature"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ISMA1501/1/"

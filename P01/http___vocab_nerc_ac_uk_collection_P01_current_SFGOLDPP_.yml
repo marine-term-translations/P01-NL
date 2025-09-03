@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: GrossO2_<0.8um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Measurements made using the light/dark bottle incubation method on water
+    samples screened through a 0.8um mesh.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Gross production rate of oxygen {O2 CAS 7782-44-7} per unit time per unit
+    volume of the water body [particulate <0.8um phase] by light and dark bottle incubation
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/SFGOLDPP/3/

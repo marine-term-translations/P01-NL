@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "DMSD_<GF/F_PTRMS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The concentration (mass or moles) of DMS using Proton Transfer Reaction Mass Spectrometry analysis."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of dimethyl sulfide {DMS CAS 75-18-3} per unit volume of the water body [dissolved plus reactive particulate <GF/F phase] by filtration and proton transfer reaction mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DMSXPT01/2/"

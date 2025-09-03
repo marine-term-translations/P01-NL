@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: Wind_speed_10minSD_LIDAR
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The square root of the average of the squares of deviations about the
+    mean of a set of values of the specified measurement recorded within any continuous
+    period of 10 minutes.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Speed 10-minute standard deviation of wind {wind speed} in the atmosphere
+    by infra-red laser rangefinder (infra-red LIDAR)
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/EWSBLDSD/1/

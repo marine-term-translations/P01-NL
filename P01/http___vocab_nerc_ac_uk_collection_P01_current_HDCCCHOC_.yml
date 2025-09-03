@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: HDCCCHOC
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of chrysene {CAS 218-01-9} per unit dry weight of sediment
+    <63um by fluorescence high performance liquid chromatography (HPLC) and normalisation
+    to organic carbon and lutum content (RIKZ 'standard sediment')
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/HDCCCHOC/3/

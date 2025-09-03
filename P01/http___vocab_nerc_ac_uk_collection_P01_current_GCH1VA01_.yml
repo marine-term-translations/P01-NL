@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SwellWave_1HRMS*4"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A computationally convenient approximation (root mean square wave height in sampling period multiplied by 4) to significant wave height. Significant wave height is a statistic computed from wave measurements that correspond to the average height of the highest one third of the waves, where wave height is defined as the vertical distance from a wave trough to the following wave crest."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Characteristic wave height of waves (swell first component) {Hrms*4} on the water body by waverider"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/GCH1VA01/4/"

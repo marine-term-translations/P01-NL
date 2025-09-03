@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "TEP_abundance"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Number of transparent exopolymer particles retained by a 0.4/0.45 micron filter, identified through Alcian blue staining, and counted using optical microscopy and image analysis, normalised to a unit volume of water sample."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Abundance of transparent exopolymer particle per unit volume of the water body [particulate >0.4/0.45um phase] by filtration, Alcian blue staining, optical microscopy and image analysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/TEPASAP1/1/"

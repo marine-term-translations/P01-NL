@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Siz05pctile
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Sieving and settling tube method assuming cumulative frequency ordered
+    by phi (coarse to fine)
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Grain-size 5th percentile of particles in sediment by sieving and settling
+    tube method and analysis of cumulative frequency ordered by phi (coarse to fine)
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/PC05SSXX/2/

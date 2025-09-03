@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: SL_MSL_Step
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Rijkswaterstaat Mean Sea Level defined as the mean sea level for a period
+    of minimal 2 days converted to a many-year average based on measurements taken
+    at the specified location
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Surface elevation relative to Rijkswaterstaat Mean Sea Level of the water
+    body by digital step tide gauge
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ASLVMSDS/2/

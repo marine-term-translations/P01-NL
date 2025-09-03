@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: CurrDir_Auto
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The direction of Eulerian flow in the water column as measured by an ADCP
+    sensor mounted on an autonomous platform
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Direction (towards) of water current (Eulerian measurement) in the water
+    body by autonomous platform acoustic doppler current profiler (ADCP) and correction
+    to true North
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/LCDAAA01/2/

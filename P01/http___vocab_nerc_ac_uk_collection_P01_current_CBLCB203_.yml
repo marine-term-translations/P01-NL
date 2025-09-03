@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "LNC_PCB203_BE006406"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Unavailable"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of 2,2',3,4,4',5,5',6-octachlorobiphenyl {PCB203 CAS 52663-76-0} per unit mass of lipids in the biota {Halichoerus grypus (ITIS: 180653: WoRMS 137080) [Stage: post-weaned pup Sex: female Subcomponent: blubber Subgroup: live]} by Soxhlet extraction and gas chromatography-mass spectrometry and lipid normalisation (wet weight cct/lipid proportion) and weaning correction"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CBLCB203/3/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "CorrelationMagnitude3"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The magnitude of the normalised echo autocorrelation from beam 3 of an ADCP, after range gating of the data into individual depth cells, at the lag used for estimating the Doppler phase shift. Used in determining confidence in the data, beam by beam and cell by cell. Values are represented on a linear 8-bit scale between 0 and 255, where 255 is a perfect correlation."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Correlation magnitude of acoustic signal returns from the water body by moored acoustic doppler current profiler (ADCP) beam 3"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CMAGZZ03/1/"

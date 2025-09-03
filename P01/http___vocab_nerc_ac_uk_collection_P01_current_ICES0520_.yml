@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: H2OCont_BE007565
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The water content of a fresh sample of the specified organism or part
+    thereof.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of water {H2O CAS 7732-18-5} per unit wet weight of biota
+    {Pollachius pollachius (ITIS: 164728: WoRMS 126440) [Subcomponent: muscle tissue]}'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ICES0520/2/

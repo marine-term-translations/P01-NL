@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Wind_speed_10minMin_LIDAR"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Minimum speed of the wind (distance moved per unit time by a parcel of air) parallel to the ground at a given place and time within a continuous period of 10 minutes, measured by LIDAR."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Speed 10-minute minimum of wind {wind speed} in the atmosphere by infra-red laser rangefinder (infra-red LIDAR)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/EWSBLMIN/1/"

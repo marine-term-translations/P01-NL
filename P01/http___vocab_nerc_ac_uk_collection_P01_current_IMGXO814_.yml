@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Abund_BE006262
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Blue sponge with projecting lumps <1cm from body
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Demospongiae (ITIS: 47528: WoRMS 164811) [Size: height ~15cm,
+    diameter 5cm Morphology: lumps projecting <1cm from body Colour: blue] per unit
+    area of the bed by image analysis'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/IMGXO814/1/

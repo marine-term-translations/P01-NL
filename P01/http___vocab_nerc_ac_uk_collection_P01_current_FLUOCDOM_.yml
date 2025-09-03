@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Fluor_CDOM"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "This code is under review due to its ambiguity. It is likely to be deprecated at the end of the review period. Please use terms stating 'Concentration of%' for calibrated CDOM fluorometer output or 'Raw signal% of%' for the raw fluorescence signal [updated 30/07/2019]. Definition was: The amount of violet to low ultra-violet radiation generated in the water column in response to high ultra-violet radiation transmission expressed relative to an unspecified baseline using fluorometer designed to detect CDOM, crude oil or UV-fluorescent dyes."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Fluorescence of the water body by linear-response CDOM fluorometer"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/FLUOCDOM/3/"

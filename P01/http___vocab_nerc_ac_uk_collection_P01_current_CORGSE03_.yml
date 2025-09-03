@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: OrgC_drysed<250um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The quantity or mass of the specified analyte contained in a dried subsample
+    of sediment that passes through a 250 micron sieve or filter.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of organic carbon {organic_C CAS 7440-44-0} per unit dry
+    weight of sediment <250um
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/CORGSE03/1/

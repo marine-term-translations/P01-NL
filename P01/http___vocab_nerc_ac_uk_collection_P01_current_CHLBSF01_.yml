@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "chl-b_water>20um_fluor_depthinteg"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The total quantity or mass of fluorometrically-determined chlorophyll-b in a volume of any body of salt or fresh water from the surface to the integration depth (specified elsewhere) held in particulate material trapped on a 20um filter"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of chlorophyll-b {chl-b CAS 519-62-0} per unit area of the water body [particulate >20um phase] by filtration, acetone extraction and fluorometry and profile integration"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CHLBSF01/3/"

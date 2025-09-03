@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "delta_2H"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The isotopic enrichment (1000*(sample 2/1 ratio - natural ratio)/(natural ratio)) of 2H in the hydrogen of water molecules in a body of salt or fresh water."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment of deuterium in water molecules {2H in H2O CAS 7782-39-0} {delta D or delta(2)H} in the water body by cavity ring-down spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/D2HBCRDS/5/"

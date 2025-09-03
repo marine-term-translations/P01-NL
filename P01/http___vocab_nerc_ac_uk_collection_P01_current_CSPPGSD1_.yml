@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "COSPhotoProd"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Gas chromatography on GF/F filtered water incubated in natural sunlight"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Photoprodroduction rate constant of carbonyl sulphide {COS CAS 463-58-1} per unit time, light and volume of the water body [dissolved plus reactive particulate <GF/F phase] by filtration, incubation in natural sunlight, purging, cryogenic trapping and gas chromatography and correction for hydrolysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CSPPGSD1/2/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "OSPAR_TD_HabClass"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A text term plus URI describing the seabed habitat of marine, coastal or estuarine waters defined using the OSPAR Commission's List of Threatened and/or Declining Species and Habitats."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Description of habitat by classification to a term from the OSPAR Commission's List of Threatened and/or Declining Species and Habitats (SDN:M22::)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/OSPARTD1/1/"

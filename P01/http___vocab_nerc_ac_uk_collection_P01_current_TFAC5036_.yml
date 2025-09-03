@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: 22:1(n-11)_CalFin_C5
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Proportion of total fatty acids of cis-11-docosenoic acid {cetoleic acid
+    CAS 1002-96-6} in biota {Calanus finmarchicus (ITIS: 85272: WoRMS 104464) [Stage:
+    copepodites C5]} by gas chromatography-flame ionisation detection'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/TFAC5036/3/

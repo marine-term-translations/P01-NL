@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SDiamSPM1.0-500"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The average diameter of a collection of suspended particulate material having the same volume/surface ratio as a particle of interest, collected by in-situ particle sizer and determined by filtration through a pore filter and screen of specified pore size."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Sauter mean diameter of particles in suspended particulate material 1.0-500um by in-situ particle sizer"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SMDMISGC/1/"

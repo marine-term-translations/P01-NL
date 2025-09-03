@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "d15N_in_nitrate_WC_GF/F"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The isotopic enrichment (1000*(sample(15N/14N ratio) - natural ratio)/(natural ratio)) of nitrogen 15 in nitrate molecules (NO3-) in a body of salt or fresh water that has passed through a GF/F filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment of nitrogen-15 in nitrate {15N in NO3- CAS 14390-96-6} {delta(15)N} in the water body [dissolved plus reactive particulate <GF/F phase] by filtration, denitrification to N2O by cultured bacteria and Continuous-Flow Isotope Ratio Mass-Spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/E15NGF21/1/"

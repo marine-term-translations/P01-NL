@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "LatHeatFlux_20av_sonic_eddy_cov"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The 20-minute averaged quantity of energy per unit area lost from the surface ocean resulting in cooling, measured by sonic anemometer and using the eddy covariance method. Values are positive where evaporation occurs."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Latent heat flux 20-minute mean from the water body by in-situ sonic anemometer and computation using the eddy covariance method"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/LHFLSOP1/1/"

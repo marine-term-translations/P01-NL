@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "delta_30Si(SiO2)_>0.4um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Isotopic enrichment (1000*((30Si/28Si) sample / (30Si/28Si) standard)-1) of silicon-30 in biogenic silica (SiO2) in a body of salt or fresh water in particles larger than 0.4 microns by filtration."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment of silicon-30 in biogenic silica {30Si_in_BSi} {delta(30)Si} in the water body [particulate >0.4/0.45um phase] by filtration and inductively-coupled plasma mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/EN30SBSI/4/"

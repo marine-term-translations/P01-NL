@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SensHeatFlux_20av_sonic_eddy_cov"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The 20-minute averaged quantity of heat transferred from the water body to the atmosphere measured by sonic anemometer and using the eddy covariance method. Values are positive where water is warmer than air."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Sensible heat flux 20-minute mean from the water body by in-situ sonic anemometer and computation using the eddy covariance method"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SHFLSOP1/1/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "EnergyLevel_altim"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A measure of the intensity of echo return from an altimeter. Energy level ranges from 0 to 1 where 1 represents full saturation of the receiver. An energy level of 0.707 (square root of 2) is the theoretical perfect level as it represents the energy of a pure sine wave with an amplitude utilising the maximum dynamic range of the receiver."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Energy level of acoustic signal returns from the bed by altimeter"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ENLVZZ01/1/"

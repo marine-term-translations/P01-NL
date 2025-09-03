@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: organic_2500-5000um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The proportion of sediment particles in the size class 2500-5000um identified
+    as being organic fragments lithology.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Proportion of particles (organic fragments) in the sediment 2500-5000um
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ORGSGS05/2/

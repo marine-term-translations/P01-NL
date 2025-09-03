@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: DecalcifiedWt_BE000236
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The total fresh mass after decalcification of specimens of the specified
+    biological entity observed in a given area of the floor of any body of water.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Wet weight biomass (decalcified) of Amphiura filiformis (ITIS: 157728:
+    WoRMS 125080) per unit area of the bed by gravimetry'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/DWW00236/2/

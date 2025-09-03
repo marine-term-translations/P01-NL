@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: PhysMeasDep
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Physical measurement of instrument displacement from the sea surface
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Depth (spatial coordinate) relative to water surface in the water body
+    by physical measurement
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/DEPHPM01/2/

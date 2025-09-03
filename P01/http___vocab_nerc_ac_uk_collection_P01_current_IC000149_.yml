@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: TDEPP_CW_WT_W_GF
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of 4,4'-dichlorodiphenyldichloroethane {p,p'-DDD CAS 72-54-8}
+    per unit volume of the water body [dissolved plus reactive particulate <GF/F phase]
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/IC000149/1/

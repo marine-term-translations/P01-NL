@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Calcif_>5um"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Measurements made by isotope-doped incubation experiment followed by counting particulates collected on a 5um pore filter. Filters counted before and after acidification to give calcification by difference. Parameter code holds no information on incubation light level."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Calcification rate (daily) per unit time per unit volume of the water body [particulate >5um phase] by isotope-labelled tracer addition, incubation at unspecified light level, filtration and counting residue and differencing results from acidified and unacidified samples"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SCALIIPA/1/"

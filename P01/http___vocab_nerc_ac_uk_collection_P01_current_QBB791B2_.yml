@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Count_BE006183
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Originator comment on the biological entity was 'White with angular appearance
+    to arms'
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Count of Asteroidea (ITIS: 156862: WoRMS 123080) [Size: diameter 5-10cm
+    Morphology: angular arms Colour: white] on the bed by image analysis'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/QBB791B2/1/

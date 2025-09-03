@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: FeO_rock
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Proportion of ferrous iron (expressed as ferrous oxide) {Fe_as_FeO CAS
+    15438-31-0} per unit weight of rock
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/MAJO0016/4/

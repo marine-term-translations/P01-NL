@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: WetWt_BDE71_MU_BE007543
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The wet weight concentration of the specified analyte in the specified
+    organism or part thereof.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of 2,3'',4'',6-tetrabromodiphenyl ether {BDE71 CAS 189084-62-6}
+    per unit wet weight of biota {Merluccius merluccius (ITIS: 164795: WoRMS 126484)
+    [Subcomponent: muscle tissue]}'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/IC220107/1/

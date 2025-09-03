@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PropCount_BE010261"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Number of penis-bearing females of the specified species, expressed as a proportion relative to the total number of females of that same species observed in the surveyed population. Generally expressed as a percentage, this is a parameter used to monitor imposex in the targeted biological species and assess the impact of tributyltin pollution."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Proportion by number of Nucella lapillus (ITIS: 73297: WoRMS 140403) [Subgroup: penis-bearing females]"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PBNNL001/1/"

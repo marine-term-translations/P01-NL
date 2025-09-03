@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Ux_WetWtAct40K_BE007138"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The measurement uncertainty scaled to a given confidence level of the rate of radioactive disintegrations due to the specified nuclide per unit weight of the specified organism or part thereof without drying."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity expanded uncertainty of potassium-40 {40K CAS 13966-00-2} per unit wet weight of biota {Osmerus eperlanus (ITIS: 162039: WoRMS 126736)}"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/APOUX138/1/"

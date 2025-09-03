@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: Month
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: A digit from 1 through 12 representing the months of the Gregorian calendar
+    from January through December.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Month within year
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/MNTHXXXX/1/

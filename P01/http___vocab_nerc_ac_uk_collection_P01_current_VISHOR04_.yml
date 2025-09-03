@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "HorVis_ESAS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Maximum horizontal distance through the atmosphere at which an object can be seen and identified by eye, classified into European Seabirds At Sea classes (A-D) with standardised ranges where A is <1 km, B is 1-5 km, C is 5-10 km, and D is >10 km."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Horizontal visibility (ESAS code) in the atmosphere by visual estimation and conversion to ESAS code using the visibility table"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/VISHOR04/2/"

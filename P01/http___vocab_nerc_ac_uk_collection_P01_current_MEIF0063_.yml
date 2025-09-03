@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: AbundSqm_BE006874
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Metacyatholaimus (ITIS: 61500: WoRMS 2311) per unit area
+    of the bed by sieving and picking under an optical microscope'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/MEIF0063/2/

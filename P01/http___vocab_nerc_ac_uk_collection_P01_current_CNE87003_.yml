@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Part_Nd>0.8um_TIMS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The amount (moles or mass) of neodymium in particulate material retained by a 0.8  micron filter suspended in a unit volume of salt or fresh water and analysed by thermal ionization mass spectrometry (TIMS)."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of neodymium {Nd CAS 7440-00-8} per unit volume of the water body [particulate >0.8um phase] by filtration, acid digestion and thermal ionization mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/CNE87003/1/"

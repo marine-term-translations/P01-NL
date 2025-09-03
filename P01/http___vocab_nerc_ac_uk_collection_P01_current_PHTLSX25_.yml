@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "pH(Total)_25deg"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The concentration of hydrogen ions at zero pressure and 25 degrees celsius in a sample assessed against a scale based on buffered solutions designed for seawater (total scale). The total scale takes into account the concentrations of free protons and the protons associated with SO42 −."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "pH (total scale at zero pressure and 25 degrees Celsius) {pH[T]} per unit mass of the water body"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PHTLSX25/1/"

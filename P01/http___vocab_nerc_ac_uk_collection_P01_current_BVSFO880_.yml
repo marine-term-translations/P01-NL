@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "VolScattering_Beta_880nm"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The radiant intensity of scattered light from the water body as a function of angle, measured at the specified wavelength by an in-situ optical backscattering instrument. Volume scattering coefficient (Beta) is calculated by subtracting dark counts from the raw counts then multiplying by the manufacturer-supplied calibration scale factor."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Volume scattering coefficient of electromagnetic radiation (880nm wavelength) {Beta} in the water body by in-situ optical backscatter measurement"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/BVSFO880/1/"

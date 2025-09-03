@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Conc_Hg_total_sed_<250um_CVAFS"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The total amount of mercury in all its chemical forms extracted from a dried sample of sediment passing through a 250 microns sieve by total digestion using a strong acid treatment and analysed by cold vapour atomic fluorescence spectroscopy."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of total mercury {total_Hg CAS 7439-97-6} per unit dry weight of sediment <250um by acid digestion and cold vapour atomic fluorescence spectroscopy"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/MTHGM005/1/"

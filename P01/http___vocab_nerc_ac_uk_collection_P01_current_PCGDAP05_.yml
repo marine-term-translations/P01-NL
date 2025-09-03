@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Percent_Good_Vertical_(ADCP)"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Pings received as a percentage of pings sent, from the vertical beam (sometimes known as the 5th beam) of a 5-beam ADCP."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Acceptable proportion of acoustic signal returns {percent good} from the water body by acoustic doppler current profiler (ADCP) vertical beam"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PCGDAP05/2/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SphFaecPellFlux"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Trap material optical microscopy: Elder(1979) configurations: Gonzalez and Smetacek (1994) C factor"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Sedimentation flux as carbon of faecal pellets (spherical) per unit time per unit area of the water body by sediment trapping and optical microscopy and computation using stereometrical configurations of Edler(1979) and carbon factor of Gonzalez and Smetacek(1994)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/FCFXMESZ/1/"

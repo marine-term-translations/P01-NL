@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Rrs_547nm_model"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The water-leaving radiance at the specified wavelength, Lw(λ), corrected for bidirectional effects of the air-sea interface and sub-surface light field, and normalised by downwelling solar irradiance, Ed(λ), just above the sea surface (Franz, NASA Goddard Space Flight Center), as predicted by a numerical model."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Remote sensing reflectance of electromagnetic radiation (547nm wavelength) {Rrs} from the water body by model prediction"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/RRSWMP10/1/"

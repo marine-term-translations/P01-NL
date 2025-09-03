@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "ZKfdc"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Radiotracer incubation in the dark: phases split by 0.45 um pore filtration"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Distribution coefficient (dissolved plus reactive particulate <0.4/0.45um/particulate >0.4/0.45um) of zinc {Zn CAS 7440-66-6} in the water body by isotope-labelled tracer addition, incubation in the dark, filtration and gamma spectroscopy"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ZNKDRDX2/4/"

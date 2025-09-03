@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PrymnRuBisCORNAhyb"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Quantification of prymnesiophytes using molecular biological techniques that may include non-coccolithophore taxa"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Proportion of hybridised RuBisCO mRNA of Prymnesiophyceae (ITIS: 2135: WoRMS 115057) by dot blot hybridisation"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/RBHYGMPR/2/"

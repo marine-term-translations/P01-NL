@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "CriticalErosionVelocity"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The threshold velocity at which bed sediments are entrained into suspension by fluid flow, as determined via an in-situ flume experiment."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Critical erosion velocity threshold of sediment on the bed by in-situ flume experiment and computation from regression line of suspended sediment concentration versus water flow velocity"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/ERVCT001/1/"

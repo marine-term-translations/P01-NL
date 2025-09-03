@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: UreaD_<0.4/0.45um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Manual analysis using the diacetylmonoxime method of filtrate after 0.4/0.45um
+    pore filtration.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration (nM sensitivity) of urea {CAS 57-13-6} per unit volume of
+    the water body [dissolved plus reactive particulate <0.4/0.45um phase] by filtration
+    and manual analysis using the diacetylmonoxime method
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/UREAMDD2/3/

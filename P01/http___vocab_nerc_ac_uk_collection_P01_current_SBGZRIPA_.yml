@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SFBLoss"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Isotope labelled incubated filtered (1.0/0.2um Nuclepore) counted"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Grazing turnover rate (hourly) of Bacteria (ITIS: 202421: WoRMS 6) [Size: 0.2-1um] per unit time in the water body by isotope-labelled tracer addition, incubation at unspecified light level, filtration"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SBGZRIPA/1/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Hf_filt0.45um_ICPMS/kg"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Concentration of hafnium per unit mass of a fresh or salt water body determined by isotope dilution and MC-ICPMS after filtration (0.45 um filtered)"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of hafnium {Hf CAS 7440-58-6} per unit mass of the water body [dissolved plus reactive particulate <0.4/0.45um phase] by filtration, acidification, isotope dilution and inductively-coupled plasma mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/HFKG45MS/3/"

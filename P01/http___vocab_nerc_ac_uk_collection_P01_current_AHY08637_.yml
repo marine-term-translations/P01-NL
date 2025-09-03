@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Abund_BE008637
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Number (counts) of individuals from the specified biological entity normalised
+    to a unit volume of fresh or salt water.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Hyporhamphus (ITIS: 165473: WoRMS 125696) per unit volume
+    of the water body'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/AHY08637/1/

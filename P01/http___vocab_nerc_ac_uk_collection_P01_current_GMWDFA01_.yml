@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: MeanWaveDir_WRA1B1
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Calculated from 1st Order Fourier Coefficients of Directional Distribution
+    of Energy, A1 and B1
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Direction (from) mean of waves {mean wave direction} on the water body
+    by waverider and computation from 1st order Fourier coefficients of directional
+    distribution of energy, A1 and B1
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/GMWDFA01/3/

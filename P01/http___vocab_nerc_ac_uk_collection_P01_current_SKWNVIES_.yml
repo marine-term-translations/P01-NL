@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "SkewSedVis"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A text term plus URI describing the grain-size distribution skewness of the sediment by visual comparisons with definitions in theGeo-Seas Particle Size Skewness controlled vocabulary"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Description of grain-size skewness of sediment by classification to a term from the Geo-Seas Particle Size Skewness Vocabulary (SDN:GS5::)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/SKWNVIES/2/"

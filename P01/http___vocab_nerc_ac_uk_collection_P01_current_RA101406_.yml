@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Abund_BE007360
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Counts of a given biological entity identified using optical microscopy
+    normalised to a specified volume of any body of water from a puddle to an ocean.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Abundance of Climacodium biconcavum (ITIS: 2736: WoRMS 418539) per unit
+    volume of the water body by optical microscopy'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/RA101406/1/

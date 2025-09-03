@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "PresAbsSR__BE001790"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Indication of the presence (1) or absence (0) of a reaction by observed specimens of seabass to a stimulaus designed to provoke alarm."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Presence or absence of startle response following stimulus of Dicentrarchus labrax (ITIS: 170317: WoRMS 126975)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/PASR1790/1/"

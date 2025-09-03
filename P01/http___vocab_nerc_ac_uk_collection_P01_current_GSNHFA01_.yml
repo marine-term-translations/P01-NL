@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: HighSNR-WR
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Spectral signal to noise ratio (high frequency) of waves on the water
+    body by waverider
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/GSNHFA01/1/

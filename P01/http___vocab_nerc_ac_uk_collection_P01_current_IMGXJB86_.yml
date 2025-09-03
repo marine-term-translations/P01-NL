@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Abund_BE006192"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "White sponge with cylindrical main body qnd 2 ball-like projections at the top and roughly bilateral symmetry"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Abundance of Demospongiae (ITIS: 47528: WoRMS 164811) [Size: height ~15cm, diameter 5-7cm Morphology: cylindrical main body, 2 ball-like projections on top, roughly bilateral symmetry Colour: white] per unit area of the bed by image analysis"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/IMGXJB86/1/"

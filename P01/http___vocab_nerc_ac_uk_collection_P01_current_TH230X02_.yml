@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Diss_230Thxs<0.2um_/kg"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The dissolved excess Th-230 concentration refers to the measured dissolved Th-230 corrected for a contribution of Th-230 due to the partial dissolution of uranium-bearing minerals, or lithogenics. Thereby the dissolved excess represents solely the fraction of Th-230 produced in the water by decay of dissolved uranium-234. The lithogenic Th-230 has been estimated using measuring dissolved Th-232 and a lithogenic Th-230/Th-232 ratio of 4.0e-6 (atom ratio) as determined by Roy-Barman et al. (2002) and a conversion factor to convert picomoles to micro-Becquerels."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Activity of thorium-230 {230Th CAS 14269-63-7} per unit mass of the water body [dissolved plus reactive particulate <0.2um phase] by filtration, acidification and corrected for the dissolution of lithogenic minerals"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/TH230X02/1/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Depth_aRPD_SPI"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "A Sediment Profile Imaging (SPI) parameter derived from image analysis using the ImageJ software, defined as the average vertical distance below the sediment-water interface at which a discontinuity of colour is observed, providing an assessment of the average thickness of the oxygenated sediment surface layer."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Depth (spatial coordinate) mean of apparent redox potential discontinuity {aRPD} in the sediment by sediment profile imager and computation using ImageJ software"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/DPARPDIA/2/"

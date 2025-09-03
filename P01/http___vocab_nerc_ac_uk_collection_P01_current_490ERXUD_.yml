@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: Ed490
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Cosine-collector radiometer. Code with leading digit to be AVOIDED as
+    it upsets NetCDF conventions.  Use available alternative with identical full_title.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Downwelling vector irradiance as energy (490nm wavelength) in the water
+    body by cosine-collector radiometer
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/490ERXUD/2/

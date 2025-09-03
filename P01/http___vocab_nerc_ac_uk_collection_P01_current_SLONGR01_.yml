@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: 10**7*GPS+DRLon
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Dead reckoning based on GPS fixes and relative velocity sensor (em-log
+    or ADCP)
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Longitude east relative to WGS84 by dead reckoning based on GPS and em-log
+    or ADCP and multiplication by 10**7
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/SLONGR01/2/

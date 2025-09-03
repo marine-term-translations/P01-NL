@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "IntNO3upt_>GFF_MKin"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Depth integration and correction in accordance with Michaelis Menten kinetics of a set of measurements made by isotope-doped incubation experiments followed by mass spectrometric analysis of particulates collected on a GF/F filter."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Uptake rate of nitrate {NO3- CAS 14797-55-8} per day per unit area of the water body [particulate >GF/F phase] by isotope-labelled tracer addition, incubation at different light levels, filtration and mass spectrometry on residue and profile integration and correction based on Michaelis Menten kinetics"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/INNUIKP1/1/"

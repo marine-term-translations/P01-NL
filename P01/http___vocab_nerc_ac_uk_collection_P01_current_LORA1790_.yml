@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "LocRatS/B_BE001790"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The proportion of the observation period spent by specimens of seabass in the shallowest vertical division of the observation tank divided by the proportion of the observation period spent by them in the deepest vertical division of the observation tank."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Location ratio (surface/bottom) of Dicentrarchus labrax (ITIS: 170317: WoRMS 126975)"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/LORA1790/1/"

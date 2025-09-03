@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: TotOrgMat_Sed<63um
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The amount of organic matter contained in a dried subsample of sediment
+    sieved through a 63 micron sieve using a method targeting total organic matter.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration of organic matter {total organic matter} per unit dry weight
+    of sediment <63um by gravimetric determination of loss on ignition
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/STOM63BS/1/

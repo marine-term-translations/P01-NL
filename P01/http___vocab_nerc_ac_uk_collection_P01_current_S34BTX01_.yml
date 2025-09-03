@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "d34S_VCDT_biota"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The ratio of sulfur 34 relative to sulfur 32 in a biological organism identified elsewhere in the metadata, expressed in per mille and relative to the international reference standard Vienna-Canyon Diablo Troilite (VCDT)."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to VCDT of sulfur-34 {34S CAS 13965-97-4} {delta(34)S} in biota {biological entity specified elsewhere} by mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/S34BTX01/1/"

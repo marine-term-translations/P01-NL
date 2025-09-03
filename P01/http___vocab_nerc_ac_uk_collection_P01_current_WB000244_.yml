@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: WetWt_totalHg_BE007928
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: The amount (mass or moles) of the specified analyte per unit weight of
+    a fresh sample of the specified organism or part thereof.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: 'Concentration of total mercury {total_Hg CAS 7439-97-6} per unit wet
+    weight of biota {Spicara smaris (ITIS: 647991: WoRMS 126830)}'
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/WB000244/1/

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Glider_VBD_Config"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The difference between the volume of the internal variable buoyancy device (VBD) on a glider and the volume of the VBD that would maintain neutral buoyancy. If values are positive then the glider rises in the water."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Setting (volume offset from neutrally buoyant) of glider variable buoyancy device"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/VBDRCF01/1/"

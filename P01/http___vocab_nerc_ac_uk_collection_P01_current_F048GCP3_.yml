@@ -1,0 +1,19 @@
+labels:
+- name: altLabel
+  original: 20:3(n-6)>GF/C
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Unavailable
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Concentration as carbon of cis-8,cis-11,cis-14-eicosatrienoic acid {dihomo-gamma-linolenic
+    acid C20:3FA CAS 1783-84-2} per unit volume of the water body [particulate >GF/C
+    phase] by filtration and gas chromatography-mass spectrometry
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/F048GCP3/3/

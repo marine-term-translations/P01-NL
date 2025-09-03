@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "WavePeriodSpecMax_ADCP"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The reciprocal of the frequency at which the power spectral density of the surface elevation is maximal determined from orbital velocity measurements by an acoustic doppler wave array."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Period at spectral maximum of waves {peak period Tp} on the water body by acoustic doppler wave array"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/GTZMAP01/4/"

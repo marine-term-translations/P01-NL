@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "CollNi"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Difference between freon extract/AA analyses on 0.4 um pore and 10**4 Dalton filtered water"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration of nickel {Ni CAS 7440-02-0} per unit volume of the water body [colloidal >10**4 Dalton phase] by filtration, freon extraction and atomic absorption spectroscopy and differencing the results from 0.4um and 10**4 Dalton filtered water"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/NIXXFXC1/2/"

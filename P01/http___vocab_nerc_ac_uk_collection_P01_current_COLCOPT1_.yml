@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "Colour_Pt-Co"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "The colour of a water sample measured according to the Platinum-Cobalt APHA-Hazen colour scale method based on the yellow colour of a sample produced by the addition of 500 ppm of platinum-cobalt ("yellowness index")."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Colour (Pt/Co scale) of water in the water body"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/COLCOPT1/1/"

@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "d13C_carbonate_BE007336"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Enrichment of 13C relative to Vienna Pee Dee Belemnite standard (also referred to as delta-13C) in the carbonate fraction of the specified organism or part thereof."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Enrichment with respect to Vienna Pee Dee Belemnite (VPDB) of carbon-13 in carbonate {13C in CO3} {delta(13)C} in biota {Pseudocandona (ITIS: 683447) [Subcomponent: shell]} by mass spectrometry"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/C1307336/8/"

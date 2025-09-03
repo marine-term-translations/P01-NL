@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "EastOSGB36_CNav3050"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Cartesian x co-ordinate of a point relative to the Ordnance Survey Great Britain 1936 datum measured using a C-Nav3050 satellite positioning system receiver"
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Easting relative to OSGB36 by C-Nav3050 satellite positioning system receiver"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/EASTOSCN/1/"

@@ -1,0 +1,20 @@
+labels:
+- name: altLabel
+  original: Ab_SEM_BE008301
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - nl: ''
+- name: definition
+  original: Counts of a given biological entity using scanning electron microscopy
+    normalised to a specified volume of experimental water sample.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - nl: ''
+- name: prefLabel
+  original: Abundance of Thalassiosira minima (WoRMS 148925) per unit volume of the
+    experiment water sample by identification and counting by scanning electron microscopy
+    (SEM)
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - nl: ''
+uri: http://vocab.nerc.ac.uk/collection/P01/current/ATH08301/1/

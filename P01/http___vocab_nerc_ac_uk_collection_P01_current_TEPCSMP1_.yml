@@ -1,0 +1,18 @@
+
+labels:
+  - name: "altLabel"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    original: "TEP_carb_conc"
+    translations:
+      - nl: ""
+  - name: "definition"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    original: "Concentration expressed as the amount (mass or number of moles) of carbon, computed using the formula from Mari (1999), in the transparent exopolymer particles retained by a 0.4/0.45 micron filter and identified through Alcian blue staining and optical microscopy, normalised to a unit volume of water sample."
+    translations:
+      - nl: ""
+  - name: "prefLabel"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    original: "Concentration as carbon of transparent exopolymer particle per unit volume of the water body [particulate >0.4/0.45um phase] by filtration, Alcian blue staining, optical microscopy and image analysis and computation using Mari (1999) formula"
+    translations:
+      - nl: ""
+uri: "http://vocab.nerc.ac.uk/collection/P01/current/TEPCSMP1/1/"
