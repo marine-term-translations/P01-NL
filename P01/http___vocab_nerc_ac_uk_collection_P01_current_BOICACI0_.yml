@@ -3,17 +3,17 @@ labels:
   original: WetWt_CAS335-76-2_BE007121
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The wet weight concentration of the specified analyte in the specified
     organism or part thereof.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of perfluorodecanoic acid {CAS 335-76-2} per unit wet weight
     of biota {Donax trunculus (WoRMS 139602) [Subcomponent: flesh]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/BOICACI0/1/

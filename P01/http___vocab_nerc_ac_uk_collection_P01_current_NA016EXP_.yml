@@ -3,7 +3,7 @@ labels:
   original: abund_bact_BE006308_bioassay
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Number of particles resolved as bacteria cells (heterotrophic plus cyanobacteria
     if present) from the high nucleic acid content cluster (HNA) in a unit volume
@@ -11,12 +11,12 @@ labels:
     stained with SYBR Green I.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Abundance of bacteria (ITIS: 202421: WoRMS 6) [Subgroup: high nucleic
     acid cell content] per unit volume of experiment water sample by SYBR Green I
     staining and flow cytometry'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/NA016EXP/5/
