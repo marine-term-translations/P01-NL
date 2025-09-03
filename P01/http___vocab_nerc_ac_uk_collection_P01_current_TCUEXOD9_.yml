@@ -3,18 +3,18 @@ labels:
   original: PP_daily_>10um_bioassay
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The amount of carbon fixation over a day by particles larger than 10 microns
     during a bioassay experiment.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Uptake rate of carbon {C} {primary production} per day per unit volume
     of the experiment water sample [particulate >10um phase] by isotope-labelled tracer
     addition, incubation, filtration, acidification and scintillation counting
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/TCUEXOD9/1/
