@@ -3,16 +3,16 @@ labels:
   original: Hm0
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Significant wave height approximated as four times the square root of
     the first moment of the wave power spectrum
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Spectral significant wave height of waves {Hm0} on the water body
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/HMZEZZ01/2/
