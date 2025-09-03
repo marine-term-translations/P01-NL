@@ -3,18 +3,18 @@ labels:
   original: WetWt_CAS81720-10-7_tot_BE010306
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The wet weight concentration of the specified analyte in the specified
     organism or part thereof.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of dinophysistoxin-1 (total) {CAS 81720-10-7} per unit
     wet weight of biota {Glycymeris glycymeris (ITIS: 79429: WoRMS 140025) [Subcomponent:
     hepatopancreas]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/DDINOPH7/1/

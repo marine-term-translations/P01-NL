@@ -3,17 +3,17 @@ labels:
   original: WetWt_CR_MU_BE007119
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The wet weight concentration of the specified analyte in the specified
     organism or part thereof.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of chromium {Cr CAS 7440-47-3} per unit wet weight of biota
     {Scomber scombrus (ITIS: 172414: WoRMS 127023) [Subcomponent: muscle tissue]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/IC000791/1/
