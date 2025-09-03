@@ -3,16 +3,16 @@ labels:
   original: Cd_water<0.4/0.45um
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: not specified
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of cadmium {Cd CAS 7440-43-9} per unit volume of the water
     body [dissolved plus reactive particulate <0.4/0.45um phase]
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/MTWD0009/2/
