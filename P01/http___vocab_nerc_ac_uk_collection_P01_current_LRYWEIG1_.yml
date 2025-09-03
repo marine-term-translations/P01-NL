@@ -3,18 +3,18 @@ labels:
   original: Mg<0.02um_sed_pw
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The concentration of the specified analyte in sediment pore water passed
     through a 0.2um filter.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of magnesium {Mg CAS 7439-95-4} per unit volume of the sediment
     pore water [dissolved plus reactive particulate <0.2um phase] by centrifugal extraction,
     filtration, acidification and inductively-coupled plasma mass spectrometry
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/LRYWEIG1/1/

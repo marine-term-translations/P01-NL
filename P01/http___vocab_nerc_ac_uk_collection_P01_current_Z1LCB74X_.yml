@@ -3,12 +3,12 @@ labels:
   original: LNC_PCB74_BE006430
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of 2,4,4'',5-tetrachlorobiphenyl {PCB74 CAS 32690-93-0}
     per unit mass of lipids in the biota {Halichoerus grypus (ITIS: 180653: WoRMS
@@ -17,5 +17,5 @@ labels:
     (wet weight cct/lipid proportion) and weaning correction'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/Z1LCB74X/3/

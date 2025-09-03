@@ -3,17 +3,17 @@ labels:
   original: 23:0i>GF/C
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration as carbon of 21-methyldocosanoic acid {21-methylbehenic
     acid CAS 59708-74-6} per unit volume of the water body [particulate >GF/C phase]
     by filtration and gas chromatography-mass spectrometry
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/F054GCP3/3/
