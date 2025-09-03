@@ -3,16 +3,16 @@ labels:
   original: BSCO3
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Gasometric determination of acid-liberated CO2
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of carbonate {CO32- CAS 3812-32-6} per unit dry weight of
     sediment by gasometric assay of acid-liberated CO2
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CALCGAXT/2/

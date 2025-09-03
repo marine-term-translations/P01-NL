@@ -3,16 +3,16 @@ labels:
   original: Numb(sp-analyses)_BE003270
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Unavailable
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Number (of specimen analyses) of Meganyctiphanes norvegica (ITIS: 95534:
     WoRMS 110690) [Sex: female]'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/E2415394/1/

@@ -3,18 +3,18 @@ labels:
   original: SE_Mg_aerosol<1um
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The standard error of the mean (defined as the standard deviation divided
     by the square root of the sample size) of multiple determinations of the specified
     phenomenon.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration standard error of magnesium {Mg CAS 7439-95-4} per unit
     volume of the atmosphere [aerosol <1um phase] by filtration and ion chromatography
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/ACMGASE1/4/
