@@ -3,16 +3,16 @@ labels:
   original: NCCrseNorMagSus
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Wet sieving, acidification then magnetic susceptibility detector
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Magnetic susceptibility per unit dry weight of sediment 63-1000um [non-carbonate
     phase] by wet sieving, acidification and magnetic susceptibility meter
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/NMGSWSCN/2/

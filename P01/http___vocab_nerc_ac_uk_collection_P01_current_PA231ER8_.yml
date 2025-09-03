@@ -3,18 +3,18 @@ labels:
   original: SE_Part_231Pa>0.8um
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The standard error of the mean (defined as the standard deviation divided
     by the square root of the sample size) of multiple determinations of the specified
     phenomenon.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Activity standard error of protactinium-231 {231Pa CAS 14331-85-2} per
     unit volume of the water body [particulate >0.8um phase] by filtration
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/PA231ER8/4/
