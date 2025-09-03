@@ -3,18 +3,18 @@ labels:
   original: SENrmExPO4C>1000
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The standard error of the mean (defined as the standard deviation divided
     by the square root of the sample size) of multiple determinations of the specified
     phenomenon.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Production rate standard error of phosphate {PO43- CAS 14265-44-2} per
     day per unit biomass as nitrogen of biota {zooplankton [Size: >1000um]} by incubation'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/SENXNP0A/5/

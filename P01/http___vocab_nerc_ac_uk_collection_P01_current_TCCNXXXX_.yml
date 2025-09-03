@@ -3,17 +3,17 @@ labels:
   original: Sed_TotC
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: Concentration (moles or mass) of total carbon (carbon in any chemical
     form) per unit mass of bed sediment
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of total carbon {total_C CAS 7440-44-0} per unit dry weight
     of sediment
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/TCCNXXXX/3/

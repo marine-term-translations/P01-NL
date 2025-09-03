@@ -3,19 +3,19 @@ labels:
   original: Part_total_Mn>0.4/0.45_ICPMS
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The amount (mass or mole) of the specified element extracted by total
     strong acid dissolution from suspended particles retained by a 0.4-0.45um filter
     and analysed by ICP-MS.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of total manganese {total_Mn CAS 7439-96-5} per unit volume
     of the water body [particulate >0.4/0.45um phase] by filtration, acid digestion
     and inductively-coupled plasma mass spectrometry
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CTO11030/1/
