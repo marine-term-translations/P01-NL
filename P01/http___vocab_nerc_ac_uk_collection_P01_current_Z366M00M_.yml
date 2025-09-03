@@ -3,18 +3,18 @@ labels:
   original: Z366M00M
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: 'Duplicates existing code and deprecated on 30/09/2024. Definition was:
     Duplicate code as N1-6 and nauplii are synonyms.  Use version describing them
     as nauplii instead'
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Abundance of Calanoida (ITIS: 85258: WoRMS 1100) [Stage: nauplii] per
     unit volume of the water body by optical microscopy'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/Z366M00M/3/
