@@ -3,19 +3,19 @@ labels:
   original: Conc_DissBa<0.2um/kg
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The concentration of barium in a body of salt or fresh water determined
     by high resolution ICP-MS after removal of particles larger than 0.2 microns by
     filtration.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: Concentration of barium {Ba CAS 7440-39-3} per unit mass of the water
     body [dissolved plus reactive particulate <0.2um phase] by filtration, acidification
     and inductively-coupled plasma mass spectrometry
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/BA02ICP6/2/
