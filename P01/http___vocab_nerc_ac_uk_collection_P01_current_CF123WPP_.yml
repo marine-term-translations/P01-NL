@@ -3,18 +3,18 @@ labels:
   original: WetWt_PCB189_BE006656
   path: http://www.w3.org/2004/02/skos/core#altLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: definition
   original: The wet weight concentration of the specified analyte in the specified
     organism or part thereof.
   path: http://www.w3.org/2004/02/skos/core#definition
   translations:
-  - nl: ''
+  - nl: to be filled in
 - name: prefLabel
   original: 'Concentration of 2,3,3'',4,4'',5,5''-heptachlorobiphenyl {PCB189 CAS
     39635-31-9} per unit wet weight of biota {Pleuronectes platessa (ITIS: 172902:
     WoRMS 127143) [Sex: female Subcomponent: liver]}'
   path: http://www.w3.org/2004/02/skos/core#prefLabel
   translations:
-  - nl: ''
+  - nl: to be filled in
 uri: http://vocab.nerc.ac.uk/collection/P01/current/CF123WPP/1/
